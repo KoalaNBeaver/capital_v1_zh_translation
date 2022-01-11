@@ -1,0 +1,2404 @@
+1
+00:01:08,480 --> 00:01:23,900
+Yep okay okay so we should get going
+
+2
+00:01:23,900 --> 00:01:50,570
+This is the last session and I just want to remind you of something that came at the very beginning of this where Marx talks about how difficult it is to stick with this analysis and he kind of says well that he's powerless to overcome these difficulties
+
+3
+00:01:50,570 --> 00:01:58,910
+The only way I can deal with it is by forewarning and for arming those leaders who zealously seek the truth
+
+4
+00:01:58,910 --> 00:02:03,930
+There is no Royal Road to science and only those who do not dread
+
+5
+00:02:03,930 --> 00:02:30,505
+The fatiguing climb of its deep paths have a chance of gaining as luminous summits so the fact that you're all here means that you've gained the luminous summits and it'll be interesting to see what what you see from that perspective I think it's interesting to reflect One thing about this book as opposed to the other volumes of capital
+
+6
+00:02:30,505 --> 00:02:43,812
+one of the things I've always appreciated about it is though the way in which Marx changes his writing style depending upon what he's looking at
+
+7
+00:02:43,812 --> 00:03:04,650
+so sometimes he's being very kind of snicker tea about You know how much for the linen versus the coat and all those sorts of accounting things sometimes he's been tightly analytical and suddenly stops talking about the fetishism and it all becomes a bit magical and a bit mr Cole
+
+8
+00:03:04,650 --> 00:03:07,530
+And then it comes back down to earth
+
+9
+00:03:07,530 --> 00:03:15,239
+In terms of a grubby world but it's been described by the factory inspectors and then it comes back again to the theoretical level
+
+10
+00:03:15,239 --> 00:03:44,400
+And then it goes back in to the details of what's going on in the factories or what's going on in the industrial reserve army and I think that that the shift of a riding style has always intrigued me and and it's something then that after some time Of dealing with Marx's capital I kind of figured I'd try an experiment with that
+
+11
+00:03:44,400 --> 00:03:49,830
+My own work so that when I took up certain topics I would kind of say: okay
+
+12
+00:03:49,830 --> 00:04:01,560
+Well what kind of style fits this question of say the building of sacre coeur in Paris or something like that which is a much more sort of light stuffing in the limits to capital
+
+13
+00:04:01,560 --> 00:04:05,090
+It'S heavy duty theory and the like
+
+14
+00:04:05,090 --> 00:04:13,230
+So I think shifting styles is sometimes an interesting thing to do and we have a sort of convention
+
+15
+00:04:13,230 --> 00:04:20,519
+I think which is that you're supposed to select a style at the beginning and stick with it throughout whereas Marx kind of says
+
+16
+00:04:20,519 --> 00:04:46,940
+Okay I'm now talking about something else I'm going to change the style and I think it actually makes for some very interesting reading which poses then a sort of interesting question in part 8 where Marx is dealing with the so-called primitive accumulation or sometimes it's original accumulation
+
+17
+00:04:46,940 --> 00:05:07,289
+The chapters are very short we're used to you know those lengthy pages and pages and pages of historical information about you know what's going on in factories or what's going on with the industrial reserve army but suddenly he sort of has a very choppy style
+
+18
+00:05:07,289 --> 00:05:26,520
+Just two pages on this and three pages on this and four pages on that very choppy and it's kind of always intrigued me as to as to why he decided to do that and because the topic is not in itself unimportant
+
+19
+00:05:26,520 --> 00:05:32,970
+In fact it's Oh It'S a hugely important topic but he's kind of just you know
+
+20
+00:05:32,970 --> 00:05:35,849
+Ok let's take a cut at this
+
+21
+00:05:35,849 --> 00:05:37,020
+Let'S take a cut of that
+
+22
+00:05:37,020 --> 00:06:08,780
+Let'S take a cut at this and it's so much like he wants to sort of push us along in terms of what the nature of the argument is very very quickly so that we get some sort of sense of the rise of capitalism because this is a Section where he's dealing with the historical rise of a capitalist mode of production and everything that preceded it and and that as you know like I say that's not a small topic
+
+23
+00:06:08,780 --> 00:06:22,849
+If you want more information about what he feels about there are all of those issues and then one of the things I would suggest is you look at some of the chapters in Volume three of capital
+
+24
+00:06:22,849 --> 00:06:38,999
+now volume three has a lot of details about things but There is a chapter on the history of merchants capital which is relatively short and very relatively coherent there's a chapter about the history of money capital or banking and finance she's
+
+25
+00:06:38,999 --> 00:06:44,569
+Similarly so there's a history of of ground rent
+
+26
+00:06:44,569 --> 00:06:54,449
+So if you want if you if you're interested and Marx is historical understandings then you might want to go
+
+27
+00:06:54,449 --> 00:07:04,199
+Do that and they're not they're not hard to read I mean you know it's good historical writing and you get some very interesting sort of insights from reading that now
+
+28
+00:07:04,199 --> 00:07:06,479
+You can also add to that
+
+29
+00:07:06,479 --> 00:07:20,729
+If you want in that there's about two hundred and fifty pages of the grundrisse er which are also about historical materials but they're more difficult to to deal with because of the way they were they were written
+
+30
+00:07:20,729 --> 00:07:49,039
+But but these these chapters on history of merchants capital in the history of commodity and money capital own history of it actually very well worked out and and very very coherent and of course one of the things he find there is that Marx is very concerned with Showing how revolutionary the transformation was in each one of those categories
+
+31
+00:07:49,039 --> 00:08:00,419
+One of the arguments I have for example with David greatest book on history of debt which in many ways is a very interesting very good book
+
+32
+00:08:00,419 --> 00:08:12,360
+But but but Graber seems to think that debt means the same thing in ancient Sumer as it does today whereas Marx basically says no that's not the way
+
+33
+00:08:12,360 --> 00:08:20,039
+It is that that that that debt is can reconfigured through the rise of capitalism but into something very different
+
+34
+00:08:20,039 --> 00:08:36,389
+The same thing is true about land rent he will say there's a distinctively capitalist theory of land rent and you cannot go back to the feudal period and and understand contemporary land rent by looking at what's going on in in in feudal world
+
+35
+00:08:36,389 --> 00:08:39,180
+So the greatest book is actually very good
+
+36
+00:08:39,180 --> 00:09:00,590
+I think in many ways in in terms of its historical reconstruction of some of the aspects of indebtedness but fails I think to take up the whole kind of question of the revolutionary transformation of what this debt is about
+
+37
+00:09:00,590 --> 00:09:11,510
+But quite simply there was no debt marketed in ancient Sumer people were weren't buying and selling debt
+
+38
+00:09:11,510 --> 00:09:14,400
+It was there and so for the forgiving
+
+39
+00:09:14,400 --> 00:09:26,600
+The debt was a different story in ancient Sumer and having Jubilees I'm on debt with a different sort of story than then there will be possible in in contemporary conditions
+
+40
+00:09:26,600 --> 00:09:50,130
+So Marx is here dealing with the historical origins and the historical origins are significant because if you go back to page 273 you find the marks in that
+
+41
+00:09:50,130 --> 00:10:11,810
+So this is the chapter where Marx was talking about that sale and purchase of labour-power and he poses this question why this free worker confronts him in the sphere of circulation colossal
+
+42
+00:10:11,810 --> 00:10:29,930
+Why this free worker confronts him in the Syria circulation is a question which does not interest the owner of money for he finds the labor market in existence as a particular branch of the commodity market and for the present it interests us just as little
+
+43
+00:10:29,930 --> 00:10:34,770
+We confine ourselves to the fact theoretically as he does practically
+
+44
+00:10:34,770 --> 00:10:46,040
+One thing however is clear: nature does not produce on the one hand owners of money or commodities and on the other hand men possessing nothing but their own labor power
+
+45
+00:10:46,040 --> 00:10:55,360
+This relation has no basis in Natural History nor does it have a social basis common to all periods of human history
+
+46
+00:10:55,360 --> 00:11:09,180
+It is clearly the result of a past historical development the product of many economic revolutions of the extinction of a whole series of older formations of social production
+
+47
+00:11:09,180 --> 00:11:25,660
+So Marx is here kind of saying you know I'm dealing with a situation where I imagine there's a fully fledged labor market there I'm looking at the way in which the capitalist goes into that labor market picks up workers and you know starts to employ them in
+
+48
+00:11:25,660 --> 00:11:42,820
+In production processes but he kind of says the fact that they're there and that there's a labor market there is a historical product and so in some ways what he's now doing is is going back to this thing and saying because it didn't interest us back here
+
+49
+00:11:42,820 --> 00:11:51,089
+How it is of interest and therefore we're going to have to look at the way in which it is a historical product
+
+50
+00:11:51,089 --> 00:12:27,347
+Now the the opening of this considerations on on primitive accumulation contrasts the sort of story which the political economists were spinning in their own work As to how labor power came to be a commodity and how it came to how the labor market came to be and
+
+51
+00:12:27,347 --> 00:12:38,859
+Marx's comment on that is primitive accumulation in their thinking plays approximately the same role in political economy as original sin does in theology
+
+52
+00:12:38,859 --> 00:12:49,560
+long long Ago there were two sorts of people he says one the diligent intelligent and above all frugal elite
+
+53
+00:12:49,560 --> 00:12:54,839
+The other lazy Rascals spending their substance and more in riotous living
+
+54
+00:12:54,839 --> 00:13:02,520
+The legend of theological original sin tells us is certainly how man came to be condemned to eat his bread in the sweat of his brow
+
+55
+00:13:02,520 --> 00:13:10,320
+But the history of economic original sin reveal this to us that there are people to whom this is by no means essential
+
+56
+00:13:10,320 --> 00:13:22,080
+Nevermind thus it came to pass that the former sort accumulated wealth the frugal people accumulated wealth and the latter sort finally had nothing to sell except their own skins
+
+57
+00:13:22,080 --> 00:13:35,300
+And when this original sin dates the poverty of the great majority who despite all the labor have up to now nothing to sell but themselves and the wealth of the few that increases constantly although they have long ceased to work
+
+58
+00:13:35,300 --> 00:13:40,370
+So this is the story as it were
+
+59
+00:13:40,370 --> 00:13:53,767
+It happened because you know some people was frugal and some people you know we're being irresponsible and irresponsible people needed to live so in the end they worked for the frugal people So that's the way it worked
+
+60
+00:13:53,767 --> 00:13:59,350
+and of course there's a long history of this way of thinking
+
+61
+00:13:59,350 --> 00:14:36,770
+and in this chapter we find Marx actually in a way acting as a precursor to Max Weber Max Weber kind of saying you know there was a great deal To the Protestant ethic had a lot to do with the rise of capitalism and so Weber saw the rise of capitalism as the Protestant ethic which was about frugality and restraint and sort of delayed gratification and all the rest of it
+
+62
+00:14:36,770 --> 00:14:45,240
+Responsible kind of stewardship of money and the like so so Max Weber kind of turned this whole thing
+
+63
+00:14:45,240 --> 00:14:50,540
+What Marx is saying you know: that's the joke it's not how it worked at all
+
+64
+00:14:50,540 --> 00:15:06,780
+It wasn't just simply that we have frugal people around in natural history says it is a notorious fact: the conquest enslavement robbery murder and shortfalls play the greatest part in the tender annals of political economy
+
+65
+00:15:06,780 --> 00:15:11,940
+The idyllic reigns from time immemorial right and labor were from the beginning of time
+
+66
+00:15:11,940 --> 00:15:17,610
+The sole means of enrichment this year of course always accepted as a matter of fact
+
+67
+00:15:17,610 --> 00:15:26,139
+The methods of primitive simulation not anything but a Dilek and then of course he's going to go on and talk about
+
+68
+00:15:26,139 --> 00:15:35,560
+You know various incidents and aspects of the primitive accumulation but one of the questions I think it might be worthwhile asking
+
+69
+00:15:35,560 --> 00:15:41,819
+Is this a historically true story that Marx is telling was it always about
+
+70
+00:15:41,819 --> 00:15:51,339
+You know sort of violence robbery murder and the like and I think the answer would be well
+
+71
+00:15:51,339 --> 00:16:03,940
+It wasn't always like that but a lot of the time it was and one of the things is I think important here is to kind of say
+
+72
+00:16:03,940 --> 00:16:12,805
+Well you know what is it that Marx is looking at to tell us his version of what primitive accumulation was All about
+
+73
+00:16:12,805 --> 00:16:22,810
+and he says here - free workers in a double sense - that they neither form part of the means of production themselves as would be the case with slave serfs etc
+
+74
+00:16:22,810 --> 00:16:27,810
+Nor do they own the means of production as would be the case with self-employed peasant proprietors
+
+75
+00:16:27,810 --> 00:16:38,529
+The free workers are therefore free from unencumbered by any means of production of their own with the polarization of the commodity markets into these two classes
+
+76
+00:16:38,529 --> 00:16:42,810
+The fundamental conditions of capitalist production are present
+
+77
+00:16:42,810 --> 00:16:51,029
+The capital relation presupposes a complete separation between the workers and the ownership of the conditions of the realization of their labor
+
+78
+00:16:51,029 --> 00:17:01,889
+As soon as capitalist production stands up on its own feet it not only maintains this separation but reproduces it on a constantly extending scale
+
+79
+00:17:01,889 --> 00:17:12,299
+The process therefore which creates the capital relation could be nothing other than the process which divorces the worker from the ownership of the conditions of his own labour
+
+80
+00:17:12,299 --> 00:17:32,860
+It is a process which operates two transformations whereby the social means of subsistence and production are turned into capital and the immediate producers are turned into wage labourers primitive accumulation their force nothing else than the historical process of divorcing the producer from the means of production
+
+81
+00:17:32,860 --> 00:17:40,620
+It appears as primitive because it forms the prehistory of capital and of the mode of production corresponding to capital
+
+82
+00:17:40,620 --> 00:17:48,360
+So he then talks about the emancipation of the work of the of the serfs
+
+83
+00:17:48,360 --> 00:18:03,630
+The way in which the retainers of the feudal States were released and talking about also could be talking also about the enclosure of the Commons
+
+84
+00:18:03,630 --> 00:18:10,830
+The expropriation of the agricultural producer he says at the end of the peasant from the soil is the basis of the whole process
+
+85
+00:18:10,830 --> 00:18:28,169
+The history of this expropriation assumes different aspects in different countries so here he is conceding that those may be different stories to be told depending upon where you are and run through its various phases in different orders of orders of succession and at different historical epochs
+
+86
+00:18:28,169 --> 00:18:48,510
+Only in England which we therefore take as our example has it the classic form now a little bit of a problem with this by saying that there's a classic form that is is he setting up the English case as being if you like the classic form the Norm against which everything else is going to be judged
+
+87
+00:18:48,510 --> 00:19:02,110
+He got some criticism from this from various people various times for the Russians and and the like and later on he kind of conceded that he shouldn't have actually selected England as the classic form
+
+88
+00:19:02,110 --> 00:19:16,389
+He should have said that well it happened this way in England but it also happened at some other way in France and another way in Russia and another way somewhere else so that he becomes much more sort of geographically sensitive
+
+89
+00:19:16,389 --> 00:19:29,649
+If you like about how this process of primitive accumulation works depending upon where you were later on and he didn't kind of say okay the only one I have to look at is the classic form which is the English one
+
+90
+00:19:29,649 --> 00:19:36,899
+But what we're largely going to get here is of course the English one and he did write
+
+91
+00:19:36,899 --> 00:19:45,510
+You know fairly late in his life that he sort of he didn't exactly apologize Marx fairly apologized but he kind of said well yeah
+
+92
+00:19:45,510 --> 00:20:04,663
+I should have recognized that primitive accumulation occurred in diverse ways into I verse places and that therefore I should not have treated in the Western version as it were as as the only version
+
+93
+00:20:04,663 --> 00:20:13,377
+so chapter 27 then talks about the expropriation of the agricultural population from the Land - and this is done by illegal means
+
+94
+00:20:13,377 --> 00:20:43,556
+and also by legal means and part of the story here - is the way in which illegal activity of dispossessing peasants from access to the land gets paralleled eventually by by bypassing of laws and legal strategies which legalize these Processes of expropriation
+
+95
+00:20:43,556 --> 00:21:10,346
+and he talks about the some of the the struggles that have gone on with between the peasantry and the state between the peasantry and those who are seeking to expropriate the the resources that the peasants utilized to reproduce their own conditions of labour And life
+
+96
+00:21:10,346 --> 00:21:18,980
+and interestingly however the the initial laws were against expropriation
+
+97
+00:21:18,980 --> 00:21:35,360
+There was an attempt in the early years to prevent the expression of more monetization and commodification and the expropriation of of the peasantry
+
+98
+00:21:35,360 --> 00:21:51,500
+So he talks about the the legislation under Henry the seventh which was very much about trying to prevent the illegalities which was going on and to legislate against it
+
+99
+00:21:51,500 --> 00:22:06,110
+But then he can assess the actual process of expropriation became so widespread that it was very difficult to find a legal framework that could actually prevent it happening
+
+100
+00:22:06,110 --> 00:22:16,440
+And what in effect happens is that there is this general expropriation going on which is of the peasantry
+
+101
+00:22:16,440 --> 00:22:32,000
+But then that is added to as he and as he says on 881 the process of forcible expropriation of the people received a new and terrible impulse in the sixteenth century from the Reformation the consequent colossal spoliation of church property
+
+102
+00:22:32,000 --> 00:22:38,399
+The Catholic Church was at the time of the Reformation the feudal proprietor of a great part of the soil of England
+
+103
+00:22:38,399 --> 00:22:43,950
+The dissolution of the monasteries which is Henry the eighth's great contribution to this hurled
+
+104
+00:22:43,950 --> 00:23:01,080
+Their inmates into the proletariat the estates of the church which a large extent given away to rapacious royal favorites or sold at a nominal price to speculating farmers and townsman who drove out the old established head of hereditary sub-tenants in great numbers and through their holdings together
+
+105
+00:23:01,080 --> 00:23:18,929
+So this is something that is going on and it's there's this footnote which I hope you had did take a look at on page 8a t2 which is footnote 9 where Marx is here actually taking on the question
+
+106
+00:23:18,929 --> 00:23:28,980
+The spirit of Protestantism may be seen from the following among other things and he talks about the way in which the spirit was not about frugality at all
+
+107
+00:23:28,980 --> 00:23:46,309
+It was about austerity and for the the peasantry and austerity for the for the for the populations and treating the people people through the Poor Laws and things like that and very punitive ways and in fact sending them sending people to jail
+
+108
+00:23:46,309 --> 00:23:54,480
+He talks down the bottom of this long footnote that you could
+
+109
+00:23:54,480 --> 00:24:08,190
+There was legislation that would enable the parish to contract with a person to lock up and work the poor and to declare that if any persons were refused to be so locked up and worked he shall be entitled to no relief
+
+110
+00:24:08,190 --> 00:24:29,040
+So when poor people looking for relief they had to actually in a sense agree to be imprisoned and and there's a long theme here which is about the incarceration politics in relationship to the the lower classes which of course is still with us As a big issue
+
+111
+00:24:29,040 --> 00:24:36,930
+And in in our own society so there's this this
+
+112
+00:24:36,930 --> 00:24:56,160
+This story which is going on of the the gradual over two centuries the expropriation of the agricultural population in which after the restoration of the Stuart's the landed proprietors carried out by legal means an ax act of usurpation which was effective elsewhere on the continent
+
+113
+00:24:56,160 --> 00:25:03,300
+Without any legal formality they're bullish the feudal tenure of land that got rid of all its obligations to the state
+
+114
+00:25:03,300 --> 00:25:10,080
+Indemnified the state by imposing taxes on the peasantry and the rest of the people established themselves
+
+115
+00:25:10,080 --> 00:25:21,140
+The rights of modern private property and estates to which they had the only title then came the Glorious Revolution which brought power william of orange
+
+116
+00:25:21,140 --> 00:25:29,250
+But this is I think now an interesting passage which we ought to think about the landed and capitalist profit grubbers
+
+117
+00:25:29,250 --> 00:25:46,070
+They inaugurated the new era by practicing on a colossal scale the thefts of state lands which had hitherto been managed more modestly the estate these estates were given away sold at ridiculous prices or even annexed to private estates by direct seizure
+
+118
+00:25:46,070 --> 00:25:50,040
+All this happened without the slightest observance of legal etiquette
+
+119
+00:25:50,040 --> 00:26:05,006
+The crown lands are fortunately appropriated together with the stolen church estates and it's as far as they were not lost again during the republican revolution form the basis of the present princely domain of the English oligarchy
+
+120
+00:26:05,006 --> 00:26:23,120
+and then he talks about the new landed aristocracy on The next page the natural ally of the new Bangkok recei have newly hatched high finance and are the large manufacturers at that time dependent on protective duties
+
+121
+00:26:23,120 --> 00:26:29,310
+The English bourgeoisie acted quite as wisely in his own interest of the Swedish burger suit
+
+122
+00:26:29,310 --> 00:26:38,420
+At the opposite hand in hand with the bulwark of the economic strength the peasantry they helped the kings in their forcible resumption of the crown lands
+
+123
+00:26:38,420 --> 00:27:00,890
+Communal property gets usurped forcibly and gets turned over from arable land into pasture land which which means you know the whole agrarian economy is being transformed and by the time we get to the 18th century
+
+124
+00:27:00,890 --> 00:27:10,730
+The law itself now becomes the instrument by which the people's land is stolen although the big farm has made use of their little independent methods as well
+
+125
+00:27:10,730 --> 00:27:28,860
+That stealing was the enclosure Act which enclosed the common lands and turned the lands into private property which was going to be held by the people now what's what's interesting about this again is is two things
+
+126
+00:27:28,860 --> 00:27:43,140
+First as I've mentioned volume 1 makes all kinds of assumptions about the nature of the social structure within which capital accumulation is occurring
+
+127
+00:27:43,140 --> 00:28:02,660
+You really have two class situation: capital labor they're in relationship to each other they're producing each other; and so that's the kind of framework and there's no problem of realization and there's no problem of getting wage labor and there's no problem for getting getting resources
+
+128
+00:28:02,660 --> 00:28:17,874
+But here you have a picture of the prior situation in which there are actually many economic agents involved
+
+129
+00:28:17,874 --> 00:28:47,997
+and what in effect is a vast conspiracy to defraud and and and expropriate the peasantry and to instantiate a regime of private property on the land which is which is exclusionary and which is also About its monetized and commodified and therefore has a very special kind of character
+
+130
+00:28:47,997 --> 00:28:57,940
+and what this does is to create an economy of a certain sort - and he says has a very interesting kind of line
+
+131
+00:28:57,940 --> 00:29:11,169
+He says the eighteenth century however did not yet recognize as fully as the 19th the identity between the wealth of the nation and the poverty of the people
+
+132
+00:29:11,169 --> 00:29:16,759
+This is a very interesting formulation which I often resort to myself
+
+133
+00:29:16,759 --> 00:29:43,490
+When you know people talk about well how how well is New York doing these days or something and the classic answer would be well actually New York's New York's doing extremely well economically it's just the people are doing very badly and that's frequently the case and actually I remember I was in Brazil once when the president of Brazil came wrong said you know we've had this kind of economic miracle in Brazil and the country's done extremely well
+
+134
+00:29:43,490 --> 00:29:55,639
+The problem is that people are doing very badly and it seems that it's often that is often the way and of course that's what austerity politics is about is actually allowing that
+
+135
+00:29:55,639 --> 00:30:07,124
+But the country is doing very well but the people are actually suffering under a regime of intense austerity
+
+136
+00:30:07,124 --> 00:30:18,684
+and but this is something that this is very important for understanding the dynamics of capital and you can see it back in the chapter of course on the industrial Reserve army
+
+137
+00:30:18,684 --> 00:30:40,837
+because the larger and more weighty the industrial reserve army is the lower the wage rates likely to be the higher the rate of profit and the more wealth and power is accumulated in the top echelon of society and the more apparently the society will appear To be affluent and and appear to be doing extremely well
+
+138
+00:30:40,837 --> 00:30:50,440
+so this relationship between wealth and poverty and the class relation across it is something which is actually built in to Marx his account
+
+139
+00:30:50,440 --> 00:31:01,250
+The other thing of course is: is they own 889 Marx
+
+140
+00:31:01,250 --> 00:31:14,720
+Then Turks talks to the following kind of thing: historical peace of mind with which the political economists regards the most shameless violation of the sacred rights of property and the grossest acts of violence against persons
+
+141
+00:31:14,720 --> 00:31:16,520
+As soon as they are necessary
+
+142
+00:31:16,520 --> 00:31:24,860
+In order to lay the foundations of the campus mode of production is shown by Sir FM Eden who is moreover torreón philanthropic
+
+143
+00:31:24,860 --> 00:31:46,850
+In his political covering locks locks big contribution was to say the private property rests and and and and depends upon people mixing their labor with the land and there's a sacred right that attaches to that in the Lockean theory
+
+144
+00:31:46,850 --> 00:31:53,090
+But so the big problem is: how could you justify expropriating the peasantry
+
+145
+00:31:53,090 --> 00:31:56,840
+That'S mono mixes labour with the land
+
+146
+00:31:56,840 --> 00:32:13,664
+Why aren't they were very the ones who have all over the rights and at this point Marxist is kind of saying well you know this is the hypocrisy which was very much about this What primitive accumulation was all about
+
+147
+00:32:13,664 --> 00:32:24,440
+and that hypocrisy is most wonderfully set up by the Duchess of Sutherland and Highland Clearances and and so on
+
+148
+00:32:24,440 --> 00:32:32,893
+and he's got this wonderful kind of example that the Duchess of Sutherland was getting rid of everybody off the land
+
+149
+00:32:32,893 --> 00:32:52,435
+and was In a savage kind of way at the same time as she welcomed mrs Beecher Stowe or threats of Uncle Tom's Cabin and and professed some sort of sympathy with the plight of black slaves
+
+150
+00:32:52,435 --> 00:32:58,200
+ when in fact she herself was actually driving people off the land
+
+151
+00:32:58,200 --> 00:33:08,980
+So the expropriation of the agricultural population has this long history but then chapter 28 is a query ship a short one where he says
+
+152
+00:33:08,980 --> 00:33:11,409
+Basically okay you drove all these people off the land
+
+153
+00:33:11,409 --> 00:33:12,700
+Then what did you do to them
+
+154
+00:33:12,700 --> 00:33:29,049
+Ah you then blamed them for being bag of bones and impoverished and you passed legislation which basically incarcerated them and started to actually them You know
+
+155
+00:33:29,049 --> 00:33:29,950
+So again we get this
+
+156
+00:33:29,950 --> 00:33:40,740
+The incarceration politics which starts to come here these men Mises he says on open a 28
+
+157
+00:33:40,740 --> 00:33:48,220
+These men suddenly dragged from their accustomed mode of life could not immediately adapt themselves to the discipline of their new condition
+
+158
+00:33:48,220 --> 00:33:58,559
+They were turned in massive quantities into beggars robbers and vagabonds partly from inclination in most cases under the force of circumstances
+
+159
+00:33:58,559 --> 00:34:17,379
+The fathers of the present working class were chastised fuller enforced transformation and tobacco bonds and paupers legislation treated them as voluntary criminals and assumed that it was entirely within their powers to go on working under the old conditions which in fact no longer existed now
+
+160
+00:34:17,379 --> 00:34:24,990
+It'S again this there's a long history of this and I think it's important to to register it
+
+161
+00:34:24,990 --> 00:34:47,870
+that the criminalization of unemployed people the criminalization of populations who've been if in effect dispossessed and thrown to one side is not something which belongs simply to the silver 17th And 18th centuries it's something which is with us today
+
+162
+00:34:47,870 --> 00:34:54,169
+and I think that we have to take account of that
+
+163
+00:34:54,169 --> 00:35:04,440
+So this chapter on bloody legislation against the expropriated since the end of the 15th century and the forcing down of wages by Act of Parliament
+
+164
+00:35:04,440 --> 00:35:18,715
+The first parliamentary legislation on wages was was not about legislating the length of working day It was about you know bringing wages down the statute of labourers
+
+165
+00:35:18,715 --> 00:35:38,184
+and also you were also gon na - have legislation against trade unions against workers combinations which are treated as he says on 901 as heinous crimes from the 14th century until 1835 the year of the repeal Of the laws against combinations
+
+166
+00:35:38,184 --> 00:35:48,738
+so well we know the social process throws these people off the land gives them no visible means of existence
+
+167
+00:35:48,738 --> 00:36:02,149
+and then says it's their fault that they're there they're the bag of bones and unemployed and they're therefore have to be treated as Criminals and incarcerated
+
+168
+00:36:02,149 --> 00:36:29,230
+chapter 29 Well that's about the genesis the capitalist farmer and it's about it's just two pages long more or less on the agricultural level revolution is was very much about trying to bring capital onto the land convert the great landed proprietors into landed capitalists
+
+169
+00:36:29,230 --> 00:36:38,140
+So this conversion is not very well analyzed here but you'll get it in volume three and the volume trees about the origination of land rent and all the rest of it
+
+170
+00:36:38,140 --> 00:36:49,007
+But Marx is very well aware that the Agricultural Revolution which was going to raise productivity on the land was a very important precursor for the Industrial Revolution
+
+171
+00:36:49,007 --> 00:37:19,859
+and that this was there for something that was part and parcel of this original accumulation because productivity on The land had to be increased if there was going to be enough in the way of food supply to support a regular working working class that was fully employed as opposed to a class that was incarcerated in poor houses
+
+172
+00:37:19,859 --> 00:37:41,890
+And that then leads into chapter 30 which is impact of Agricultural Revolution on industry creation of the home market for industrial capital - and this is this - is a continuation of the argument before that
+
+173
+00:37:41,890 --> 00:38:11,440
+The Augusta the Agricultural Revolution created the the home market and her market therefore allowed industrial capital to satisfy new new social needs but would be we're going to be sort of set up so the creation of the internal market became a significant again
+
+174
+00:38:11,440 --> 00:38:25,790
+This is specific to Britain and then capitalist agriculture interacts very much with industry as he says right towards the end of the this
+
+175
+00:38:25,790 --> 00:38:35,180
+A consistent fountain is 9:12 consistent foundation for campus agriculture could only be provided by large-scale industry in the form of machinery
+
+176
+00:38:35,180 --> 00:38:49,000
+It is large-scale industry which radically expropriate the vast majority of the agricultural population and completes the divorce between agriculture and rural domestic industry tearing up the ladders roots which are spinning and weaving
+
+177
+00:38:49,000 --> 00:38:53,420
+It therefore also conquers the entire home market for industrial capital
+
+178
+00:38:53,420 --> 00:38:59,300
+For the first time Marx is here anticipating the industrialization of Agriculture
+
+179
+00:38:59,300 --> 00:39:07,848
+It took a long time to industrialize really most agriculture and he got industrialized after 1945
+
+180
+00:39:07,848 --> 00:39:20,349
+but then it came fairly late but Marx is actually saying very much that machinery starts to be significant and of course the first combine harvesters and things like that were just beginning To be discussed
+
+181
+00:39:20,349 --> 00:39:45,520
+all kinds of new machinery for tilling the soil and on the like were also becoming available and then in chapter 31 we got a very brief analysis of genesis of industrial capitalists
+
+182
+00:39:45,520 --> 00:40:06,590
+But here he's gon na introduce some of the themes which exist in the Communist Manifesto which is the the genesis of the industrial capitalists was something which was going to be revolutionized but revolutionized
+
+183
+00:40:06,590 --> 00:40:42,369
+Because of certain transformations that were occurring in the world market and as he says at the opening here the snail's pace of advance under this method by no means correspondent with the commercial requirements of the new world market which had been created by the great discoveries by The end of the 15th century but the middle ages have handed down two distinct forms of capital which ripened in the most varied economic formations of society and which before the era of the capital production devilís function is capital usurers capital and Merchants capital
+
+184
+00:40:42,369 --> 00:41:03,770
+So these are the two forms which start to reconfigure economic or political power by partly because money capital formed by means of usury and commerce was prevented from turning into industrial capital by the feudal organization of the countryside and the guild organization
+
+185
+00:41:03,770 --> 00:41:13,070
+For this reason the new manufactures were established at seaports or at points in the countryside which were beyond the control of the old municipalities and their gills
+
+186
+00:41:13,070 --> 00:41:27,790
+Hence in England the bitter struggle of the corporate towns against these new seed beds of industry industrial development in the Industrial Revolution occurred in small villages with names like Manchester and Birmingham and so on
+
+187
+00:41:27,790 --> 00:41:36,980
+It could not get established in places like Norwich and Bristol which had in your concern which had corporatist forms of government
+
+188
+00:41:36,980 --> 00:41:42,910
+Well there were there were bush were but they were bourgeois medieval merchants capitalists
+
+189
+00:41:42,910 --> 00:41:55,580
+The the wage labor force was was guild organized and and trained that therefore monopoly power in those in those cities
+
+190
+00:41:55,580 --> 00:42:00,800
+We kept was very important to break through but you couldn't do it as an industrialist
+
+191
+00:42:00,800 --> 00:42:12,770
+You tried to set up an industry and in one of these towns like Bristol or bath or or Norwich you wouldn't we wouldn't be able to get anywhere
+
+192
+00:42:12,770 --> 00:42:16,190
+So what you had to do is you had to go to greenfield sites
+
+193
+00:42:16,190 --> 00:42:29,770
+You have to go to some village where there was no power structure and therefore you would set up and and actually it's interesting about the whole history of capital and relationship to social and political organization
+
+194
+00:42:29,770 --> 00:42:42,950
+One of the things in this country you notice is that a lot of automobiles when I start automobile sector kind of Detroit was too well organized so it goes to Tennessee or it goes to Alabama
+
+195
+00:42:42,950 --> 00:42:50,410
+It goes to or those kinds of places where there's no organization is going to - they really prevent it
+
+196
+00:42:50,410 --> 00:42:59,591
+so that the the seeking out of greenfield sites becomes part and parcel of the industrial strategy
+
+197
+00:42:59,591 --> 00:43:28,412
+and Marx is talking about that there but he's also talking about the Rise of a new form you know an expansion of monetization through primitive accumulation which is going to be going on through colonies the national debt the modern tax system the system of protection
+
+198
+00:43:28,412 --> 00:43:41,863
+these methods he says on 915 depended power on brute force for instance the Colonial system but they all employ the power of the state the concentrated an organized force of society to hasten as in a hot house
+
+199
+00:43:41,863 --> 00:44:00,410
+the process of transformation of feudal mode of production into a capitalist mode and to shorten the transitions forces Marx is the Midwife of Every old society which is pregnant with a new one it is itself an economic power
+
+200
+00:44:00,410 --> 00:44:18,259
+This leads of course to a very interesting kind of way of thinking as the mark starts to propose but actually some of the techniques which were involved in in in the West
+
+201
+00:44:18,259 --> 00:44:33,880
+Indian plantation cultivations were very important in terms of developing the the kinds of capacities that were necessity necessary to run a factory system back in Britain
+
+202
+00:44:33,880 --> 00:44:45,410
+In other words the colonies were a so teething ground for certain managerial practices and as colonies
+
+203
+00:44:45,410 --> 00:45:00,319
+The West Indian plantation system was in in a sense a kind of an agrarian large-scale factory which had to be managed as a as a coherent entity
+
+204
+00:45:00,319 --> 00:45:23,900
+Nobody had experience of doing that and in the large factories it eventually came to be the case in Britain but some of the experience that came from the West Indies so that the colonial system had an importance both in terms of undermining the feudal power
+
+205
+00:45:23,900 --> 00:45:43,180
+And you know this is something which is very important to the counter in the Communist Manifesto where Marx sort of talks about the way in which capital merchants capital couldn't get a hold couldn't get past the feudal system on the land itself
+
+206
+00:45:43,180 --> 00:45:49,249
+So basically what merchants capital did was to go out beyond and it used it
+
+207
+00:45:49,249 --> 00:46:00,049
+It'S mobility and its power global power to actually undermine the feudal power which was land-based and barely fairly stagnant and static
+
+208
+00:46:00,049 --> 00:46:22,847
+So if you have a mobile geographical power which is actually accumulating wealth as it moves versus a static power base and the static flower base is likely in the end to be undermined and so Marx is telling this story here about this
+
+209
+00:46:22,847 --> 00:46:30,006
+which meant bad industrial supremacy Brings with it commercial supremacy
+
+210
+00:46:30,006 --> 00:46:39,724
+in the period of manufacture it is the reverse: commercial supremacy produces industrial predominance
+
+211
+00:46:39,724 --> 00:47:05,580
+and then he talks about the system of public credit remove national debt and this is a again the beginnings of the transformation of a finance capital and debt and All the rest of it into the very distinctively capitalist mode of indebtedness the modern doctrine
+
+212
+00:47:05,580 --> 00:47:28,910
+He says that a nation becomes the richer the more deeply it is in debt public credit becomes the Credo of capital and with the rise of national debt making lack of faith in the national debt takes the place of the sin against the holy ghost for which There is no forgiveness the public debt becomes one of the most powerful levers of primitive accumulation
+
+213
+00:47:28,910 --> 00:47:33,960
+Again this is something about this very you know didn't exist in ancient Sumeria
+
+214
+00:47:33,960 --> 00:47:45,847
+The public debt then is carried over,
+
+215
+00:47:45,847 --> 00:48:03,848
+read this out: as with the stroke of an enchanters wand it endow unproductive money with the power of creation and thus turns it into capital without forcing it to expose itself to the troubles and risks inseparable from its employment in Industry or even in usury
+
+216
+00:48:03,848 --> 00:48:17,119
+the state's creditors actually give nothing away for the Sun Lent is transformed into public bonds easily negotiable which go on functioning in their hands just so much as much hard cash would
+
+217
+00:48:17,119 --> 00:48:29,430
+But furthermore on quite apart from the class of idle Ron tears thus created the improvised wealth of the financier who played the role of middleman between the government in the nation and a tax farmers Merchants
+
+218
+00:48:29,430 --> 00:48:36,619
+A private manufacturers for whom a good part of every national loans performs a service or a capital fallen from heaven
+
+219
+00:48:36,619 --> 00:48:46,260
+Apart from all these people the national debt has given rise to joint stock companies the dealings in negotiable effects of all kinds and a speculation
+
+220
+00:48:46,260 --> 00:49:00,930
+In a word it has given rise to stock exchange gambling and the modern Bangkok recei here were looking at a revolutionary transformation which is not a subject of discussion throughout the rest of Volume one
+
+221
+00:49:00,930 --> 00:49:11,010
+This is the kind of thing that gets discussed in volume three of capital and 920
+
+222
+00:49:11,010 --> 00:49:23,995
+The accumulation of the national debt has no more infallible measure than the successive rise in the stocks of these banks whose full development dates from the founding of the Bank of England In 1694
+
+223
+00:49:23,995 --> 00:49:46,390
+Bank of England 1694 terribly important transformative moment in the way in which indebtedness was organized and if you want to sort of say ok how are we going to look at this kind of the rise of indebtedness and the rise of a debt system and Sort of it of a capitalist debt system
+
+224
+00:49:46,390 --> 00:50:01,700
+of one of the focal points would be the constitution of the Bank of England in 1694 which I would always characterized as being the creation of what I call the state finance Nexus
+
+225
+00:50:01,700 --> 00:50:21,020
+The Bank of England is not a state institution it is a pinnacle of the banking system but it is the pinnacle of the banking system which is supposed to supervise the whole banking system and at the same time it is under state Charter
+
+226
+00:50:21,020 --> 00:50:35,289
+So state power is embedded in it and state has some relationship to the Bank of England that is typically subjected to the Treasury Department of the state apparatus
+
+227
+00:50:35,289 --> 00:50:44,233
+So when you put the Treasury Department of the state apparatus and the Bank of England together you get this kind of state finance Nexus
+
+228
+00:50:44,233 --> 00:51:08,986
+and this is a state finance starting to become terribly important particularly during these years because of the wars that Were being fought and you needed to finance the wars how are you going to finance the wars you're gon na get bankrupt you had to borrow money in order to certify prosecute the war
+
+229
+00:51:08,986 --> 00:51:29,150
+so you get a militaristic finance state apparatus which is trying to manage his finances to fight that will fight the war at the same time is having to borrow and has to borrow from the pinnacle of the banking system which is the Bank of England
+
+230
+00:51:29,150 --> 00:51:40,069
+So the Bank of England riddle and the British Treasury become if you like the the Nexus which is which is when I say so Nexus doesn't mean it It works smoothly
+
+231
+00:51:40,069 --> 00:51:52,880
+In fact they can often be at loggerheads but there's still the case today I mean in the United States when there was all this problem in 2008 who came together to sort it all out Well it was
+
+232
+00:51:52,880 --> 00:51:59,047
+It was a Ben Bernanke of the Federal Reserve and Hank Paulson the secretary of the Treasury
+
+233
+00:51:59,047 --> 00:52:09,467
+and I just sat down in a room and said here we are This is what we're gon na do and that's where you saw the state finance Nexus in in in in motion
+
+234
+00:52:09,467 --> 00:52:16,411
+and what you see Marx doing here is to kind of say: okay this is the formation of the Bank of England it's a crucial moment
+
+235
+00:52:16,411 --> 00:52:23,170
+ it's gon na can be connected also to finance to the financial aspects of the state apparatus
+
+236
+00:52:23,170 --> 00:52:43,470
+Even though he's not really doing it much great detail with that the writings of the time he says show what effect was produced on their contemporaries by the sudden emergence of this brood of Bangkok rats finance here's Ron tears brokers stock jobless etc
+
+237
+00:52:43,470 --> 00:52:56,530
+So this the formation of all of these characters along with the national debt - and he then goes on to say wasn't only international debt
+
+238
+00:52:56,530 --> 00:53:30,609
+It was also an international credit system so that you'll find the bankers like the Rothschilds in Europe would have kind of international connections right across Europe and would actually you know have tremendous political and economic power and finance capital is actually the most liquid form of capital
+
+239
+00:53:30,609 --> 00:53:48,130
+Commodity capital production capital don't move so easily finance capital can move very quickly what I might call the butterfly form of capital so it starts to move around and therefore have an international dimension
+
+240
+00:53:48,130 --> 00:54:03,380
+So he talks about though was the complicated relationship that existed between Holland and England in the 18th century in terms of who who had the gold or who had the silver well beginning of the 18th century
+
+241
+00:54:03,380 --> 00:54:06,109
+Holland'S manufacturers have been far outstripped
+
+242
+00:54:06,109 --> 00:54:12,319
+It has ceased to be the nation preponderating Commerce and Industry one of its main lines of business
+
+243
+00:54:12,319 --> 00:54:21,789
+Therefore from 1701 to 1776 was the lending out of enormous amounts of capital especially to its great rival England
+
+244
+00:54:21,789 --> 00:54:38,960
+So in a sense Holland was conniving at its own demotion within the international order by lending to its great rival England and then marques says the same thing is going on today between England and the United States
+
+245
+00:54:38,960 --> 00:54:50,646
+A great deal of capital which appears today in the United States without any birth certificate was yesterday in England the capitalized blood of children
+
+246
+00:54:50,646 --> 00:54:59,797
+so capital surpluses stopped being moved around and the national debt is one of the places where or where the capital surpluses go to
+
+247
+00:54:59,797 --> 00:55:11,829
+And you start to see emerging here the circulation of interest bearing capital as a distinctive form of capital circulation and that is something it's going to be taken up in Volume three
+
+248
+00:55:11,829 --> 00:55:17,670
+But it's not as we have them and since hadn't either idea about that From
+
+249
+00:55:17,670 --> 00:55:43,890
+What'S going on in volume 1 a great part of the public debt missus 921 I'm a fiscal system corresponding to it have played in the capitalization of wealth and the expropriation of the masses has led many writers like Kabat and others to seek here incorrectly
+
+250
+00:55:43,890 --> 00:55:59,990
+The fundamental cause of the misery of the people in modern times now I think there's an interesting question of how we look upon the depth question right now
+
+251
+00:55:59,990 --> 00:56:16,280
+We tend to attribute to the debt the fact that the fact that there is such difficulty of daily life in many parts of the world is is because of the indebtedness
+
+252
+00:56:16,280 --> 00:56:31,609
+So we we tend to say the problem is the indebtedness but I think what Marx is doing is to throw some sort of question markers on that and that we should be looking beyond the debt
+
+253
+00:56:31,609 --> 00:56:55,140
+The indebtedness to what it is that lies behind it which is the circulation of capital in a certain form and that the circulation of capital insofar as its leaving large segments of the population bereft of possible employment opportunities that that's the real problem
+
+254
+00:56:55,140 --> 00:57:01,920
+So I think there's an interesting suggestion here and by the way Marx is setting this up
+
+255
+00:57:01,920 --> 00:57:14,000
+So he says colonial system public debts heavy taxes protection commercial wars
+
+256
+00:57:14,000 --> 00:57:16,710
+These offshoots my support
+
+257
+00:57:16,710 --> 00:57:24,980
+He calls them offshoots of the period of manufacture swell to gigantic proportions during the period of infancy of large-scale industry
+
+258
+00:57:24,980 --> 00:57:31,790
+The birth of the latter is celebrated by a vast herod like slaughter of the innocents
+
+259
+00:57:31,790 --> 00:57:46,239
+Like the Royal Navy the factories were recruited by means of the press-gang and then he talks about this guy Eden who he is constantly horrified by that Eden
+
+260
+00:57:46,239 --> 00:58:01,229
+He says he's indifferent to the horrors of the expropriation of the agricultural population from the soil though he shows great self-satisfaction and congratulating his country on this process which was essential in order to establish capitalist agriculture
+
+261
+00:58:01,229 --> 00:58:11,099
+So we should not attribute to the debt machine an independent causative power
+
+262
+00:58:11,099 --> 00:58:21,849
+We have to look at what it is that creates interest bearing capital how interest bearing capital circulates and seeks indebtedness as its rate of return
+
+263
+00:58:21,849 --> 00:58:25,869
+And yes it's problematic but it is not the origin of the story
+
+264
+00:58:25,869 --> 00:58:40,569
+The origin of the story is the production of the surplus capital which becomes the interest bearing capital which which is seeking a rate of return through through funding the public debt or funding
+
+265
+00:58:40,569 --> 00:59:00,170
+Also private debt so the industrial capitalist then is coming into being
+
+266
+00:59:00,170 --> 00:59:22,135
+The result he says is this that to unleash and quote eternal natural laws of the catalyst mode of production when he says natural they're not natural in the sense given by nature they're they're natural to capital and I think it's always important to make that observation:
+
+267
+00:59:22,135 --> 00:59:30,794
+eternal natural laws of the kappes mode of production to complete the process of separation between the workers and the conditions of their labor
+
+268
+00:59:30,794 --> 00:59:45,816
+to transform at one pole the social means of production as subsistence into capital and at the opposite pole The mass of the population into wage laborers into the free laboring poor that artificial product of modern history
+
+269
+00:59:45,816 --> 00:59:57,828
+if money according to OSHA comes into the world with a congenital blood stain on one cheek capital comes dripping from head to toe from every pore with blood and Dirt
+
+270
+00:59:57,828 --> 01:00:21,630
+so the violence of this whole process it's very important for Marx to emphasize which leads him in chapter 32 to the historical tendency of capitalist accumulation in which he kind of says well
+
+271
+01:00:21,630 --> 01:00:26,780
+All of this is in the prehistory of capital
+
+272
+01:00:26,780 --> 01:00:32,880
+Again he says that flourishes unleashes the whole of his energies
+
+273
+01:00:32,880 --> 01:00:53,330
+Attains this adequate classical form he's got this classical form in here again only where the worker is the free proprietor of the conditions of his labor and sets them in motion himself where the peasant owns the land he cultivates or the artisan owns the tool with which Is accomplished performer the mode of production presupposes the fragmentation
+
+274
+01:00:53,330 --> 01:00:56,840
+It excludes the concentration of means of production
+
+275
+01:00:56,840 --> 01:01:14,060
+It is compatible only with the system of production on society moving within narrow limits and then he goes on to sort of talk about new forces and new passions spring up in the bosom of society forces and passions which feel themselves to be fettered by that society
+
+276
+01:01:14,060 --> 01:01:32,790
+It has to be annihilated it is annihilated so here he comes to the idea that it's going to be absolutely overcome its annihilation the transformation of the individualized and scattered means of production and to socially concentrated means of production by transformation
+
+277
+01:01:32,790 --> 01:01:43,859
+Therefore the dwarf-like property of the many into the giant property of the few and the expropriation the great mass of the people from the soil from the means of subsistence and the instruments of labour
+
+278
+01:01:43,859 --> 01:02:03,270
+This terrible and arduous lee accomplished expropriation of the mass of the people forms the prehistory of capital and then he goes on and the last part of this is a kind of a re-run of the communist manifesto in which we go
+
+279
+01:02:03,270 --> 01:02:12,329
+What we're going to see is the constant decrease in the number of capitalist magnates who you surf and monopolize all the advantage of this process of transformation
+
+280
+01:02:12,329 --> 01:02:21,441
+the mass of misery oppression slavery degradation and exploitation grows but with this that also grows the revolt of the working Class
+
+281
+01:02:21,441 --> 01:02:28,670
+a class constantly increasing in numbers and trained United and organized by the very mechanism of the capitalist process of production
+
+282
+01:02:28,670 --> 01:02:34,560
+The monopoly of capital becomes a fetter upon the mode of production which has flourished alongside and under it
+
+283
+01:02:34,560 --> 01:02:43,500
+The centralization of the means of production and the socialization of labor reach a point at which they become incompatible with their capitalist integument
+
+284
+01:02:43,500 --> 01:02:45,270
+This integument is burst asunder
+
+285
+01:02:45,270 --> 01:02:52,220
+The knell of capitalist private property sounds expropriate Azhar expropriated
+
+286
+01:02:52,220 --> 01:02:58,498
+Now this is sort of pure rhetoric of a communist manifesto
+
+287
+01:02:58,498 --> 01:03:22,196
+and you can sort of say well you know how did Marx get round to that this particular point in the text and why does he in a sense reintroduce this whole idea of a revolutionary response to The increasing centralization why does he treat it as a rather mechanical kind of kind of process
+
+288
+01:03:22,196 --> 01:03:27,309
+It'S gon na it's gon na be annihilated, It is annihilated, it's gon na be increasing the concentration
+
+289
+01:03:27,309 --> 01:03:37,719
+In the end a few people will own all of the means of production and the mass of the people will rise up and expropriated and therefore an expropriation will be expropriated
+
+290
+01:03:37,719 --> 01:03:56,099
+Us will be expropriated great well you know we're still waiting of course but this is the and I think I think in part the choppiness of this whole presentation is about sort of kind of saying Okay
+
+291
+01:03:56,099 --> 01:04:00,219
+Let'S imagine this let's take this Let'S take that
+
+292
+01:04:00,219 --> 01:04:08,579
+Let'S take this cut let's take that cut and various cuts and so you get to the final cut which is sort of where he wants to be
+
+293
+01:04:08,579 --> 01:04:26,999
+Apart from the fact that there's another chapter which is the modern theory of colonization - and I always had a problem - you know okay the expropriation expropriated in in in chapter 32
+
+294
+01:04:26,999 --> 01:04:29,410
+Why wouldn't you leave it there
+
+295
+01:04:29,410 --> 01:04:34,809
+We kind of say: okay you know yeah that's you know run with this revolution
+
+296
+01:04:34,809 --> 01:04:35,769
+It'S it's on its way
+
+297
+01:04:35,769 --> 01:04:51,009
+Why do we suddenly have this theory of colonization and - and I you know I'm always kind of mystified by it but those are the best example of the best
+
+298
+01:04:51,009 --> 01:05:29,064
+I think explanation I have is that Marx felt he had to deal with the theory of colonization for one very very very important reason which is that Hegel had talked about colonization as one of the ways in which a society which was becoming increasingly polarized could deal With its internal attentions by relief through colonial expansion
+
+299
+01:05:29,064 --> 01:05:46,350
+now Hegel does this In his text on the philosophy right Marx wrote a critique of the philosophy of right but what's interesting is that he never wrote a critique of the passages were where Hegel kind of says
+
+300
+01:05:46,350 --> 01:05:59,610
+The dialectic of a capitalist society is such that the rich get richer and the poor get poorer and in fact the language there is almost identical with the language which Marx uses
+
+301
+01:05:59,610 --> 01:06:15,340
+When he's talking about the general law of capitalist accumulation when he kind of says the rich get richer and the poor get poorer and the working-class is reduced to this miserable state
+
+302
+01:06:15,340 --> 01:06:28,685
+when you're reading that Hegel kind of said about you kind of say well this is almost like a rapid a repetition of Hegel
+
+303
+01:06:28,685 --> 01:06:44,980
+and so and Hegel kind of said Well maybe we could rescue the problem of the increasing polarization of wealth and poverty by Ashley redistributing some of the wealth from the rich to the poor
+
+304
+01:06:44,980 --> 01:07:04,240
+But then he looked at there and just said simply the number of rich is so small and the number of poor so large that you'll never be able to do it so that it's impossible to stabilize society and in fact what we're gon na get in the Society is of what he called a rabble of paupers who are gon na be rising up and rest and it's going to be
+
+305
+01:07:04,240 --> 01:07:12,339
+You know disaster so Hegel sort of depicts all of this and it is like the general law of capitalist accumulation
+
+306
+01:07:12,339 --> 01:07:32,249
+But then he says this explains why it is that capitalist societies engage in colonial practices because the colonial practice allows the surplus of capital and labor to go abroad and to re-establish itself and give a livelihood to the population
+
+307
+01:07:32,249 --> 01:07:56,669
+And and so Hegel seems to be advocating what I would call a spatial fix if you like to dialectical tensions inherent in a capitalist society that he seems to be saying there is a special fix to it by by colonial practices
+
+308
+01:07:56,669 --> 01:08:00,609
+Now if Marx was were aware of that though he doesn't quote it here
+
+309
+01:08:00,609 --> 01:08:15,549
+If he's very well aware that that's what Hegel is saying then he has to say something about well that colonial practice is not actually going to work and the way he does
+
+310
+01:08:15,549 --> 01:08:20,710
+This is not to go and look at what's going on in the colonies so there's nothing in here really much about what goes
+
+311
+01:08:20,710 --> 01:08:40,150
+You know what conniving a practice is right about but he looks at the theories of of colonization which have put forward by Wakefield and and Wakefield was kind of involved in the settlement of Australia and and and what Wakefield did was to kind of say
+
+312
+01:08:40,150 --> 01:08:55,750
+Well what you need to do in order to have a decent economy is he cannot let migrants who go to Australia or go to the United States
+
+313
+01:08:55,750 --> 01:09:31,299
+For that reason migrants go and actually become self-sufficient because capital cannot cannot exist without wage labor so that in order for capital to reproduce itself it has to reproduce wage labor and so Wakefield was pursuing legislation which would prevent work from escaping to some frontier and living On their own and not being bothered with with the market you have to stop that
+
+314
+01:09:31,299 --> 01:09:32,380
+How do you stop that
+
+315
+01:09:32,380 --> 01:09:42,000
+Well you put a reserve price on the land so that there's a barrier between workers coming into Australia and workers going on the land
+
+316
+01:09:42,000 --> 01:09:47,190
+They have to be wage laborers in order to save enough money to buy the land
+
+317
+01:09:47,190 --> 01:09:55,570
+So what what Wakefield does is to come up with the whole kind of theory of colonization which says in order to colonize You must not
+
+318
+01:09:55,570 --> 01:10:02,080
+Let have free land access and he clearly saw that this is one of the problems of the United States
+
+319
+01:10:02,080 --> 01:10:18,909
+Wages were higher in the United States because of the scarcity of Labor even though there was mass migration and the scarcity of labour arose because ok people would come to Philadelphia and they'd be wage laborers and they'd say Oh screw this
+
+320
+01:10:18,909 --> 01:10:19,690
+I don't like this
+
+321
+01:10:19,690 --> 01:10:28,469
+I can go to the frontier and set myself up in the frontier and become a self-sufficient a farmer or something of that kind
+
+322
+01:10:28,469 --> 01:10:40,800
+So the result of that was there was scarcity of Labor in the United States which leads Marx earlier in that in the capital to say because there's a scarcity of Labor in the United States
+
+323
+01:10:40,800 --> 01:11:03,150
+You know the United States is more interested in labor saving technology and that lead and the us supplies labor saving technologies because of the scarcity of Labor Britain invents the technologies but doesn't deploy them because there's no scarcity of labor in Britain
+
+324
+01:11:03,150 --> 01:11:34,679
+So if Marx has already made that sort of argument partly so here what he's saying is that that Wakefield sets up the colonization theory in such a way as to show something which is absolutely critical which is that capital count exist independent of wage labor and that Therefore you need always to form a wage labor force in order for capital to work and that's why this chapter is is in here now
+
+325
+01:11:34,679 --> 01:11:45,989
+This is then a refutation of Hegel who doesn't actually say that the the dialectical dilemmas of a capitalist society will be solved by colonization
+
+326
+01:11:45,989 --> 01:11:57,239
+But he kind of says colonization is what seems to be a way out but what Marx is doing is refuting Hegel on that and kind of saying
+
+327
+01:11:57,239 --> 01:12:14,329
+All the colonization does is to actually reintroduce the capital labor relation on a broader geographical scale that in the end the United States becomes a capitalist country because it's got wage labor
+
+328
+01:12:14,329 --> 01:12:28,130
+Australia will never become a capitalist country if it doesn't have wage labor and it's not gon na have wage labor unless if it actually prevents the population that's arriving there from free access to the land
+
+329
+01:12:28,130 --> 01:12:33,892
+So this is I think the reason why this modern theory of colonization's here
+
+330
+01:12:33,892 --> 01:13:03,413
+it's I'm not sure that I mean and the curious thing is I mean in the companion to Marx's capital like I sort of cite all the passages from from Hegel and you see that The parallel between what Marx is saying about you know the increasing impoverishment of the working classes and what Hegel sang is almost identical language
+
+331
+01:13:03,413 --> 01:13:25,924
+and I kind of feel that Marx either forgot where he got it from which which happens all the time of course or actually You know people are pretty cavalier about about we are what they what they reference and what they did not and Marx often incites people without saying who is reciting
+
+332
+01:13:25,924 --> 01:13:40,016
+but nevertheless I think this the the positionality of colonial practices and as far as Marx is concerned you Know capitalist colonial practices are always about wage labor formation
+
+333
+01:13:40,016 --> 01:13:49,729
+and therefore the the notion of primitive accumulation is going to carry over to the colonial practices
+
+334
+01:13:49,729 --> 01:14:09,289
+Now this also raises another question which be much in pre intrigued by to what degree are these practices which Marx talks about as being in the prehistory of capitalism actually continuing to this day
+
+335
+01:14:09,289 --> 01:14:18,987
+And I think the answer of course is yes they are continuing to this day but in what sense can we say they're continuing to this day
+
+336
+01:14:18,987 --> 01:14:30,266
+clearly Chinese peasantry has been converted into a wage labor force over the last 30 years or so 40 years or so
+
+337
+01:14:30,266 --> 01:14:51,287
+And if you look at it you would say this is a classic process of primitive accumulation but China had not been as it were inserted into the capitalist system until you know 1978 1980
+
+338
+01:14:51,287 --> 01:14:59,567
+so primitive accumulation is something with but that continues to go
+
+339
+01:14:59,567 --> 01:15:18,915
+On now the person who played most attention to this idea was Rosa Luxemburg and so I often kind of quote Rosa Luxemburg who kind of says well I'll read you what she she says:
+
+340
+01:15:18,915 --> 01:15:39,830
+another accumulation of capital a book on the accumulation of capital
+
+341
+01:15:39,830 --> 01:15:41,390
+She kind of says: okay look
+
+342
+01:15:41,390 --> 01:15:43,010
+There are two different forms of exploitation
+
+343
+01:15:43,010 --> 01:15:49,820
+We have to look at one concerns the commodity market and the place where surplus value is produced
+
+344
+01:15:49,820 --> 01:16:14,270
+The factory the mine the agricultural estate regarded in this light accumulation is a purely economic process with its most important phase a transaction between the capitalist and wage laborer here in form at any rate peace property and equality prevail and the keen dialectics of scientific analysis - and This was she argued Marx signal
+
+345
+01:16:14,270 --> 01:16:28,990
+Achievement in capital were required to reveal how the right of ownership changes in the course of accumulation into appropriation of other people's property how Commodity Exchange turns into exploitation and equality becomes class rule
+
+346
+01:16:28,990 --> 01:16:45,475
+In other words she is here saying the world of capital Marx's capital as a book depicts this this relationship and it is indeed what Marx I think brilliantly reveals
+
+347
+01:16:45,475 --> 01:16:57,155
+but the other aspect of the accumulation of capital concerns the relations between capitalism and the non capitalism modes of Production which start making their appearance on the international stage
+
+348
+01:16:57,155 --> 01:17:06,297
+its predominant methods of colonial policy an international loan system a policy of spheres of interest and war
+
+349
+01:17:06,297 --> 01:17:22,630
+force ,fraud, oppression, looting are openly displayed without any attempt at concealment and it requires an effort to discover within this Tangle of political violence and contests of power the stern laws of the economic process
+
+350
+01:17:22,630 --> 01:17:45,461
+Now if a particular argument is there stealing from non capitalist modes of production and the oppression of non capitalist modes of production are absolutely critical for understanding this other aspect of accumulation of capital
+
+351
+01:17:45,461 --> 01:17:59,440
+but I would take it in another direction and say we also have to Deal not only with primitive accumulation which is about the formation of a wage labor force and then the formation of capital accumulation on top of that wage labor force
+
+352
+01:17:59,440 --> 01:18:12,663
+It'S not only about that but it's also about processes of robbery fraud and the rest of it which continue to play a role within the history of capital accumulation
+
+353
+01:18:12,688 --> 01:18:23,422
+which suggests that there are modes of capital accumulation that that go that occur outside of the exploitation of Living labor in production
+
+354
+01:18:23,422 --> 01:18:27,829
+and what are those forms of exploitation which allow this to happen
+
+355
+01:18:27,829 --> 01:18:40,616
+Well it turns out that Marx himself has really identified some of this which is internal to the capitalist mode of production as opposed to external
+
+356
+01:18:40,616 --> 01:18:53,857
+because what Rosa Luxemburg was basically saying was that colonial practices and imperialist extractions are what actually formed the basis of this alternative Form of accumulation
+
+357
+01:18:53,857 --> 01:19:08,570
+and in her theory of capital accumulation you couldn't sustain capital accumulation by the exploitation of living labor in the way that that Marx describes she says basically you need something else
+
+358
+01:19:08,570 --> 01:19:19,075
+You need something outside of that and that something outside of is imperialist extractions It'S clear imperialist dominations which is a theory of imperialism
+
+359
+01:19:19,075 --> 01:19:37,773
+and that is a way of extracting value from empires and extracting value from colonies in such a way as to support the continued dynamism of a capitalist mode of production which then leads to the question of what Happens when there's nowhere left to extract from
+
+360
+01:19:37,773 --> 01:19:42,411
+and her view was that would be the end of capitalism
+
+361
+01:19:42,411 --> 01:19:52,819
+but I think we need to look instead at the forms of extraction that go on within capital some rather than outside of it
+
+362
+01:19:52,844 --> 01:20:16,078
+and Marx himself has some interesting arguments about this and I would take you back into some of his arguments about the centralization of capital back on 778 which is about the general law of capitalist accumulation
+
+363
+01:20:16,078 --> 01:20:22,790
+where Marx says on 778 commensurately with the development of capitalist production and accumulation
+
+364
+01:20:22,790 --> 01:20:32,080
+There also takes place a development of the two most powerful levers of centralization competition and credit
+
+365
+01:20:32,080 --> 01:20:39,080
+At the same time the progressive accumulation increases the material amenable to centralization
+
+366
+01:20:39,080 --> 01:20:54,940
+I the individual capitals while the expansion of capitalist production creates on the one hand the social need and on the other the technical means for those immense industrial undertakings which require previous centralization of capital for their accomplishment
+
+367
+01:20:54,940 --> 01:21:05,739
+Today therefore the force of attraction which draws together individual capitals and the tendency to centralization are both stronger than ever before
+
+368
+01:21:05,739 --> 01:21:24,380
+But if the relative extension and energy of the movement towards centralization is determined to a certain degree by the magnitude of capitalist wealth and the superiority of the economic mechanism already attained the advance of centralization does not depend in any way on a positive growth
+
+369
+01:21:24,380 --> 01:22:01,380
+In the magnitude of social capital - and this is what distinguishes centralization from concentration the latter being only another name for reproduction on an extended scale - centralization may result from a mere change in the distribution of already existing capitals from a simple alteration in the quantitative grouping of The component parts of social capital capital can grow into powerful masses in a single hand in one place because in other places it has been withdrawn from many individual hands
+
+370
+01:22:01,380 --> 01:22:18,090
+In other words centralization supplements the work of accumulation by enabling industrial capitalists to extend the scale of their operations and the any Malthus talks about joint stock companies
+
+371
+01:22:18,090 --> 01:22:36,190
+In effect what we start to look at here is a whole dynamic of big capital taking over little capitals and increasingly just shopping up
+
+372
+01:22:36,190 --> 01:22:44,470
+If you look at how an organization like Google has grown you would say how many you know startups
+
+373
+01:22:44,470 --> 01:23:02,560
+Did it take over how much gobbling up as it done as the accumulation of wealth in Google been due to that gobbling up of accumulation from from elsewhere and as Marx kind of says
+
+374
+01:23:02,560 --> 01:23:21,580
+Elsewhere though you know the stock exchange sharks sort of capture all the small fishes around so in a sense accumulation if existing accumulation was was there
+
+375
+01:23:21,580 --> 01:23:41,860
+But the very fact of you becoming much more centralized means that there is accumulation out of the act of centralization itself and therefore we have to look at processes of that sort in which I've always referred to as accumulation by dispossession
+
+376
+01:23:41,860 --> 01:23:48,840
+And this is not the same as primitive accumulation
+
+377
+01:23:48,840 --> 01:24:15,510
+This is another mode of accumulation which for example comes out of merger activity which comes out of takeovers comes out of private equity companies going in taking over a particular company asset stripping then turning it into something
+
+378
+01:24:15,510 --> 01:24:19,190
+It'S a lean and mean little corporation and then selling it back at a profit
+
+379
+01:24:19,190 --> 01:24:39,720
+It comes out of the foreclosure crisis in which people had to give up assets along come hedge funds and buy up all of the assets and accumulate vast amounts of wealth by holding those assets for a brief period of time and then trading the bank
+
+380
+01:24:39,720 --> 01:24:54,440
+It comes out of financial crises like the financial crisis or in 1997-98 in Southeast Asia which was essentially one which was produced and manufactured by the capital system
+
+381
+01:24:54,440 --> 01:24:59,000
+The financial system cutting off the flow of liquidity
+
+382
+01:24:59,000 --> 01:25:14,010
+If you cut the flow of liquidity to well-functioning corporations and they can't refinance their debt then they go bankrupt and they have to sell out and they're gon na sell out of fire-sale prices So what happened
+
+383
+01:25:14,010 --> 01:25:16,500
+Was the banks cut the liquidity No liquidity
+
+384
+01:25:16,500 --> 01:25:18,570
+Lot of firms start to go bankrupt
+
+385
+01:25:18,570 --> 01:25:22,040
+The banks come in and buy them up at fire sale prices
+
+386
+01:25:22,040 --> 01:25:32,550
+Then the liquidity flows back in and off you go things start to to improve and the banks sell off the company's back at a huge profit
+
+387
+01:25:32,550 --> 01:25:42,560
+Now the banks have not actually produced anything but they've accumulated a vast amount of value
+
+388
+01:25:42,560 --> 01:25:58,830
+Through these operations the same thing happens when actually you get an austerity politics I mean what what is an International Monetary Fund structural adjustment program Look like yeah
+
+389
+01:25:58,830 --> 01:26:05,330
+Mexico gets into debt in 1982, can't pay its debts, Is he gon na go bankrupt?
+
+390
+01:26:05,330 --> 01:26:18,390
+You can't let it go bankrupt because if it goes bankrupt all the lenders are gon na lose their investments who invested in mexican debt
+
+391
+01:26:18,390 --> 01:26:21,800
+Well actually the new york investment banks
+
+392
+01:26:21,800 --> 01:26:44,030
+Why did they invest in mexico debt because they got all of the money from the the gulf region of when the oil price went up in the 1970s and they forced the rulers of a gulf region to take the surplus capital and give it to them to Invest and Walter Wriston basically said in I forget what it was about
+
+393
+01:26:44,030 --> 01:26:46,470
+1976 was 77 he said
+
+394
+01:26:46,470 --> 01:26:48,360
+Ok we've got all this extra money
+
+395
+01:26:48,360 --> 01:26:49,380
+We'Ve got to invest it somewhere
+
+396
+01:26:49,380 --> 01:26:51,350
+Where are we gon na Invest it
+
+397
+01:26:51,350 --> 01:26:54,180
+It'S not a good idea to invest it in corporations
+
+398
+01:26:54,180 --> 01:26:55,760
+You invest it in countries
+
+399
+01:26:55,760 --> 01:26:58,650
+This is what Marx is kind of saying about the national debt
+
+400
+01:26:58,650 --> 01:27:04,460
+We invest it in countries because he said countries could never disappear
+
+401
+01:27:04,460 --> 01:27:06,900
+Corporations can countries cars
+
+402
+01:27:06,900 --> 01:27:10,650
+We can always go find them so they lent lots of that
+
+403
+01:27:10,650 --> 01:27:19,260
+So they go to Mexico and they say: we've got all this money take it take it and and and and build on it when Mexico needed the money
+
+404
+01:27:19,260 --> 01:27:28,010
+So I borrowed it about four years later all of a sudden the interest rates go flying out Mexico can't pay
+
+405
+01:27:28,010 --> 01:27:30,840
+So what does it do ghost
+
+406
+01:27:30,840 --> 01:27:41,780
+You know this is not gon na It'S not gon na be allowed to renege on its debt so it gets bailed out
+
+407
+01:27:41,780 --> 01:27:46,560
+The International Monetary Fund of the US Treasury go in and they lend might lend the money
+
+408
+01:27:46,560 --> 01:27:58,580
+The state finance Nexus goes in lends them the money okay and they're bailed out but in return for that what does Mexico have to do
+
+409
+01:27:58,580 --> 01:28:04,830
+It has to introduce austerity it has to privatize as to privatize their he
+
+410
+01:28:04,830 --> 01:28:11,540
+Those has to do all of these kinds of things are those structural adjustment kind of policy
+
+411
+01:28:11,540 --> 01:28:17,660
+The living standard of Mexicans went down by a quarter in the next three four five years
+
+412
+01:28:17,660 --> 01:28:25,790
+That'S the way in which this works and that is accumulation by dispossession
+
+413
+01:28:25,790 --> 01:28:31,800
+Your dispossessing people of their livelihoods and you're often dispossessing them of their rights
+
+414
+01:28:31,800 --> 01:28:43,800
+I have a colleague in Greece the retired three years ago when I was in Greece recently he was celebrating the fact that he's got the first payment of his pension
+
+415
+01:28:43,800 --> 01:28:52,350
+After three years he's had three years no payment of pension This is see
+
+416
+01:28:52,350 --> 01:29:08,810
+This is what I would call accumulation by dispossession your dispossessing somebody of a right in some way: you're not paying something and then you can actually bring it back into the dynamics of the situation
+
+417
+01:29:08,810 --> 01:29:31,260
+So I would want to argue that lepre Luxembourg is right to say that there's an hour alternative form of accumulation at work here but it's not only the accumulation which goes on through the extraction of value from the rest of the world through the Imperial practices
+
+418
+01:29:31,260 --> 01:29:34,560
+That has been true that's been there and it still continues
+
+419
+01:29:34,560 --> 01:29:48,360
+So we can still talk about extractivism as another form of accumulation at the same time as we can talk about accumulation through exploitation of living labor and production
+
+420
+01:29:48,360 --> 01:29:57,626
+But we can also talk about accumulation through a dispossession of the value which people already control
+
+421
+01:29:57,626 --> 01:30:09,222
+so that primitive accumulation is not primitive anymore in the sense that it's not original
+
+422
+01:30:09,222 --> 01:30:21,516
+it's not there in the precursor as both Hannah Arendt and and Rosa Luxemburg insisted
+
+423
+01:30:21,516 --> 01:30:31,023
+we have To see the kinds of processes that Marx is talking about actually continuing into into the present era
+
+424
+01:30:31,023 --> 01:30:45,707
+and I would make the argument that over the last 30 or 40 years accumulation by dispossession has become far more prominent in terms of the dynamics of how capitalist society Is working
+
+425
+01:30:45,707 --> 01:31:06,550
+Marx himself tends in the way this is set up to say Well all of this happened back then after capital gets established and all you know and all the fraud and all the rest of it is being committed through merchants capitalist extractions and all the rest of it
+
+426
+01:31:06,550 --> 01:31:09,990
+After all that's happened
+
+427
+01:31:09,990 --> 01:31:36,054
+The system which is the first system that Rosa Luxemburg describes which is the kind of the smooth according to Marx anyway the smooth kind of continuity of accumulation processes over over time where capital gets reproduced in the way that Marx is describing yeah that that that is One part of the story
+
+428
+01:31:36,054 --> 01:31:45,491
+but I think that it's an inadequate part of the story compared to some of the other forms of extraction of value going on
+
+429
+01:31:45,491 --> 01:32:00,880
+So I would want to sort of try to push a little bit on this hope of stuff on primitive accumulation and say well actually that it continues into the present
+
+430
+01:32:00,880 --> 01:32:30,800
+But it also takes rather different forms from the ones which Marx allocates to it because he is concerned primarily here with how did wage labour come to be and how did how did the wage labor market come to be the way it is and that's the the Main the main thing he's looking at some of these other elements like the role of merchants capital in the defunding of the unusually in in undermining feudal power and so on
+
+431
+01:32:30,800 --> 01:32:49,730
+All of those elements are also significant in terms of opening up the possibility for a catalyst mode of production that come to be but I would want to argue that a capitalist mode of production cannot function without certain aspects of both primitive accumulation
+
+432
+01:32:49,730 --> 01:33:00,940
+In the sense that Marx described it because I have suggested primitive accumulation - is a perfectly appropriate way to look at what has happened in China over the last
+
+433
+01:33:00,940 --> 01:33:11,770
+You know 40 50 years but it is not an appropriate way to look at say a structural adjustment program of the IMF
+
+434
+01:33:11,770 --> 01:33:23,230
+The way in which corporations declare bankruptcy which is another great way of doing this
+
+435
+01:33:23,230 --> 01:33:35,780
+American Airlines United Airlines they've all declared bankruptcy in about the last 10 or 15 years and what you do is you go in and you you file for bankruptcy you keep on flying and all rest of it
+
+436
+01:33:35,780 --> 01:33:38,630
+You file for bankruptcy and the judge says: ok
+
+437
+01:33:38,630 --> 01:33:39,920
+What are you gon na do
+
+438
+01:33:39,920 --> 01:34:08,869
+Well we can come out of bankruptcy and we can stabilize ourselves economically if we don't have to pay pensions and if we don't have to pay health care costs so they typically sort of shed their having their obligations on health care and pensions which in a way Is a form of robbery: it's a robbery of people of their rights which they they imagined they would have and and you know they they can kind of say well
+
+439
+01:34:08,869 --> 01:34:18,960
+You know I was looking forward to retiring and - and I was expecting to retire - and I don't know $ 70000 a year or something like that
+
+440
+01:34:18,960 --> 01:34:32,070
+But the retirement turns out not to be there and it goes to the State Insurance which only tastes $ 35000 a year so somebody then finds they have to go back into the workforce in order to make ends meet
+
+441
+01:34:32,070 --> 01:34:37,245
+So again this is all accumulation by dispossession as far as I'm concerned
+
+442
+01:34:37,245 --> 01:35:01,663
+and those practices and processes are all there and if I think of for example the the huge foreclosure wave that existed in this country and the way in which the private equity companies have Now gone and Blackstone is now one of the biggest landlords in the country as I don't know two hundred thousand properties or something like that all of which were foreclosed
+
+443
+01:35:01,663 --> 01:35:10,171
+and it's bought up all these foreclosed properties and is now kind of remarketing them and making a Huge amount of money out of remarketing them
+
+444
+01:35:10,171 --> 01:35:22,397
+so again this is a form of appropriation in a way legalized robbery and of course there's a great deal of illegal activity involved in this too
+
+445
+01:35:22,397 --> 01:35:40,101
+so primitive accumulation is is an important historical phenomena and its history continues to This day in those societies where there's peasant societies who can still be dispossessed and turned into wage laborers
+
+446
+01:35:40,101 --> 01:35:49,909
+and we have seen a lot of that over the last 50 years - but also there are other modes of accumulation which I think should be should be looked at
+
+447
+01:35:49,909 --> 01:36:10,450
+So any any comments some questions about all about the whole book for that matter
+
+448
+01:36:10,450 --> 01:36:21,525
+Thank you again David and particularly for that fascinating discussion at the end of that accumulation through this possession and it's
+
+449
+01:36:21,525 --> 01:36:29,596
+what you seem to see is it's necessary links to accumulation through the wage labor
+
+450
+01:36:29,596 --> 01:36:43,333
+and you basically seem to be saying that the system of accumulation through Wage labor cannot exist without accumulation through dispossession but I'm trying to
+
+451
+01:36:43,333 --> 01:36:54,130
+understand if I can see why accumulation through wage labor and accumulation through a disposition would exist together and why would they will complement each other
+
+452
+01:36:54,130 --> 01:37:09,190
+But it's not clear to me that without one the other would collapse like what would be the mechanism by which accumulation reliable would collapse if there was not the opportunities available for accumulation through a disposition
+
+453
+01:37:09,190 --> 01:37:17,660
+How do you mean give it to me again
+
+454
+01:37:17,660 --> 01:37:40,330
+Well sorry yeah I my interpretation of what you were saying: yeah was well there's a system that Marx basically described through most of the earlier up until these ruffle business volume one of accumulation through the wider labor process and the extraction service value and all that
+
+455
+01:37:40,330 --> 01:37:47,210
+And then you referred to our rosa luxemburg basically says well but that's not enough
+
+456
+01:37:47,210 --> 01:37:52,400
+You'Ve got to have imperialism and you said: well yes but it's not necessary
+
+457
+01:37:52,400 --> 01:37:56,420
+Imperialism is also accumulation through a disposition
+
+458
+01:37:56,420 --> 01:38:08,360
+You know who I am if by an ass and that sort of thing that you're talking about and I'm wondering I can I can see how they were how they would support each other
+
+459
+01:38:08,360 --> 01:38:14,780
+But I don't see why accumulation true why do they would collapse if those other things weren't available
+
+460
+01:38:14,780 --> 01:38:21,248
+Oh I don't know I'm not arguing accumulation through wage labor is gon na collapse
+
+461
+01:38:21,248 --> 01:38:27,430
+I'M gon na I'm arguing that it's gon na be augmented and in part
+
+462
+01:38:27,430 --> 01:38:49,306
+The issue here is the in Crete and this is why I think these passages where Marx is talking about increasing centralization become important because what you're looking at is the following kind of problem:
+
+463
+01:38:49,306 --> 01:39:16,630
+that if the global economy when when I Was fifteen years old is it was let's say something like three trillion dollars and now it's 80 trillion dollars you're looking at an investment problem which is how do how do you invest
+
+464
+01:39:16,630 --> 01:39:22,180
+I had a three percent rate of return or whatever it is 80 trillion dollars
+
+465
+01:39:22,180 --> 01:39:27,580
+As opposed to four trillion dollars there wasn't a problem when it was four trillion dollars with 80 trillion dollars You'Re
+
+466
+01:39:27,580 --> 01:39:57,640
+Looking at now my god where we where we gon na invest in so you've got to actually end up with a larger field across which exploitation and an accumulation can progress and part of the argument here would be that to the degree that money is flowing through The financial system now as opposed to simply through the capitalist corporation the financial system has to look for rates of return which are adequate now
+
+467
+01:39:57,640 --> 01:39:59,730
+What is the highest rate of return
+
+468
+01:39:59,730 --> 01:40:13,750
+The rates of return on conventional labor exploitation tend to be fairly low rates of return on speculative activity and property markets
+
+469
+01:40:13,750 --> 01:40:46,510
+I tend to be in short-run at least fairly high so you go for that kind of thing and so Blackstone is going to do very well and would Blackstone rather be actually in Detroit making automobiles or would it rather be in California speculating on housing values and The answer is: there's likely to be a flow of capital capital into those aspects of the system which are involved in dispossession
+
+470
+01:40:46,510 --> 01:41:11,250
+So when I say that my sense is that since the 1970s there's been more emphasis upon dispossession relative to exploitation of living libraries because the investment opportunities that exist on the living labor side are are rather restricted
+
+471
+01:41:11,250 --> 01:41:15,010
+You know compound compounding rate of growth
+
+472
+01:41:15,010 --> 01:41:34,540
+Is it's hard to sustain whereas when you're dealing with asset values and and and and ripping off people through their credit cards or whatever it is and extracting value the through through financial skullduggery those kinds of things
+
+473
+01:41:34,540 --> 01:41:48,148
+If that's much more much more remunerative said what we're seeing is a reconfiguration of the economy around these different different a different emphasis
+
+474
+01:41:48,148 --> 01:42:08,487
+all the time that wage labor was yielding pretty good with you know returns exploitation of living labor and production was giving good returns as It basically was in in the advanced capitalist world in the 1950s and 1960s into the mid 1970s
+
+475
+01:42:08,487 --> 01:42:13,352
+you're gon na get me a kind of economy which is rather different Now
+
+476
+01:42:13,352 --> 01:42:18,610
+ now then that comes to the question of what
+
+477
+01:42:18,610 --> 01:42:22,230
+Let'S look at the major corporations that exists right now
+
+478
+01:42:22,230 --> 01:42:25,869
+You look at something like Google and you kind of say
+
+479
+01:42:25,869 --> 01:42:32,830
+Well how is it accumulated and where's the where where's the value coming from
+
+480
+01:42:32,830 --> 01:42:47,710
+Well it's not coming from 4-h labor very much most of it's coming from taking over X propria you know so so I think that that means we're living in a different kind of kind of economy
+
+481
+01:42:47,710 --> 01:43:16,540
+I think these other forms of accumulation have always been there and I think it's interesting when you so reread Marx that he's he's saying yeah you know centralization of capital is actually an independent form of accumulation which is different from the kind of accumulation that's going on Through wage labor but like your point I think is that what is being taken over is itself a product of the wage
+
+482
+01:43:16,540 --> 01:43:24,420
+Labor exploitation that the small firms that are being you know have been exploiting labor and have developed to a certain kind of level
+
+483
+01:43:24,420 --> 01:43:39,010
+And then can be taken over and and reorganized by centralized capital so there's a relationship between between the different forms of of exploitation
+
+484
+01:43:39,010 --> 01:43:40,890
+I think that would be
+
+485
+01:43:40,890 --> 01:43:42,310
+That would be correct
+
+486
+01:43:42,310 --> 01:44:01,330
+That would be right and I don't see one collapsing as it were because of because of the other I see I see that it is much more limited in terms of its capacity to absorb an ever-expanding quantity of capital
+
+487
+01:44:01,330 --> 01:44:16,270
+Looking for rights of return and and again one of the things that crops up in here about the primitive accumulation itself why does Marx suddenly say well actually when the surfaces of money around
+
+488
+01:44:16,270 --> 01:44:18,989
+Where does it go Well state debt
+
+489
+01:44:18,989 --> 01:44:20,679
+Why does it go there
+
+490
+01:44:20,679 --> 01:44:27,030
+Well because you can get there's a Walter Wriston principle the state does not go away
+
+491
+01:44:27,030 --> 01:44:48,870
+You can always make a claim against the state now this services so investment in state debt actually then allowed to the formation in in in this period of a financial or entier class which just was you know in a sense investing in treasure ism didn't do anything
+
+492
+01:44:48,870 --> 01:44:54,540
+I mean this is the kind of these are the kinds of characters you read about Jane Austen novels
+
+493
+01:44:54,540 --> 01:45:00,810
+You know I mean she wanted to know what his prospects were
+
+494
+01:45:00,810 --> 01:45:07,980
+He was getting 10000 pounds a year in rents you know and so you kind of go Okay
+
+495
+01:45:07,980 --> 01:45:39,750
+You know so so the word there were investments of that sort going going going into that in that in that world at that time which is why state debt was was so important because it was a place to put surplus and make sure that you you could Get some rate of return except now in the case of Greece for example the sovereign debt became such that they couldn't serve in effect because you've invested or had your money invested
+
+496
+01:45:39,750 --> 01:45:44,790
+All your rights invested in in the state pension fund than the state pension fund
+
+497
+01:45:44,790 --> 01:46:01,410
+It cannot pay and of course we've got a lot of that problem around universally right now a lot of unfunded pension schemes - and nobody knows exactly what's going to happen over time
+
+498
+01:46:01,410 --> 01:46:09,270
+There'S more and more people find themselves sort of bereft of an income because that didn't that didn't work
+
+499
+01:46:09,270 --> 01:46:40,500
+So I think that that there's both a question of investment but also of accumulation and where the accumulation will be and who who can apropriate because the whole kind of question of the production of value and the appropriation of value are two separate questions and an accumulation By dispossession is very much about or an organized robbery should like have value that's already been produced by
+
+500
+01:46:40,500 --> 01:46:59,429
+You know difference of different stratagems good evening professor and so I have a comment and I have a question and my comment will be well
+
+501
+01:46:59,429 --> 01:47:00,030
+The first of all
+
+502
+01:47:00,030 --> 01:47:13,110
+I I want to thank you because during this semester you took us like by hand chapter by chapter section by section and to try to understand and discuss all these categories and right now
+
+503
+01:47:13,110 --> 01:47:22,669
+I feel that I have a a broader perspective of the development of the argument through so I want to thank that first of all
+
+504
+01:47:22,669 --> 01:47:44,115
+and related with a perspective of capitalists as a whole and one can see like the as Rosa Luxemburg and the in the Quotation that you show us first of all day the moment of beginning with the commodity and like equality of rights and all these a sphere
+
+505
+01:47:44,115 --> 01:47:53,643
+and then at the end showing the blood of people showing the process of people that are suffering so that process is
+
+506
+01:47:53,668 --> 01:48:18,592
+I Remember one of the first to earth or three sessions that were you were distinguishing between Marx critiqued religion and certain moments of like very deep spiritual analysis and arguments that he makes during the whole capital at the end of the of the book but also in different Moments of the of the book as such one can feel that strength You know
+
+507
+01:48:18,592 --> 01:48:49,940
+and in that sense I think that that will be great too to have this double vision of capital not only as a conceptual development of some type of categories but also about people's history people suffering and how at the end we can feel even a Task of like a prophetic task or something of having this privilege in this society of having these gains in this general perspective of humanity in the last six centuries
+
+508
+01:48:49,940 --> 01:48:55,320
+So what is the subject of of capital who's the subject
+
+509
+01:48:55,320 --> 01:48:58,790
+Is it capital as such who's Hidden there
+
+510
+01:48:58,790 --> 01:49:00,750
+What is the proletarian
+
+511
+01:49:00,750 --> 01:49:11,766
+Where can we find a revolutionary subject there so that can that would be My question commented
+
+512
+01:49:11,791 --> 01:49:34,401
+ it's interesting, I think the the object of capital of Marx's capital is is capital and what it does so that we have a very clear understanding of its dynamism
+
+513
+01:49:35,090 --> 01:49:45,050
+How what it does affects conditions of labour conditions of life and your you know
+
+514
+01:49:45,050 --> 01:49:56,630
+Marx is obviously emphasizing the negative impacts of all of that
+
+515
+01:49:56,630 --> 01:50:31,920
+I think that he would argue that it's open to any subject to act upon whatever has been learned and I think here the the interesting the big one big questions of it reflect back back to you on but to everybody really would be
+
+516
+01:50:31,920 --> 01:50:36,600
+The conventional economics does not highlight these concerns at all
+
+517
+01:50:36,600 --> 01:50:53,610
+I mean you could go through an economics program and never have any discussion about the length of the working-day but the length of the working-day is a crucial thing in terms of people's daily lives
+
+518
+01:50:53,610 --> 01:51:06,420
+So how come we have a body of knowledge which is called economics which teaches us about how to understand the economy but never mentions anything about the links of the working day and the suffering that might go form
+
+519
+01:51:06,420 --> 01:51:16,719
+You know those kinds of those kinds of questions so there is a prior kind of argument
+
+520
+01:51:16,719 --> 01:51:30,590
+We should say that what Marx has done as himself a subject as being to construct an understanding of the objective qualities of the system
+
+521
+01:51:30,590 --> 01:51:45,760
+We call capitalism and in the light of that understanding then it's up to us to figure what to do about it
+
+522
+01:51:45,760 --> 01:52:09,850
+We could take the position that Marx is reflecting back to us the conditions which attach to a none regulate largely unregulated free-market capitalism which is driven by an equalization of the rate of profit and all the rest of it
+
+523
+01:52:09,850 --> 01:52:29,530
+And as Social Democrats have argued we don't necessarily need to destroy the whole of this system because it has some very very positive elements
+
+524
+01:52:29,530 --> 01:52:41,540
+Even in terms of Marx's own presentation I think it's difficult to to read Marx's presentation over technological change as if it is entirely negative
+
+525
+01:52:41,540 --> 01:52:46,310
+I think he sees it you can come out
+
+526
+01:52:46,310 --> 01:53:28,520
+I mean I think I think that long chapter on machinery and and so on is is ambiguous sometimes about whether this is progressive or whether it's not we see that so so you you could make the argument that that world you don't want to dismiss some of Those those features but we want to regulate it and and instead of us being regulated and governed by abstractions as Marx calls it we through conscious interventions and can actually regulate this system in such a way that it does
+
+527
+01:53:28,520 --> 01:53:40,270
+What we want - and in order to do that we would have to eliminate large part this class distinction
+
+528
+01:53:40,270 --> 01:53:47,120
+We would want to be turned in to a system that didn't didn't work on on that basis
+
+529
+01:53:47,120 --> 01:53:56,480
+So there is there is an argument to be made that once you understand the world in these terms you kind of say all right
+
+530
+01:53:56,480 --> 01:54:00,410
+Well we could reform in this is what Elizabeth Warren wants
+
+531
+01:54:00,410 --> 01:54:11,780
+I mean you know to regulate the thing I'm Pro capitalist but but let's regulate the whole thing and and and and there are many forms of intervention and regulation that would improve matters entirely
+
+532
+01:54:11,780 --> 01:54:24,140
+But we don't want to get rid of the freedoms that attach to the market and all the rest of it so and then and then there's an argument which is the one that I tend to make which is to kind of say
+
+533
+01:54:24,140 --> 01:54:59,140
+Well I don't think that's gon na work either that we need to actually move to an anti capitalist politics which would mean not only simply regulating what happens but which starts to push towards the creation of alternatives and we're in here do we start to see some Kind of hints of alternatives and what kinds of alternatives might they be
+
+534
+01:54:59,140 --> 01:55:06,333
+We are presented at various points with some sort of imaginaries about that but not very many
+
+535
+01:55:06,333 --> 01:55:24,949
+Marx himself leaves that when I'm to empty kind of question and says basically that's up to you you know to think that that through so then you have a great chance Of being a subject and the subjective element
+
+536
+01:55:24,949 --> 01:55:37,765
+but I think one of the things that does come out here I mean I'm personally the opinion maybe a bit controversial
+
+537
+01:55:37,765 --> 01:55:45,439
+that Marx is actually very much concerned with individual liberty and freedom
+
+538
+01:55:45,439 --> 01:55:57,548
+and he is not trying to Make the world into a kind of totally collectivized
+
+539
+01:55:57,548 --> 01:56:15,970
+but he he is making the argument that you cannot get to individual liberty and freedom without actually collectively organizing in in a coherent kind of way to kind of design an Orchestrator and an alternative and the way
+
+540
+01:56:15,970 --> 01:56:26,560
+I think about this is a wonderful sort of comment that oral affair but who I kind of like to read once made when when he was asked
+
+541
+01:56:26,560 --> 01:56:31,170
+Why am I why you why you a Marxist turn on an anarchist
+
+542
+01:56:31,170 --> 01:56:35,230
+Does you know the favor had some anarchistic tendencies down
+
+543
+01:56:35,230 --> 01:56:39,220
+You know it's very close to the Situationists and all that sort of thing and he go
+
+544
+01:56:39,220 --> 01:56:48,473
+I saw a very interesting kind of response which was I'm a Marxist in order that one day we can all live Like anarchists
+
+545
+01:56:48,473 --> 01:56:59,347
+and I think that actually does in some ways capture what Marx I think is about, that Marx is a Marxist because one day he wants to be an anarchist,
+
+546
+01:56:59,347 --> 01:57:10,758
+and I think they were but but the individual liberty and freedom Is terribly terribly important and actually some of that comes through in in the text here I think
+
+547
+01:57:10,758 --> 01:57:16,526
+although although not very loudly you have to look within it
+
+548
+01:57:16,526 --> 01:57:23,167
+so where's the subject, Well it's you know whoever wants to make themselves a subject in relationship to it
+
+549
+01:57:23,167 --> 01:57:32,413
+but there is a fall foregrounding and the foregrounding I think is this kind of question of how do we understand what's going on around us
+
+550
+01:57:32,413 --> 01:57:53,830
+and whe Marx deconstructs classical political Economy and says: look they tell Pete they they they create these narratives and they create these narratives in such a way that you can see certain things but you're also fetishizing and all sorts of ways and you've got a fetish representation of the world
+
+551
+01:57:53,830 --> 01:58:09,983
+So when I say to you look how can you go and read a conventional economics textbook and not get furious at that sort of way in which I understand how the world is
+
+552
+01:58:09,983 --> 01:58:30,201
+and the limitations that are put on understanding by the conceptual apparatus which they build Which is you know very rigorous and very self-contained and very very coherent and it sound kind of way and which can be to some degree quite persuasive
+
+553
+01:58:30,201 --> 01:58:51,090
+but which doesn't really answer the questions that we you know we really need to address
+
+554
+01:58:51,090 --> 01:58:52,989
+Thank thank you very much
+
+555
+01:58:52,989 --> 01:58:58,480
+David this is I learned a lot from the lecture I wanted to ask you about
+
+556
+01:58:58,480 --> 01:59:11,760
+You know you talked about the state finance Nexus and I wonder if you could say a little more about that concept and why it's useful you mentioned 2008
+
+557
+01:59:11,760 --> 01:59:21,252
+But I wanted to ask you if you could maybe help us think through how this category could help us understand the war economy today
+
+558
+01:59:21,252 --> 01:59:31,731
+you know should how should we be understanding this Nexus and the current conjuncture if you like
+
+559
+01:59:31,731 --> 01:59:53,822
+well insofar as the state has you Know since the rise of the capitalist state as always to some degree being involved in the question of war making and military hegemony and the like
+
+560
+01:59:53,822 --> 02:00:18,506
+so it we find ourselves working in an economy where in part resources have to be allocated to militaristic means
+
+561
+02:00:18,506 --> 02:00:39,030
+Now the there is a very interesting literature that's emerging from the sort of about the the state apparatus from from the soul of 16th century onwards which is about the fiscal military state and that war making
+
+562
+02:00:39,030 --> 02:00:51,983
+It was of course that the route of debt formation and that has not gone away
+
+563
+02:00:51,983 --> 02:01:22,020
+but then the middle of the other military the military side of things which which is very much what the state is about has also of course certain features which are which Are connected to the corporate economy and how the corporate economy is going to be worked out and also it become very much part of the macroeconomic planning of any capitalist state
+
+564
+02:01:22,020 --> 02:01:48,100
+For example during the Reagan years we had a lot of this kind of neoliberal rhetoric but at the same time in practice you had of what was called military Keynesianism at the time that you can do things politically for security reasons that you can't do any other Way I think it's important to remind ourselves of the industry
+
+565
+02:01:48,100 --> 02:01:54,460
+Interstate highway system of this country was not built because it was a good idea to build the interstate highway system
+
+566
+02:01:54,460 --> 02:02:06,790
+It was built as a security measure and and again the legitimacy of certain kinds of forms of state expenditure are very much regulated
+
+567
+02:02:06,790 --> 02:02:17,830
+It seems to me by by the security question and you can manipulate the security side by fear and all the rest of it so that you know in the 1960s people were going on
+
+568
+02:02:17,830 --> 02:02:23,160
+The Pentagon was going on about the the missile gap
+
+569
+02:02:23,160 --> 02:02:29,170
+Recently they've been going on about the artificial intelligence gap between China China is ahead
+
+570
+02:02:29,170 --> 02:02:30,520
+Oh my god
+
+571
+02:02:30,520 --> 02:02:31,510
+The Chinese are ahead
+
+572
+02:02:31,510 --> 02:02:59,710
+So okay that's mobilize a lot of so so it's a large sector of the economy is now but it but it has always been this way but it has become very much more this way since 1945 and through the Cold War and through all the rest of It which was to some degree manipulated for corporate gain and and the like so so how
+
+573
+02:02:59,710 --> 02:03:19,090
+How the the militarized side of things fits in to I mean the Treasury for example the one budget the Treasury will not really strike down for fiscal reasons
+
+574
+02:03:19,090 --> 02:03:36,490
+Is the military budget and we see that again and again and again it will somebody will come up with a great educational budget and the Treasury will say you can't do it because - and I think it's very important to understand the state is not a monolithic entity
+
+575
+02:03:36,490 --> 02:03:50,830
+It'S it's made up of component parts and the one big component part which is crucial is always Treasury and the Treasury will say yes or no on all kinds of proposals from other departments
+
+576
+02:03:50,830 --> 02:04:08,250
+Depending upon the fiscal situation it will rarely say no to the military side of things but then that Rinne requires that the banking side of things will have the resources to be able to fund the military apparatus
+
+577
+02:04:08,250 --> 02:04:26,550
+So we have then certain choices which are made which have a lot to do with the not so much with whether they have a lot to do with with with the geopolitics of hegemony and how that and how that is is is being seen
+
+578
+02:04:26,550 --> 02:04:35,170
+I kind of wonder what the world would look like
+
+579
+02:04:35,170 --> 02:04:44,350
+If essentially you you you you abolish the military everywhere I mean I I don't
+
+580
+02:04:44,350 --> 02:04:56,330
+I don't know where the the finance the state finance Nexus would know what to do because I think that you know step one of the state finance Nexus
+
+581
+02:04:56,330 --> 02:04:58,280
+I mean the reason it formed in the first place
+
+582
+02:04:58,280 --> 02:05:06,199
+Is the Bank of England was that the the British state had run out of money and they went to
+
+583
+02:05:06,199 --> 02:05:10,219
+They went to the City of London and said to the rich merchants lend us the money to fight the war
+
+584
+02:05:10,219 --> 02:05:35,630
+And the merchants said no and and so that when led to this compromise between the banking system and and and the state and that compromise has remained intact ever since but it's got it's got more complicated because now in part the compromise involves the international institutions
+
+585
+02:05:35,630 --> 02:05:42,050
+So you have things like the International Monetary Fund the Bank of International Settlements and the like
+
+586
+02:05:42,050 --> 02:06:13,070
+So I don't to pretend the state finance Nexus is simply you know the US Treasury plus the the Federal Reserve because you've got the other central banks in the world and you've also got the international monetary institutions and so and so it's a more complicated kind of Thing than just simply a couple of guys together like appeared to be the case in 2008 when Hank Paulson and Ben Bernanke basically came on TV and said this is what we're going to do
+
+587
+02:06:13,070 --> 02:06:17,920
+I mean it was a remarkable event
+
+588
+02:06:17,920 --> 02:06:26,830
+So the military side of things yeah I'm war making it's always been in there
+
+589
+02:06:26,830 --> 02:06:36,269
+How to get it out seems to me to be a big big miss you
+
+590
+02:06:36,269 --> 02:06:37,530
+Thank You professor Harvey
+
+591
+02:06:37,530 --> 02:07:02,690
+I want you all to please join me in thanking professor Harvey for offering every way and for doing so much popularize marks just a couple of final announcements that all these classes are available on YouTube in a couple weeks they'll be available as audio podcasts
+
+592
+02:07:02,690 --> 02:07:13,710
+Congratulations and thank you all for sticking it out and making it to the last box just reaching the luminous summit both here and online and we want to invite you back
+
+593
+02:07:13,710 --> 02:07:16,829
+We have many more great offerings here at the peoples forum
+
+594
+02:07:16,829 --> 02:07:24,150
+There are our brochures and the table in the back if you did borrow a copy of vol 1 from us from our library
+
+595
+02:07:24,150 --> 02:07:29,309
+Please return it so the next students can use it Also
+
+596
+02:07:29,309 --> 02:07:37,739
+We want to make a special announcement that there is a reading group of vol 2 that is starting this Saturday here at the peoples forum
+
+597
+02:07:37,739 --> 02:07:40,230
+It is not with Professor Harvey it's just
+
+598
+02:07:40,230 --> 02:07:43,590
+It has no instructor it's a reading group that will get together and read it
+
+599
+02:07:43,590 --> 02:07:55,889
+Weekly it's organized by the Marxist education project other David may stop in for a class and finally we have evaluation form did we'd be so kind to give us some feedback on how we did at TPF
+
+600
+02:07:55,889 --> 02:08:02,699
+We'Re always trying to do things better also available on that table with LeAnn and as well as the Flyers for the volume 2 class
+
+601
+02:08:02,699 --> 02:08:06,412
+But thank you all and thanks so much to Professor
+

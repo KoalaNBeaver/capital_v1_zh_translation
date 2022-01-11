@@ -1,0 +1,2340 @@
+﻿1
+00:00:56,866 --> 00:01:05,509
+so okay we should get underway with the next section
+
+2
+00:01:05,509 --> 00:01:29,560
+I want to begin however with some very general observations about what Marx means by historical materialism and how we should understand what historical materialism as a method and approach is all about
+
+3
+00:01:29,560 --> 00:01:43,509
+Now generally speaking when people want to know about historical materialism of what Marx meant they go to the German ideology as a text published in the late 1840s
+
+4
+00:01:43,509 --> 00:01:59,619
+And it's true that that text I think gives quite a few good pointers as to how we should differentiate historical materialism from idealism and other modes of understanding
+
+5
+00:01:59,619 --> 00:02:10,129
+In recent times however we've learned from sort of Marx scholars that actually the German ideology was never a text
+
+6
+00:02:10,129 --> 00:02:24,700
+It was just a bunch of writings which somebody put together rather arbitrarily and this has upset a lot of people who have relied very much on German ideology to understand principles of historical materialism
+
+7
+00:02:24,700 --> 00:02:39,025
+I found this is particularly true in China where German ideology is a kind of a sacred text almost and to say that it's not really a text it's quite earth-shattering
+
+8
+00:02:39,025 --> 00:02:56,419
+but I've always felt that if you wanted to understand historical materialism the best way to do it Was to read capital and watch what Marx does and to listen to how he revels things and approaches things
+
+9
+00:02:56,419 --> 00:03:16,863
+in capital Of course Marx does refer back to some previous texts and right at the end of chapter one of capital Marx refers back to his work on the critique of political economy
+
+10
+00:03:16,863 --> 00:03:30,510
+and he cites it in a footnote on page 275 and he says my view is of Each particular mode of production and the relations of production corresponding to it of each given moment
+
+11
+00:03:30,510 --> 00:03:53,600
+In short the economic structure of society is the real foundation on which arises a legal and political superstructure and to which correspond definite forms of social consciousness and that the mode of production of material life conditions the general process of social political and intellectual life
+
+12
+00:03:53,600 --> 00:04:19,670
+If you go back to the original in the critique of political economy - and I won't read all of that out to you again - he then adds some important additional remarks but changes in the economic foundation lead sooner or later the transformation of the whole immense superstructure
+
+13
+00:04:19,670 --> 00:04:37,260
+In studying such transformations that is always necessary to distinguish between the material transformation of the economic conditions of production which can be determined with the precision of Natural Science and the legal political religious artistic or philosophic
+
+14
+00:04:37,260 --> 00:05:03,330
+In short ideological forms in which men become conscious of this conflict and fight it out now this is conventionally referred to as the base superstructure argument in which the economic base is seen by many as determining what goes on in the superstructure Marx doesn't use
+
+15
+00:05:03,330 --> 00:05:21,590
+The word determining he says: conditioning the mode of production material life conditions the general process of social political and intellectual life and I think it's different for she say conditions as opposed to our determines
+
+16
+00:05:21,590 --> 00:05:31,460
+But let's think about that for a moment and think about the argument that has been made already in capital
+
+17
+00:05:31,460 --> 00:05:50,639
+Marx is interested in just in uncovering what he calls the laws of motion of capital and these laws of motions should be distinguished and put together in a way that I was familiar to
+
+18
+00:05:50,639 --> 00:06:04,247
+Those people who are concerned with the nature of natural history of evolution and we'll get to Darwin in a minute
+
+19
+00:06:04,255 --> 00:06:22,729
+but this position that that he takes is one in which we have to start to look at how to unpack those laws of motion
+
+20
+00:06:22,729 --> 00:06:27,110
+Now Marx starts with the material concept which is the commodity
+
+21
+00:06:27,110 --> 00:06:40,512
+It'S an idealized concept is the commodity in general not a specific commodity but he starts with that and then unpacks what the commodity is about: Use value exchange value value
+
+22
+00:06:40,512 --> 00:06:51,011
+recognizes that exchange can only function if there is a commodity which is going to facilitate exchange and so you generate the idea of money
+
+23
+00:06:51,011 --> 00:07:03,097
+and again notice how marx generates that money does not arise because somebody sat in a room somewhere rather And decided money was a good thing and sort of threw money into the pot
+
+24
+00:07:03,097 --> 00:07:18,570
+it arose specifically out of material practices of exchange exchange became so widespread that it became impossible to facilitate it without the money form when the money form that set up Marx
+
+25
+00:07:18,570 --> 00:07:30,840
+Analyzes things about what can happen with the money form as a material system and look for the different uses of money and there are many of them
+
+26
+00:07:30,840 --> 00:07:41,669
+But one of them which is crucial is the fact that money can be used to make more money which defines the circulation of capital and then Marx asked these other questions about
+
+27
+00:07:41,669 --> 00:07:50,550
+Well how can you have an inequality of profit coming out of a system of exchange which is based on equality
+
+28
+00:07:50,550 --> 00:07:59,550
+The answer is there must be a commodity which has the capacity to produce more value than it itself has that commodity is identified as labor power
+
+29
+00:07:59,550 --> 00:08:06,630
+You get into labor power and then you look and say: okay well labor can produce more value than it has
+
+30
+00:08:06,630 --> 00:08:15,690
+But for that to happen the labor has to work for more hours than it takes to actually produce the value of their own labor power Ie
+
+31
+00:08:15,690 --> 00:08:26,430
+You have to lengthen the working day beyond the hours taken up in the reproduction of labor power so you get into the working day now
+
+32
+00:08:26,430 --> 00:09:09,619
+This argument is kind of proceeding in a way where at a certain point the question of the Working Day starts to become a political issue and this phrase about how it's only in the superstructure where legal political religious artistic or philosophic ideological forms in which people become Conscious of the conflict and fight it out but it's in the course of the conflict over the working day that people start to identify class interest class constant concepts and but that doesn't mean it's all determined by the commodity right
+
+33
+00:09:09,619 --> 00:09:29,850
+The economic structure - it's not determining but it's setting up its conditioning if you like the that situation in which the question over the length of the Working Day starts to become a very important political issue and the state becomes involved different classes become involved
+
+34
+00:09:29,850 --> 00:09:46,369
+So we get a story in the Working Day which is precisely over this phrase: the working out and the ideological superstructure of something which is conditioned by the very laws of motion of capitalist society
+
+35
+00:09:46,369 --> 00:09:57,630
+So this is what Marx means by historical materialist method that what you do is you start to connect these elements together
+
+36
+00:09:57,630 --> 00:10:18,818
+and he then makes some another point back in a condition of the critique of political economy a very interesting sort of phrase where he talks that When you get to something like the Working Day and you're analyzing everything that's going on there and all of the class forces which are involved in politics
+
+37
+00:10:18,818 --> 00:10:40,309
+and so on he says the result is not simply a vicious circle of problems: chicken and egg type problems, where The solution of one problem presupposes a solution of the other but a whole complex of contradictory premises since the fulfillment of one condition depends directly upon the fulfillment of its opposite
+
+38
+00:10:40,309 --> 00:10:54,230
+Now what he's doing in this is using an analytical way step by step to start to look at this whole complex of contradictory premises
+
+39
+00:10:54,230 --> 00:11:01,230
+But he doesn't do that by again sitting in a room and dreaming them up he's building them step by step
+
+40
+00:11:01,230 --> 00:11:15,749
+Out of the analysis and through the material conditions that he's seeing unraveling in society so when he gets to the point of the working day it's not as if he says well I have pretend there's something called a working day
+
+41
+00:11:15,749 --> 00:11:23,730
+He doesn't have to do that because of struggles over the length of the Working Day and working week of a working life
+
+42
+00:11:23,730 --> 00:11:27,079
+Those struggles are going on around us all over the place
+
+43
+00:11:27,079 --> 00:11:46,830
+So it's not as if he's discussing something which is some sort of idealist utopian kind of thing no he's actually coming to the point of saying you can only understand this struggle over the working day against the those conditions which set the whole thing up
+
+44
+00:11:46,830 --> 00:11:59,570
+So if you really want to do something about the Working Day you're going to have to go back to the original conditions and change the original conditions and that's what marks means by a revolutionary radical program
+
+45
+00:11:59,570 --> 00:12:15,720
+So at some point a rather he says if you really want to get rid of all of this stuff which we're we've seen going on you've got to abolish exchange value and then when you kind of say to people so Marx is revolutionary program
+
+46
+00:12:15,720 --> 00:12:17,670
+Is you abolish exchange value people say
+
+47
+00:12:17,670 --> 00:12:20,070
+Oh that's nuts it's no way you can do
+
+48
+00:12:20,070 --> 00:12:27,270
+How can we possibly live in a society where there's no exchange value going on but there I think it's kind of again something interesting
+
+49
+00:12:27,270 --> 00:12:35,270
+We ask ourselves the question: are there certain things going on in society where exchange value is not admissible
+
+50
+00:12:35,270 --> 00:12:44,940
+Are there certain important aspects of a social order and the answer is yes it's all over the place There are prohibitions
+
+51
+00:12:44,940 --> 00:12:51,260
+For instance there is a prohibition against slavery
+
+52
+00:12:51,260 --> 00:13:05,520
+You cannot buy and sell people there's a prohibition against human trafficking and then people say well you know so there should be no human trafficking when there is human trafficking
+
+53
+00:13:05,520 --> 00:13:10,650
+Then society kind of says that that is something that it should not be subject to the calculus
+
+54
+00:13:10,650 --> 00:13:27,050
+In exchange value and we can go across all sorts of areas exchanges of sexual services prostitution things of that kind and in fact we find a lot of areas where society says
+
+55
+00:13:27,050 --> 00:13:35,420
+Exchange values should not operate here and when you say well okay why stop at those areas
+
+56
+00:13:35,420 --> 00:13:42,350
+Why why don't we go even further and say health care
+
+57
+00:13:42,350 --> 00:13:45,980
+Why shouldn't we take it out of the exchange value sphere
+
+58
+00:13:45,980 --> 00:13:49,560
+Why shouldn't we take education out of the health
+
+59
+00:13:49,560 --> 00:13:54,750
+How does the exchange value sphere so when Marx kind of makes this point about
+
+60
+00:13:54,750 --> 00:14:21,360
+What'S the relationship between ever what's going on in society and the concept of exchange value he's pointing to something which is a very real relation and a very real relation that needs to be addressed politically so when we get into certain areas of social life and what Is also of course interesting
+
+61
+00:14:21,360 --> 00:14:38,450
+Is that all those areas which were thought to be outside of the sphere of exchange value there's a constant pressure to brings bring them inside the sphere exchange exchange value of human organs For example
+
+62
+00:14:38,450 --> 00:14:57,510
+There is a trade in kidneys and there have been examples where you know people will pick up kids on the streets in Brazil and you know they become actually bearers of kidneys which then go into now
+
+63
+00:14:57,510 --> 00:15:01,350
+This is again something that we would kind of revolt against
+
+64
+00:15:01,350 --> 00:15:09,720
+At least I hope we would but there's there's many areas of this kind where there's constant kind of battling over
+
+65
+00:15:09,720 --> 00:15:35,760
+Does this belong in the exchange value sphere or does it not - and this is a very interesting conversation debate to have but I think that it comes out of what Marx is doing by kind of saying: let's relate this idealized material moment of exchange and what exchange Value is about and recognize that once you've decided that exchange values
+
+66
+00:15:35,760 --> 00:15:40,500
+Okay then there are things follow from it and a lot of those things are very uncomfortable
+
+67
+00:15:40,500 --> 00:16:18,590
+If you don't like there's uncomfortable things then you've got to go back to the original so this is partly what Marx's historical materialism is about but it's a historical materialism which is being built out of a study of the laws of motion of capital and what we Did in the theory of relative surplus-value is to start to look at different ways in which you can get surplus value through the dynamics of technological change
+
+68
+00:16:18,590 --> 00:16:45,651
+Now again what are things that you have to immediately to ask yourself is: if there are some uncomfortable things happening in the world of relative surplus-value production and and appropriation then you have to go back to the question of technological change and then ask the question: what Kinds of technological changes are acceptable and what are not
+
+69
+00:16:45,651 --> 00:16:57,096
+and by the way why is it that we think technological change is good and why do we think is you can't stop it anyway
+
+70
+00:16:57,096 --> 00:17:02,790
+again there's the server ideological presuppositions and where Marx talks about the ideological superstructure
+
+71
+00:17:02,790 --> 00:17:09,620
+He'S talking about the arguments we would have about these things now because it's a superstructure it doesn't mean it's irrelevant
+
+72
+00:17:09,620 --> 00:17:16,890
+In other words Marx is what you what you see in the in the text and you see in the argument over the length of the working-day
+
+73
+00:17:16,890 --> 00:17:32,150
+For example and how limitation got put on it you wouldn't say that somehow are the secondary but the real issue is in the economic base and therefore oh don't bother with all that stuff about struggling over the length of the working-day
+
+74
+00:17:32,150 --> 00:17:47,000
+That'S not what Marx is doing here he's seeing it as integral conditioned one conditioning the other and of course once you start to actually control the length of the working-day and limit the length of the working-day
+
+75
+00:17:47,000 --> 00:18:01,130
+You can even push it so that the working day becomes as a mention when we talk about this sort of revolutionary because you kind of say well we want to work in to have one hour That'S the demand
+
+76
+00:18:01,130 --> 00:18:09,924
+Can we organize society with artificial intelligence and all the rest of it, Why not? We might be able to do that
+
+77
+00:18:09,924 --> 00:18:21,520
+but if we do that then the laws of motion of capital we're talking about really go whacky and the whole system goes wacky
+
+78
+00:18:21,520 --> 00:18:43,870
+so Marx's historical materialism then is an attempt to sort of gradually step-by-step unravel what some of these Contradictory premises and contradictory relations are and so far we've been on a sort of a one way of looking at things
+
+79
+00:18:43,870 --> 00:18:54,779
+But then when we get to the chapter on machinery he does something which is really again quite quite different
+
+80
+00:18:54,779 --> 00:19:06,279
+That is he starts to suggest that we're not only dealing with use-value and exchange-value and value and all the kinds of arguments earlier
+
+81
+00:19:06,279 --> 00:19:12,759
+There'S a there's a much more complex kind of picture and what you see in capital is Marx
+
+82
+00:19:12,759 --> 00:19:26,264
+Being a building layer after layer of complexity into his arguments dealing with the contradictory premises and Splore
+
+83
+00:19:26,264 --> 00:19:38,611
+and this is very much laid out in a foot this footnote - which I suggested you look at on 493 footnote 4
+
+84
+00:19:38,611 --> 00:19:46,830
+where Mark starts off by saying we should have A critical history of technology notice is a critical history of technology
+
+85
+00:19:46,830 --> 00:19:53,769
+It'S not just a history of technology and what that critical history of technology would show
+
+86
+00:19:53,769 --> 00:19:57,700
+He says how little any of the inventions of the 18th century are
+
+87
+00:19:57,700 --> 00:20:01,330
+The work of a single individual as yet such a book does not exist
+
+88
+00:20:01,330 --> 00:20:04,990
+Then he goes on
+
+89
+00:20:04,990 --> 00:20:17,011
+Darwin has directed attention to the history of natural technology ie the formation of the organs of plants and animals which serve as the instruments of production for sustaining their life
+
+90
+00:20:17,011 --> 00:20:27,993
+does not the history of the productive organs of man in society of organs that are the material Basis of every particular organization of society deserve equal attention
+
+91
+00:20:27,993 --> 00:20:40,484
+and would not such a history be easier to compile since as Vico says human history from natural history in that we have made the former but not the latter
+
+92
+00:20:40,484 --> 00:20:52,680
+Vico's position was that natural history was something that Which was really determined by God and there was no way which human beings could really understand
+
+93
+00:20:52,680 --> 00:21:06,960
+What God was doing God works in mysterious ways but our own society is something that we have made and therefore we could understand it
+
+94
+00:21:06,960 --> 00:21:09,310
+So Rico was kind of saying we're
+
+95
+00:21:09,310 --> 00:21:16,650
+Much better position to understand our own history than we are to understand natural history
+
+96
+00:21:16,650 --> 00:21:23,760
+Now this relation to Darwin is something it's very important in in Marx
+
+97
+00:21:23,760 --> 00:21:52,410
+From the very beginning we've seen that Darwin is a sort of lurks in the background but what Marx wants to do is to actually have a history of capital which has the same sort of lore as natural history and he says in one of his preface'as
+
+98
+00:21:52,410 --> 00:22:12,300
+My standpoint from which the development of the economic formation of society is viewed as a process of natural history so again he wants it in a sense the history of capital to be a chapter in the history of natural history but a different kind of chapter
+
+99
+00:22:12,300 --> 00:22:32,610
+Precisely because it will be about what we have made and to the degree that our activities have been purposes and intense and intentional we can understand why we've got to where we if guarding in the ways that we can't understand why Natural History is evolving
+
+100
+00:22:32,610 --> 00:22:43,820
+In a sense of evolutionary evolutionary trajectories but Marx was not well he's
+
+101
+00:22:43,820 --> 00:22:52,809
+Admirer of Darwin Mouse is not totally infatuated with everything that Darwin did
+
+102
+00:22:52,809 --> 00:22:58,700
+He sort of writes in amusing ways about how it's interesting He says
+
+103
+00:22:58,700 --> 00:23:03,409
+Darwin suddenly starts to recognize around him in the natural world
+
+104
+00:23:03,409 --> 00:23:20,539
+All of those elements that he was observing in capitalistic Britain that is the struggle for existence the whole kind of question divisions of labour specializations of function things of that kind
+
+105
+00:23:20,539 --> 00:23:50,109
+In other words many of the elements within Darwin came out of consciousness and a sensitivity to the practices of British industrialism which Darwin was very very familiar with because he was married to the daughter of a Wedgwood which is the big pottery master and therefore came from The family which had a background in industrial organization
+
+106
+00:23:50,109 --> 00:24:04,299
+Secondly Darwin also said right at the very beginning of the Origin of Species that he was looking at all of this data he had and he couldn't make sense of it and to me read Malthus
+
+107
+00:24:04,299 --> 00:24:27,909
+Well Malthus was a social theorist and MAOIs was writing about social processes population and all the rest of it and writing about political economy so Darwin transferred if you like Malthusian thinking into his interpretation of the Origin of Species and you get a lot of the categories
+
+108
+00:24:27,909 --> 00:24:38,629
+The fundamental categories the Origin of Species which attach to of course the British industrial practices and then a funny thing kind of happened
+
+109
+00:24:38,629 --> 00:24:51,469
+Darwin wrote this whole thing about how then of course long at the end of the century came social Darwinism where suddenly all the social thinkers naturalized
+
+110
+00:24:51,469 --> 00:25:03,099
+What capitalism was about because Darwin had naturalized it in the Origin of Species failing to recognize that Darwin had actually been guided by a metaphor taken from the social sciences
+
+111
+00:25:03,099 --> 00:25:10,190
+So you get this social science metaphor which comes in and Darwin adopts it and then it then gets naturalized
+
+112
+00:25:10,190 --> 00:25:17,749
+So social Darwinism kind of said capitalism is natural and there's nothing that can stop
+
+113
+00:25:17,749 --> 00:25:29,899
+We can't change it because you know we can do all kinds of things to to manage it but we could never change it because that would be changing nature now
+
+114
+00:25:29,899 --> 00:25:37,190
+The interesting thing here is that there was a whole group of Russian evolutionists who couldn't understand why
+
+115
+00:25:37,190 --> 00:25:57,759
+Darwin was always going on about particular structure of you know adaptation and survival of the fittest and all the rest of it and the reason being of course that Russian evolutionists were thinking about peasant society and and alike and they produced a completely different theory of evolution
+
+116
+00:25:57,759 --> 00:26:04,089
+One which was based on cooperation and mutual aid and one of the key figures in that was Kropotkin
+
+117
+00:26:04,089 --> 00:26:18,043
+So Kropotkin came out of an evolutionary tradition which was not based in in English industrialism but in mutual aid in of peasant societies
+
+118
+00:26:18,043 --> 00:26:35,002
+and the russian evolutionists would look at species in the tundra and say they're not competing with each other they're collaborating when cooperating with each Other mutual aid is going on and that therefore mutual aid is more foundational than competition
+
+119
+00:26:35,002 --> 00:26:47,529
+and so there's all this kind of grand debate around Marx and Darwin and and Darwin's reliance upon this metaphor drawn from English industrialism
+
+120
+00:26:47,529 --> 00:26:51,320
+So Marx was clearly aware of that and was critical about it
+
+121
+00:26:51,320 --> 00:26:58,549
+At the same time he recognized that Darwin had understood through some of his categories
+
+122
+00:26:58,549 --> 00:27:01,989
+What was going on in British industrialism
+
+123
+00:27:01,989 --> 00:27:08,179
+This is the peculiar thing and and and and Marx says well
+
+124
+00:27:08,179 --> 00:27:29,059
+Actually Darwin has unplugged a lot of the things we should understand about industrialism so he's setting up here this this whole kind of relation to Darwin because Marx reputedly sent a copy of Volume
+
+125
+00:27:29,059 --> 00:27:34,450
+One of capital over to Darwin and Darwin didn't accept it
+
+126
+00:27:34,450 --> 00:27:48,610
+But anyway we've seen that play on the hilarious set of scenes about Marx trying to present the capital to Darwin
+
+127
+00:27:48,610 --> 00:27:52,970
+The second part of this thing as much it is to me much more important
+
+128
+00:27:52,970 --> 00:27:54,530
+You know and this is typical of Marx
+
+129
+00:27:54,530 --> 00:28:00,640
+You put something terribly important in just such a cryptic way that you can easily miss it
+
+130
+00:28:00,640 --> 00:28:23,235
+Technology reveals the active relation of man to nature the direct process of the production of his life and thereby it also lays bare the process of the production of the social relations of his life and of the mental conceptions The flow from those relations
+
+131
+00:28:23,235 --> 00:28:38,074
+now Marx is often described as being a technological determinist and but I'd like to point out that the language here is reveals in other translations discloses
+
+132
+00:28:38,074 --> 00:28:54,871
+technology reveals, it doesn't determine, it reveals, and the active relation of man To nature so Marx is saying that the metabolic relation to nature - remember: that's part of the general schema we're looking at
+
+133
+00:28:54,871 --> 00:29:23,860
+the metabolic relation to nature which is a key element of a this goes on in terms of the labor process, and you remember the argument and The labor process that in transforming the natural world we transform ourselves and transforming ourselves we transform the natural world and that dialectical relation, okay but that dialectical relation between human be transforming the world is what mediated through the technologies
+
+134
+00:29:23,860 --> 00:29:47,059
+The technology changes the nature of their metabolic relation and but at the same time that doesn't mean the metabolic relation is determined by so there's a mediating element there which is technology and when mark says technology reveals or discloses it's like saying
+
+135
+00:29:47,059 --> 00:30:05,169
+Okay if you study technology very closely then you can't understand it without understanding what it's doing in relationship to the metabolic relation to nature and you'll find a lot about the relation to nature by studying technology
+
+136
+00:30:05,169 --> 00:30:15,730
+Conversely if you study the relation to nature you'll find a lot about technologies in other words there's a relational connection here
+
+137
+00:30:15,730 --> 00:30:40,880
+It'S not that one determines the other that they are integral to each other in the way the labor process described but the technology obviously is a condition any conditions now the same time I'm it's a study of it reveals but it doesn't only do that
+
+138
+00:30:40,880 --> 00:30:48,190
+The study of the technology also reveals a lot about the direct process of the production of his life
+
+139
+00:30:48,190 --> 00:30:57,340
+That is the technology reveals much about the mode of production the capitalist mode of production
+
+140
+00:30:57,340 --> 00:31:11,380
+But you can broaden this and say it's not simply the capitalist mode of production but also the mode of production of his life that is social reproduction
+
+141
+00:31:11,380 --> 00:31:26,330
+So what stick so you study technology and then you understand much more about social relations and much more about daily life and much more about production
+
+142
+00:31:26,330 --> 00:31:43,280
+Procent mode of production and marks continues thereby it also lays bare the process of production for social relations of his life and of the mental conceptions that flow from those relations
+
+143
+00:31:43,280 --> 00:31:51,140
+To what degree are our mental conceptions affected by the kinds of technologies and surround us
+
+144
+00:31:51,140 --> 00:32:00,800
+How do we understand the world before there were more when I say microscopes and telescopes and things of that kind
+
+145
+00:32:00,800 --> 00:32:40,700
+No we see the world differently because of the technological capacities that we have and a lot of what Capitals been about is a radical transformation of how we see the world how we see evolutionary processes when people got hold of DNA then all of a sudden everything Gets changed so our mental conceptions of the world are not independent of the technologies but then remember in the chapter on the labor process
+
+146
+00:32:40,700 --> 00:32:54,980
+What separates the worst of architects and the best of Bees the architect arete erected something in imagination before making it real
+
+147
+00:32:54,980 --> 00:32:59,520
+So there's a point where mental conceptions actually integrate
+
+148
+00:32:59,520 --> 00:33:08,660
+I mean it wasn't as if somehow rather let's say telescopes or microscopes dropped out of the air
+
+149
+00:33:08,660 --> 00:33:35,430
+Now somebody had an idea that you could do something: they saw a piece of glass and they saw it magnified and so the relation all of these elements are relational with each other they're all conditional one upon the other
+
+150
+00:33:35,430 --> 00:33:41,669
+You cannot change the technology without changing mental conceptions of the world
+
+151
+00:33:41,669 --> 00:33:45,389
+You cannot change mental conceptions of the world without changing the technologies
+
+152
+00:33:45,389 --> 00:34:04,249
+So the way I would look at this is to say that Marx is actually setting up an understanding of the totality and the totality incorporates these five or let's say six elements
+
+153
+00:34:04,249 --> 00:34:25,369
+And in my own work I incorporate of a seventh which is not mentioned here which is institutional arrangements private property etc etc but again notice the institutional arrangements again and not dreamed up in an office somewhere
+
+154
+00:34:25,369 --> 00:34:34,589
+They are sometimes but the basic ones arise out in a different kind of way for instance in in capital
+
+155
+00:34:34,589 --> 00:34:48,679
+It'S interesting that Marx sets up the commodity and commodity exchange before he takes up the question of private property
+
+156
+00:34:48,679 --> 00:35:04,640
+Now most people when they think about capital think the private property preceded but Marx turns it the other way around and says it was only through Commodity Exchange that something like private property became significant
+
+157
+00:35:04,640 --> 00:35:11,579
+When we all shared all primitives kind of world we all shared everything together and this kind of thing was no private
+
+158
+00:35:11,579 --> 00:35:15,089
+Property didn't need private property because there was no exchange
+
+159
+00:35:15,089 --> 00:35:24,509
+Relations going on exchange relations start going on and I have this and it has to belong to me in order that I exchange it to you
+
+160
+00:35:24,509 --> 00:35:28,369
+So actually private property arises out of exchange
+
+161
+00:35:28,369 --> 00:35:31,259
+Exchanged is not based upon private property
+
+162
+00:35:31,259 --> 00:36:11,090
+It'S the other way around exchange set up private property but once private property is established then he comes back and and alters fundamentally structures of exchange and this is again comes back to that little thing about how the premises the contradictory premises of private property in exchange And that you can't have one without the other and that they're contradictory in some way so Marx's historical materialism lemon is built step by step on this kind of procedure
+
+163
+00:36:11,090 --> 00:36:16,010
+Now the way I deal with this is I kind of say all right
+
+164
+00:36:16,010 --> 00:36:27,931
+Let'S imagine that the totality is made up of say seven moments of the social process as Marx calls
+
+165
+00:36:27,931 --> 00:36:54,412
+and the seven are: the technology, the relation to nature, the mode of production in the physical kind of sense, the mode of social reproductions, the social relations and the Mental conceptions of the world
+
+166
+00:36:54,412 --> 00:37:08,210
+and you imagine all of those moments together and you then say what is a revolutionary movement which is what Marx talked about back in critique of political economy
+
+167
+00:37:08,210 --> 00:37:13,570
+The revolutionary moment means all of these elements have to change
+
+168
+00:37:13,570 --> 00:37:19,520
+They all have to change in relation to each other and you want to change one
+
+169
+00:37:19,520 --> 00:37:29,650
+You can't do it without recognizing it's how much it is conditioned by all of the others and you've got to change all of the others
+
+170
+00:37:29,650 --> 00:37:31,850
+We want to say we want to solve
+
+171
+00:37:31,850 --> 00:37:37,810
+We'Ve got a problem about the relation to nature called global warming
+
+172
+00:37:37,810 --> 00:37:45,010
+How many people think there's a single bullet answer which is technological change
+
+173
+00:37:45,010 --> 00:37:47,740
+Marx would say that's ridiculous
+
+174
+00:37:47,740 --> 00:37:54,640
+One of the biggest barriers to doing anything about climate change is mental conceptions of the world
+
+175
+00:37:54,640 --> 00:37:59,860
+We'Ve got to change mental conceptions
+
+176
+00:37:59,860 --> 00:38:10,330
+Social relations have to change so you have to think about all of those elements together and it's interesting in the social sciences
+
+177
+00:38:10,330 --> 00:38:18,580
+There is a tremendous interest in what you might call single bullet theories of social change
+
+178
+00:38:18,580 --> 00:38:31,660
+There is technological determinism you know mr flatterer Friedman is full of that
+
+179
+00:38:31,660 --> 00:38:43,360
+Then there are environmental Jared Diamond all that stuff about Guns Germs and Steel
+
+180
+00:38:43,360 --> 00:39:01,490
+Environmental determinism such a relation to nature that determines everything else a lot of Marxist a class struggle idealists will say: well just you know change the mentalities and then everything will change
+
+181
+00:39:01,490 --> 00:39:22,280
+Then the institutionalists who say both institutions that really matter Marxist point is that all of the matter in relation to each other and a historical materialist investigation of capitalist society is about trying to understand all of these relations
+
+182
+00:39:22,280 --> 00:39:58,320
+Now if you bear this in mind in the rest of this chapter you'll find all of these elements appear at certain point when for example machine technology took over it generated forms of knowledge science and technology which was different way of knowing the world in funeral times Everything was alive
+
+183
+00:39:58,320 --> 00:40:05,970
+What capital does is to make it dead and exploit it something that's dead
+
+184
+00:40:05,970 --> 00:40:09,660
+Then of course it means a certain relation to nature
+
+185
+00:40:09,660 --> 00:40:26,710
+Descartes started talking about the domination of nature which you could dominate it and the whole thesis of the domination of nature became critical to get out of the bush
+
+186
+00:40:26,710 --> 00:40:31,870
+Our society of course they're always a few people around said
+
+187
+00:40:31,870 --> 00:40:51,120
+You must be nuts to think you couldn't do that but I think what Marx is down is to set up a framework here and if you read this chapter on machinery and large-scale industry which is very long and you know and look at the elements within this
+
+188
+00:40:51,120 --> 00:41:07,650
+What you see these features coming together at various points and saying ah the whole thing about machinery was that the power source was taken outside
+
+189
+00:41:07,650 --> 00:41:23,910
+Therefore physical power doesn't matter so much anymore and this allowed for factories to be developed using women and children as labor
+
+190
+00:41:23,910 --> 00:41:36,240
+Very young children because it didn't need the massive power that we required physically to make a machine work
+
+191
+00:41:36,240 --> 00:41:45,930
+So the social relations mark then talks about how the whole structure of the family changed as a result of the machine
+
+192
+00:41:45,930 --> 00:42:03,680
+You know in relation to the machine technology but the machine technology is at the same time kind of saying: okay how can we use this in a way to use that kind of labor in a different kind of way
+
+193
+00:42:03,680 --> 00:42:20,113
+So this what I would call expand it there's seven points kind of configuration of how we should understand the totality
+
+194
+00:42:20,113 --> 00:42:41,228
+our capitalist mode of production seems to me to be extremely interesting extremely powerful and to me it also I think says something about why it is that So many revolutionary movements have failed
+
+195
+00:42:41,228 --> 00:42:49,010
+because almost invariably there is a revolutionary movement has either a single or a very narrow kind of conception
+
+196
+00:42:49,010 --> 00:43:15,020
+But if you try to make a revolutionary movement without changing anybody's mental conceptions forget it and I think the whole dialectical way in which Marx sets this in motion is is a fascinating reflection on how to understand the dynamics of a capitalist society
+
+197
+00:43:15,020 --> 00:43:24,040
+But Marx then considers this further
+
+198
+00:43:24,040 --> 00:43:28,849
+Hmm continues the footnote it is in reality
+
+199
+00:43:28,849 --> 00:43:33,589
+He says this is where we come back to the question of what is historical materialism
+
+200
+00:43:33,589 --> 00:43:51,430
+It is in reality much easier to discover by analysis the earthly kernel of the mystic reassures of religion than to do the opposite ie to develop from the actual given relations of life the forms in which these have been apotheosis
+
+201
+00:43:51,430 --> 00:43:58,060
+The latter method is the only materialist and therefore the only scientific one
+
+202
+00:43:58,060 --> 00:44:19,599
+The weakness of the abstract materialism of Natural Science a materialism which excludes the historical process are immediately evident from the abstract and ideological conceptions expressed by its spokesmen whenever they venture beyond the bounds of their own speciality
+
+203
+00:44:19,599 --> 00:44:23,000
+Marx is a materialist but he's not a natural materialist
+
+204
+00:44:23,000 --> 00:44:41,810
+He'S a historical materialist and of course it's interesting that since Marx wrote when you start to look at some of the work that followed on tune structure of revolutions of Pharaoh Bend and so on
+
+205
+00:44:41,810 --> 00:45:09,650
+You start to see a lot more discussion over the social conditions under which certain scientific understandings are possible and when the social conditions change so those possibilities change but natural scientists themselves are often very difficult very very reluctant to deal with that
+
+206
+00:45:09,650 --> 00:45:25,220
+The idea that there are scientific paradigms and they're very different from each other and actually angles kind of commented on Marx and the theory of surplus-value and he kind of said
+
+207
+00:45:25,220 --> 00:45:31,640
+You know all the discussion about oxygen and he used that as an analogy for saying
+
+208
+00:45:31,640 --> 00:45:56,320
+Yo Marx took the same materials looking out and never come Atika li different interpretation through his historical materialist method of how capital works when the classical political economists
+
+209
+00:45:56,320 --> 00:46:10,210
+So this notion of Marx is laying out in this footnote is I think very important to understand the nature of his argument throughout the whole of capital
+
+210
+00:46:10,210 --> 00:46:37,510
+If you bear this in mind you get a very different understanding of capital and if you're looking for one economic deterministic kind of argument you could read capital and say yeah he's an economic determinist but I think that actually when you look at what he's doing I Don'T think his his economic determinism at all
+
+211
+00:46:37,510 --> 00:46:52,700
+This is about an evolutionary process in which simultaneously all of these elements - mental conceptions social relations production systems relations to nature technologies and so on
+
+212
+00:46:52,700 --> 00:47:10,840
+All of them are implicated in the way in which society gets transformed and I like to think about this I think about well how did how did what happened with the rise of neoliberalism from the 1970s onwards
+
+213
+00:47:10,840 --> 00:47:13,910
+So when I was writing about that I was thinking about okay
+
+214
+00:47:13,910 --> 00:47:16,840
+What are these elements altogether
+
+215
+00:47:16,840 --> 00:47:20,720
+Was it simply technological changes
+
+216
+00:47:20,720 --> 00:47:53,789
+Well there were a lot of organizational changes in particular deregulation in particular no global good like what we call globalization and another lot of new technologies began to enter in small batch production technologies suddenly started to displace mass production technologies of the traditional forest factory
+
+217
+00:47:53,789 --> 00:48:05,529
+So there are a lot of technological dynamism Oracle dynamism of which was involved in the rise of the neoliberal order but also Margaret Thatcher
+
+218
+00:48:05,529 --> 00:48:06,819
+What did she say she said
+
+219
+00:48:06,819 --> 00:48:19,359
+Look she says you can change the economy but I'm trying to change people's mentalities how they think how they are what their emotional states are about
+
+220
+00:48:19,359 --> 00:48:29,829
+I am going to change the soul and - and she was pretty effective at that she really was
+
+221
+00:48:29,829 --> 00:48:45,323
+She was a revolutionary thinker and she understood that you could change all these other things but if you didn't change mentalities and the mentality was towards a mentality of individualism and self-sufficiency and personal responsibility
+
+222
+00:48:45,323 --> 00:49:00,569
+if you got sick you need to take care of yourself if you're Unemployed: it's because you didn't invest in your own cultural capital and education
+
+223
+00:49:00,569 --> 00:49:05,339
+So when you think about the transformations have occurred
+
+224
+00:49:05,339 --> 00:49:19,710
+Social reproduction processes it's a great book by Melinda Cooper on you know what happened to social reproduction processes in the neoliberal era but the trouble with Melinda Cooper is that she thinks this is the only thing that matters
+
+225
+00:49:19,710 --> 00:49:26,999
+But if you take any one of these elements it looks as if that is one really mattered
+
+226
+00:49:26,999 --> 00:49:29,680
+Other people say it was a change of ideas
+
+227
+00:49:29,680 --> 00:49:35,819
+There are several books out and I would say neoliberalism was simply a change of ideas
+
+228
+00:49:35,819 --> 00:49:40,979
+There are others who kind of say it well it was a change of social relations
+
+229
+00:49:40,979 --> 00:49:52,599
+There was a change of mental conceptions a technology era but I actually think if you want to write the history of yeah transformation called neoliberalism which is what I tried to do in the book on neoliberalism
+
+230
+00:49:52,599 --> 00:49:53,710
+I was kind of saying: look
+
+231
+00:49:53,710 --> 00:49:58,040
+You got to look at all of this
+
+232
+00:49:58,040 --> 00:50:03,970
+Something stand out as being more significant and more important in a particularly historical era
+
+233
+00:50:03,970 --> 00:50:07,030
+One or other of these elements can be in the forefront
+
+234
+00:50:07,030 --> 00:50:22,359
+There'S no question that there are times when ideas get out in front of everything else but those ideas don't last if they're not implanted in social relations and all the rest of it
+
+235
+00:50:22,359 --> 00:50:32,660
+So again the historical materialist method is an attempt to understand those dynamism
+
+236
+00:50:32,660 --> 00:50:37,090
+But to understand things against this background that Marx is trying to sketch in here
+
+237
+00:50:37,090 --> 00:50:46,480
+That'S why I think in reading this chapter on machinery it's very important to watch for okay this is about technology
+
+238
+00:50:46,480 --> 00:50:51,080
+What'S it saying about metabolic relations you'll find a whole chunk on that
+
+239
+00:50:51,080 --> 00:50:54,850
+What'S he saying about family relations you'll find out chunk on that
+
+240
+00:50:54,850 --> 00:51:02,890
+What'S he saying about mental conceptions of the relations in nature the whole chunk on that all of these elements are there
+
+241
+00:51:02,890 --> 00:51:07,280
+So when somebody comes along and says oh this is really about technological determinism
+
+242
+00:51:07,280 --> 00:51:17,170
+The answer is no no it's not of course it's not and that's not what Marx is it seems to me is looking for
+
+243
+00:51:17,170 --> 00:51:38,810
+So I think that the whole structure of the book and the whole structure of Marx's project is to try to get behind these different elements all of which coexist and I think it's important if you kind of when you set it up
+
+244
+00:51:38,810 --> 00:51:44,300
+If you the way I do in my mind would you say: okay we can look at technologies and look at the relation to nature
+
+245
+00:51:44,300 --> 00:51:48,220
+It'S not as if the relation to nature is static
+
+246
+00:51:48,220 --> 00:52:03,859
+Each one of these elements ideas relation to nature technologies there's a certain autonomy and the autonomy is such that it moves of its own accord
+
+247
+00:52:03,859 --> 00:52:18,600
+It is not determined by everything else its conditioned by everything else so there are transformations going on in relation to nature
+
+248
+00:52:18,600 --> 00:52:38,190
+In the natural world if you wan na call it that transformations going on which are not determined by a human action new pathogens emerge all kinds of you know evolutionary processes are at work
+
+249
+00:52:38,190 --> 00:52:44,100
+I think again same would be true of ideas
+
+250
+00:52:44,100 --> 00:52:59,540
+This knows if ideas I was completely constrained people or thinking about different things all the time most of the time doesn't mean anything but something can come along and something can suddenly spark something and suddenly whoof
+
+251
+00:52:59,540 --> 00:53:08,730
+So each one of these elements is autonomous but and internally related to all the other elements
+
+252
+00:53:08,730 --> 00:53:12,020
+You get a good idea
+
+253
+00:53:12,020 --> 00:53:16,820
+The idea is we're gon na create a socialist society
+
+254
+00:53:16,820 --> 00:53:23,420
+Okay you've got a utopian vision as to what that socialist society is gon na be look like
+
+255
+00:53:23,420 --> 00:53:27,180
+Why do you have to do to make that idea
+
+256
+00:53:27,180 --> 00:53:36,380
+Real well you've got to start changing all these other elements and all these other elements have to conform
+
+257
+00:53:36,380 --> 00:54:19,250
+Good luck It'S a bit of a hard job just to do it that way and in fact many people have tried and failed most utopian communes and just collapse after you know one generation collapse in six weeks so this is this is if you like the the core of What Marx is about - and this is what I would hope you get out - of - reading capital in a constructive kind of interesting way
+
+258
+00:54:19,250 --> 00:54:22,170
+So let's then get into the first
+
+259
+00:54:22,170 --> 00:54:59,000
+I suggested you look at the first three parts of and so that what we're going to look at then is the development of machinery and here you see immediately Marx is talking about something called the Industrial Revolution now before this people didn't really use that sort of Turn but Marx talks about the Industrial Revolution and he says he's a theorist of the Industrial Revolution
+
+260
+00:54:59,000 --> 00:55:02,210
+What was the Industrial Revolution all about
+
+261
+00:55:02,210 --> 00:55:08,551
+Was there an industrial revolution and his answer was yes there was
+
+262
+00:55:08,551 --> 00:55:27,042
+and the Industrial Revolution was a transformation of the tool or workshop kind of technology into something much bigger and much more systematic
+
+263
+00:55:27,042 --> 00:55:44,909
+at what point did implements as he puts it but attained the statue of Machines and was it possible for this to happen without a chance relation of revolution and the mode of production
+
+264
+00:55:44,909 --> 00:56:04,310
+and interestingly he sort of starts off by pointing out that the steam engine itself was on 496 such as it was at its invention during the manufacturing period The close of the seventeenth century did not give rise to any Industrial Revolution
+
+265
+00:56:04,310 --> 00:56:26,433
+What does characterize the Industrial Revolution he says is the Machine which is the starting point of the Industrial Revolution replaces the worker who handles a single tool by a neck-and-neck anism operating with a number of similar tools and set in motion by a single motive power Whatever the form of that power
+
+266
+00:56:26,433 --> 00:57:01,010
+here we have the machine but in its first role as a simple element in production by machinery so he tries then to put together a picture of how implements and tools got incorporated into something that had a mechanical character This transformation
+
+267
+00:57:01,010 --> 00:57:02,720
+He says this is a five
+
+268
+00:57:02,720 --> 00:57:08,930
+Oh one an essential difference at once appears in manufacture
+
+269
+00:57:08,930 --> 00:57:17,140
+It is the workers who either singly or in groups must carry on each particular process with their manual implements
+
+270
+00:57:17,140 --> 00:57:26,770
+The worker has been appropriated by the process but the process had previously to be adapted to the worker
+
+271
+00:57:26,770 --> 00:57:32,950
+This subjective principle of the division of labor no longer exists in production by machinery
+
+272
+00:57:32,950 --> 00:57:42,819
+Here the total process is examined objectively viewed in and for itself and analyzed into its constitutive phases
+
+273
+00:57:42,819 --> 00:58:09,970
+The problem of how to execute each particular process and to bind the different partial processes together into a whole is solved by the aid of machines chemistry the collective working machine which is now an articulated system composed of various kinds of single machine of groups of single Machines becomes all the more perfect the more the process as a whole becomes a continuous one
+
+274
+00:58:09,970 --> 00:58:28,050
+Out of this comes the vision of the machine as a vast automaton and then he 503 says there's an external example both of continuity of production and implementation of the automatic principle
+
+275
+00:58:28,050 --> 00:58:35,542
+We may take a modern paper mill in the paper industry generally We might advantageously study in detail
+
+276
+00:58:35,542 --> 00:58:50,659
+not only the distinctions between modes of production based on different means of production but also the connection between the social relations of production and those modes of production notice technology social relations
+
+277
+00:58:50,659 --> 00:59:09,150
+and he then talks about German old system bottom of 503 an organized system of machines to which motion is communicated by the transmitting mechanism with an automatic center is the most developed form of production by machinery
+
+278
+00:59:09,150 --> 00:59:28,830
+Here we have in place of the isolated machine and mechanical monster whose body fills whole factories and whose demonic power at first hidden by the slow and measured motions of its gigantic members finally burst forth in the fast and feverish whirl of its countless working organs
+
+279
+00:59:28,830 --> 00:59:35,940
+The speed of production is now longer and there's in the under the control of the worker
+
+280
+00:59:35,940 --> 00:59:38,050
+The machine now controls speed
+
+281
+00:59:38,050 --> 00:59:43,690
+Then he goes on
+
+282
+00:59:43,690 --> 00:59:53,610
+There were mules and steam engines before there were any workers exclusively occupied in making mules and steam engines and then he talks about those who started to invent
+
+283
+00:59:53,610 --> 01:00:12,850
+It was invention by the skilled mechanical workers that was absolutely crucial and what this meant was when the system had attained a certain degree of development sazon 504 it had to overthrow its ready-made foundation
+
+284
+01:00:12,850 --> 01:00:24,450
+That is the manufacturing system which had meanwhile undergone further development in its old form and create for itself a new basis appropriate appropriate to its own mode of production
+
+285
+01:00:24,450 --> 01:00:33,880
+So the Machine the mode of production and the social relations are all Tran being transformed the Machine owed
+
+286
+01:00:33,880 --> 01:00:50,490
+Its existence to personal strength and personal skill and depended on the muscular development the keenness of sight and manual dexterity with which specialized workers in manufacture and the handicrafts from outside manufacture will did their dwarf-like implements
+
+287
+01:00:50,490 --> 01:01:01,450
+The expansion of industries carried on by means of machinery and the invasion of Brest fresh branches of production by machinery were dependent on the growth of a class of workers
+
+288
+01:01:01,450 --> 01:01:12,480
+So we're now getting a class formation who owing to the semi artistic nature of their employment could increase their numbers only gradually and not by leaps and bounds
+
+289
+01:01:12,480 --> 01:01:24,269
+But beside this a certain stage of its development large-scale industry also came into conflict for the technical basis provided for it by handicrafts and manufacture
+
+290
+01:01:24,269 --> 01:02:12,180
+So he's talking about the way in which machines are beginning to take over the role of Labor and turn labor into something which is radically different radically different experience radically different social relations but it doesn't occur or at once it's a gradual displacement gradual transformation and within This there are certain groups of workers who emerge as innovators because a lot of this work is being done by the workmen themselves: the semi artistic growth of a class of workers who are concerned with changing productivity
+
+291
+01:02:12,180 --> 01:02:17,829
+But what this means is this also misses 5:05
+
+292
+01:02:17,829 --> 01:02:26,160
+The transformation of the mode of production in one sphere of Industry necessitates a similar transformation in other spheres
+
+293
+01:02:26,160 --> 01:02:35,829
+This happens at first in branches of industry which are connected together by being separate phases of a process and yet isolated by the social division of labour
+
+294
+01:02:35,829 --> 01:02:51,640
+In such a way that each of them produces an independent commodity thus machines made machine weaving necessary and both together made a mechanical and chemical revolution compulsory in bleaching printing and dyeing
+
+295
+01:02:51,640 --> 01:02:59,620
+That is given the divisions of labor and the whole structure of inputs and outputs
+
+296
+01:02:59,620 --> 01:03:00,730
+That was going on
+
+297
+01:03:00,730 --> 01:03:12,990
+You couldn't have a Neve a machine production occurring here without actually having parallel inventions going on over there
+
+298
+01:03:12,990 --> 01:03:21,040
+The revolution and cotton spinning said called forth the invention of the cotton gin for separating the seeds from the cotton fiber
+
+299
+01:03:21,040 --> 01:03:29,010
+It was only by means of this invention that the production of cotton became possible on the enormous scale at present required
+
+300
+01:03:29,010 --> 01:03:44,940
+But as well as this the revolution in the modes of production of industry and agriculture made necessary a revolution in the general conditions of the social process of production in the means of communication and transport and then he talks about some of this
+
+301
+01:03:44,940 --> 01:03:54,810
+In the same way the means of communication and transport handed down from the period of manufacture soon became unbearable fetters on large-scale industry
+
+302
+01:03:54,810 --> 01:04:06,490
+Given the feverish velocity with which it produces its enormous extent its constant flinging of capital and labor from one sphere of production into another and its newly created connections with the world market
+
+303
+01:04:06,490 --> 01:04:26,220
+Hence quite apart from the immense transformation which took place in shipbuilding the means of communication and transport and transport gradually adapted themselves to the mode of production of large-scale industry by means of a system of river steamers railways ocean steamers and Telegraph's
+
+304
+01:04:26,220 --> 01:04:35,680
+We often think of technological change as actually being the result of an individual an inventor or something of this kind
+
+305
+01:04:35,680 --> 01:04:38,440
+What Marx is talking about here is kind of saying
+
+306
+01:04:38,440 --> 01:04:47,250
+Technological changes in this sphere actually put immense pressure upon parallel technological changes in another sphere
+
+307
+01:04:47,250 --> 01:05:05,040
+If the cotton gin had not been invented the cotton industry would have just collapsed even though the cotton industry itself had become highly mechanized
+
+308
+01:05:05,040 --> 01:05:21,670
+He then kind of comments about this but the huge masses of iron that had now to be forged welded cut board and shaped required for their part machines of a cyclopean dimensions which the machine building trades of the period of manufacture were incapable of constructing
+
+309
+01:05:21,670 --> 01:05:25,080
+And here comes the big friendly
+
+310
+01:05:25,080 --> 01:05:38,730
+Large-Scale industry therefore had to take over the machine itself its own characteristic instrument of production and to produce machines by means of machines
+
+311
+01:05:38,730 --> 01:06:07,840
+It was not till it did this that it could create for itself an adequate technical foundation and stand on its own feet at the same time as machine production was becoming more general in the first decades of the 19th century it gradually took over the construction of The machines themselves that is the machine tool industry arises and you start to make machines by machines now
+
+312
+01:06:07,840 --> 01:06:23,010
+The argument here is that as you remember when we're dealing with the handicraft the manufacturing phase that it reached a point where it could go no further
+
+313
+01:06:23,010 --> 01:06:46,700
+Have this immense erection instead of fantastic kind of structure to try to accommodate but capital had not invented its own distinctive technology which is going to be the technology of a capitalist mode of production
+
+314
+01:06:46,700 --> 01:07:01,460
+And now it is done so and that technology is a technology in which machines are used to produce machines and this is Marksaeng
+
+315
+01:07:01,460 --> 01:07:13,420
+Finally capital defines a technology which is adequate to its capacities and its purpose
+
+316
+01:07:13,420 --> 01:07:19,240
+Now this doesn't sound like technology to determining does it
+
+317
+01:07:19,240 --> 01:07:29,690
+This sounds like capital has been looking every way to find a technology which will actually fit its social relations and fit its dynamism and all the rest of it
+
+318
+01:07:29,690 --> 01:07:55,960
+And finally it found it so instead of technology leading the transition from feudalism into capitalism the technology is the final moment where capital actually comes to be itself through this Industrial Revolution and technological revolution
+
+319
+01:07:55,960 --> 01:08:06,470
+The most essential condition for the production of machines by machines was a prime mover capable of exerting any amount of force while retaining perfect control
+
+320
+01:08:06,470 --> 01:08:11,080
+The steam engine already fulfilled this condition
+
+321
+01:08:11,080 --> 01:08:35,250
+Remember the steam engine didn't lead into the creation of this new technology but the steam engine is perfect for the way this technology is going to be orchestrated and organized
+
+322
+01:08:35,250 --> 01:08:47,530
+So this is the story that Marx is telling here but this has other implications right towards the ends of this first section
+
+323
+01:08:47,530 --> 01:09:04,260
+He says as machinery the instrument of labor assumes a material mode of existence which necessitates the replacement of human force by natural forces and the replacement of the rule of thumb by the conscious application of Natural Sciences
+
+324
+01:09:04,260 --> 01:09:13,240
+Knowledge mental conceptions in manufacture the organization of the social Loba process is purely subjective
+
+325
+01:09:13,240 --> 01:09:16,170
+It is a combination of specialized workers
+
+326
+01:09:16,170 --> 01:09:33,970
+Large-Scale industry on the other hand possesses in the machine system an entirely objective organization of production which confronts the worker as a pre-existing material condition of production in simple cooperation and even in the more specialized forms of the division of labor
+
+327
+01:09:33,970 --> 01:09:36,370
+The extrusion of the isolated worker
+
+328
+01:09:36,370 --> 01:09:56,960
+By the associated worker still appears to be more or less accidental machinery with few exceptions to be mentioned later operates only by means of associated labor a radical transformation of social relations
+
+329
+01:09:56,960 --> 01:10:09,710
+Hence the cooperative character of the Labour process is in this case a technical necessity dictated by the very nature of the instrument of nature
+
+330
+01:10:09,710 --> 01:10:22,610
+So what's involved here is that capital is striving to find a way to develop a technology which is unique to its requirements
+
+331
+01:10:22,610 --> 01:10:31,640
+It does so bit by bit but we then see a situation where there are spillover effects
+
+332
+01:10:31,640 --> 01:10:44,060
+Technological changes here require technological changes there and this bill over effects become widespread
+
+333
+01:10:44,060 --> 01:11:03,390
+Suddenly the whole society becomes industrialized including means of communication and transportation and mining and all the rest of it and that means that there's an objective character to the production system
+
+334
+01:11:03,390 --> 01:11:11,370
+It'S no longer a skill which is sort of learned at the foot of a skilled laborer
+
+335
+01:11:11,370 --> 01:12:01,080
+It'S no longer skill it's just simply a way in which labour is now employed by the Machine rather than labour using the machine where I think labourer uses the implements commands the implements now the machine it's been a reversal and that reversal is also connected with the Application of natural science and technology so production is no longer an art but it's a science and a technology back in the feudal period of production was considered an art and it was mysterious
+
+336
+01:12:01,080 --> 01:12:19,070
+Nobody knew exactly but by the time you get to machine technology it's no longer an artist it's a technology and a science transformation and mental conceptions right so already in this first section not only we've seen technology is but we've also seen transformation of mode of production
+
+337
+01:12:19,070 --> 01:12:41,420
+Of the mental conceptions I'm a social relations and of the social relations in relationship to the technology and all the rest of it in other words this very first section is invoking different elements of that integrated picture that I already mentioned
+
+338
+01:12:41,420 --> 01:12:57,900
+The second part poses the problem of how is the value of the machine transferred to the product by the way
+
+339
+01:12:57,900 --> 01:13:11,720
+There is this footnote on 508 science generally speaking costs the capitalist noting a fact that by no means prevents him from exploiting it
+
+340
+01:13:11,720 --> 01:13:28,170
+Alien science is incorporated by capital justice alien labor is but capitalist appropriation and personal appropriation whether of science or material wealth are totally different things anyway section two the value transferred
+
+341
+01:13:28,170 --> 01:13:38,330
+I here makes something very clear and it's problematic or often problematic
+
+342
+01:13:38,330 --> 01:13:40,890
+He says on 5:09 capital
+
+343
+01:13:40,890 --> 01:13:48,200
+Now sets the worker to work not with a manual tool but with a machine which itself handles the tools
+
+344
+01:13:48,200 --> 01:14:12,940
+Therefore although it is clear at the first glance that large-scale industry raises the productivity of labour to an extraordinary degree by incorporating into the production process both the immense forces of nature and the results arrived at by natural science it is by no means equally clear that This increase in productive force is not on the other hand purchased with an increase in the amount of labor expended
+
+345
+01:14:12,940 --> 01:14:19,790
+Machinery like every other component of constant capital creates no new value underline it
+
+346
+01:14:19,790 --> 01:14:25,190
+Machinery creates no new value
+
+347
+01:14:25,190 --> 01:14:28,449
+I said a third time
+
+348
+01:14:28,449 --> 01:14:36,110
+Machinery creates no new value but says Marx
+
+349
+01:14:36,110 --> 01:14:48,160
+It yields up its own value to the product it serves to beget so some of the valuing embodied in the Machine is transferred to the product
+
+350
+01:14:48,160 --> 01:14:50,090
+Now how is that done
+
+351
+01:14:50,090 --> 01:15:01,930
+That is not a material process because it's not as if bits of the machine - and you count the bits of the machine that flow into the cotton
+
+352
+01:15:01,930 --> 01:15:12,850
+You can't do that but the value of the machine is transferred when there's no material movement
+
+353
+01:15:12,850 --> 01:15:14,480
+It is crystal clear
+
+354
+01:15:14,480 --> 01:15:26,030
+He says that machines and systems of machinery large scale industries characteris against was suffered labor now incomparably more loaded with value than the implements used in handicrafts and mini manufacture
+
+355
+01:15:26,030 --> 01:15:41,440
+The machine incorporates more value because of the labor incorporated in it then labourers holding a bunch of spades or or whatever
+
+356
+01:15:41,440 --> 01:15:45,140
+So how do we deal with this
+
+357
+01:15:45,140 --> 01:15:53,870
+In the first place it must be observed the machinery while always entering as a whole into the labor process and there's only piece by piece into the process of valorisation
+
+358
+01:15:53,870 --> 01:15:58,969
+It never adds more value than it loses on an average by depreciation
+
+359
+01:15:58,969 --> 01:16:04,630
+So he's introducing here the notion of the depreciation of the machine over a period of time
+
+360
+01:16:04,630 --> 01:16:11,810
+Hence there is the great difference between the value of a machine and the value transferred in a given time by the machine to the product
+
+361
+01:16:11,810 --> 01:16:50,700
+Here we go into a straight-line depreciation argument which is if that machine's going to last for ten years then one tenth of the value of the machine is transferred the product in the first year another tenth in the next year and after ten years the whole value Of the machine has gone into the product so it's one you know depending upon the lifetime in the machine the lifetime is ten years whose life is twenty years whichever way so that's fairly sort of straight straightforward and not going to go much much further with it
+
+362
+01:16:50,700 --> 01:17:14,640
+But there is an interesting kind of calculation which Marx sets up about when is it worthwhile using a machine as opposed to using labor because if the machine displaces labor and you save a lot of labour then at what point Do you say
+
+363
+01:17:14,640 --> 01:17:28,860
+Okay there's no point in me going even further in mechanization because I'm not saving labor anymore and he introduces a rule here on 5/13 which is actually has important historical significance
+
+364
+01:17:28,860 --> 01:17:44,239
+It is evident he says that whenever it costs as much labor to produce a machine as is saved by the employment of that machine all that has taken place is a displacement of labour
+
+365
+01:17:44,239 --> 01:17:48,600
+Consequently the total labor required to produce a commodity has not been lessened
+
+366
+01:17:48,600 --> 01:18:01,110
+In other words the productivity of labour has not been increased so it's important to look then at the difference between the labourer machine costs and the laborer
+
+367
+01:18:01,110 --> 01:18:04,500
+It saves in other words the degree of productivity
+
+368
+01:18:04,500 --> 01:18:12,410
+The machine possesses does not depend on the difference between a certain value in the value of the tool it replaces
+
+369
+01:18:12,410 --> 01:18:27,020
+The productivity of the machine is therefore measured by the human labor power it replaces then he gives some examples before we get there
+
+370
+01:18:27,020 --> 01:18:42,889
+However there's an interesting footnote on 5:12 to 5:13 in which he sets up again about capitalism but this is about Descartes the bottom
+
+371
+01:18:42,889 --> 01:19:03,860
+At five twelve he says Descartes like bacon thought that the altered methods of thought would result in an alteration in the shape of production and the practical subjugation of nature by man and then there's a quotation from their carts discourse of a method
+
+372
+01:19:03,860 --> 01:19:11,420
+It is possible to attain knowledge very useful in life and in place of speculative philosophy taught in the schools
+
+373
+01:19:11,420 --> 01:19:25,659
+One can find a practical philosophy by which given that we know the powers and the effectiveness the fire water air and stars and all the other bodies that surround us as well as accurate is we know the various trades of our craftsmen
+
+374
+01:19:25,659 --> 01:19:35,989
+We shall be able to employ them in the same manner as a latter to all those uses to which they are adapted and thus as it were make ourselves
+
+375
+01:19:35,989 --> 01:19:41,139
+The Masters and possessors of nature
+
+376
+01:19:41,139 --> 01:19:50,750
+That is the idea of the mastery of nature becomes rather important
+
+377
+01:19:50,750 --> 01:20:16,740
+But could not be envisaged before we started to get towards mechanical understandings of the world but the rule about the employment of machines in relationship to labor is important and he elaborates it on 5:15 in the following way
+
+378
+01:20:16,740 --> 01:20:35,200
+The use of machinery for the exclusive purpose of cheapening the product is limited by the requirement that less labor must be expended in producing the machinery than is displaced by the employment of that machinery for the capitalists
+
+379
+01:20:35,200 --> 01:20:37,530
+However there is a further limit on its use
+
+380
+01:20:37,530 --> 01:20:42,400
+Instead of paying for the labor he pays only the value of the labor power employed
+
+381
+01:20:42,400 --> 01:20:53,760
+The limit to his using a machine is therefore fixed by the difference between the value of the machine and the value of the labor power replaced by it
+
+382
+01:20:53,760 --> 01:21:06,180
+Okay with that again the limit who's using machine is fixed by the difference between the value of the machine and the value of the labor power replaced by it
+
+383
+01:21:06,180 --> 01:21:47,890
+This by the way is helpful for understanding certain practices of reverse engineering that were characteristic not so much anymore but were characteristic in China during the 1990s in which a very expensive machinery was brought in but labor was so cheap that the best things the Chinese could Do was to reverse-engineer the machine and Ashley disassembled the machine so that you actually displaced the machine by labor and yeah
+
+384
+01:21:47,890 --> 01:21:51,190
+I mean the cost of the machine was so huge and they bought it
+
+385
+01:21:51,190 --> 01:21:54,190
+They could go get another machine or they could do a reverse engineering
+
+386
+01:21:54,190 --> 01:22:05,860
+On the machine and then sort of a production process entirely about human labor and not about machinery at all that's because there were surpluses of labor and labor was dirt cheap
+
+387
+01:22:05,860 --> 01:22:10,480
+The machines were extremely expensive given the exchange rates and all the rest of it
+
+388
+01:22:10,480 --> 01:22:20,598
+So there was a lot of reverse engineering going on and in China during the 1990s 2000 Maybe
+
+389
+01:22:20,598 --> 01:22:43,759
+precisely because this calculus - and actually this calculus becomes important and even in the Marxist time because as he says when you look at the pressure of competition - and this is on 5/16
+
+390
+01:22:43,759 --> 01:22:57,940
+he says hence the invention nowadays in England of machines that are employed only in North America North America industrialization was a situation where there was scarcity of Labor
+
+391
+01:22:57,940 --> 01:23:09,670
+Britain when Marx was writing had an abundance of unemployed labor so machine was invented
+
+392
+01:23:09,670 --> 01:23:15,349
+British industrialists kind of looked at it and said this is too expensive relative to the cost of the machine
+
+393
+01:23:15,349 --> 01:23:21,230
+I know labor but in the United States where labor was very expensive the machine was considered
+
+394
+01:23:21,230 --> 01:23:37,000
+You know a good deal so you get according to Marx a tendency to apply the innovation in that place where there is labor scarcity and you don't apply it where there's labor cell labour surpluses
+
+395
+01:23:37,000 --> 01:24:01,309
+So there's a differential in the deployment of machines depending upon that calculus and and then he has some stuff about the machine when he puts it from the standpoint of the capitalists in those several branches of industries
+
+396
+01:24:01,309 --> 01:24:18,920
+From the standpoint of capitalists the use of machinery was superfluous and often impossible because his profit came from a reduction in the labor paid for not in the labor employed the factory Act and they talks about that and and hence the substitution of machinery
+
+397
+01:24:18,920 --> 01:24:24,790
+For the half time as before the labor of women and children under 10 years old was forbidden in mines
+
+398
+01:24:24,790 --> 01:24:33,800
+The capitalist considered the employment of naked women and girls often in company with men so far sanction by their moral code and especially by their Ledger's
+
+399
+01:24:33,800 --> 01:24:38,560
+There was only after the passing of the patrie Act that they had recourse to machinery
+
+400
+01:24:38,560 --> 01:24:41,750
+The Yankees have invented a stone breaking machine
+
+401
+01:24:41,750 --> 01:24:48,050
+The English do not make use of it because the wretch who does this work gets paid for such a small portion of his labour
+
+402
+01:24:48,050 --> 01:25:04,760
+That machinery would increase the cost of production to the capitalists in England women are still occasionally used instead of horses for hauling barges because the labor required to produce horses and machines is an accurately known quantity while that required to maintain the women of the surplus population
+
+403
+01:25:04,760 --> 01:25:06,920
+Is beneath all calculation
+
+404
+01:25:06,920 --> 01:25:29,920
+Hence we know where find a more shameless squandering of human labour power for despicable purposes than in England the land of machinery so the calculus about transformation of you know the deployment of machines but remember machines cannot produce value
+
+405
+01:25:29,920 --> 01:25:39,430
+They are important for a variety of reasons but machines do not produce value
+
+406
+01:25:39,430 --> 01:25:53,090
+Section 3 the most immediate effects of machine production on the worker and there are whole series of issues here: appropriation of supplementary labor power by capital the employment of women and children Already
+
+407
+01:25:53,090 --> 01:26:09,940
+For briefly mentioned that again women and children could operate machinery in ways that they couldn't operate if they needed their own physical power to work things
+
+408
+01:26:09,940 --> 01:26:14,290
+But when this happens something else happened
+
+409
+01:26:14,290 --> 01:26:44,399
+Machinery says marks on 5:19 also revolutionizes and quite fundamentally the agency through which capital relation is formally mediated ie the contract between the worker and the capitalist taking the exchange of commodities as our basis our first assumption was the kapust and the worker confronted each other as Free persons as independent owners of commodities the one possessing money and the means of production the other labor power which is where we've been so far
+
+410
+01:26:44,399 --> 01:26:48,320
+But now the capitalist buys children and young persons
+
+411
+01:26:48,320 --> 01:26:56,550
+Previously the worker sold his own labor which he disposed of as a free agent formerly speaking now he sells wife and child
+
+412
+01:26:56,550 --> 01:27:07,760
+He has become a slave dealer and this actually is a very interesting shift
+
+413
+01:27:07,760 --> 01:27:22,349
+That is that when the family income substitutes for the individual labor income we get a completely different regime and actually Marx is talking about this in this time
+
+414
+01:27:22,349 --> 01:27:25,999
+This is what happened in the 1970s and 1980s
+
+415
+01:27:25,999 --> 01:27:31,679
+Individual incomes were going down family incomes was stable Why
+
+416
+01:27:31,679 --> 01:27:52,879
+Because women were going out to work and so it became family labor and the family was substituted for the individual weight and capitalists have found this frequently in the past and during this period you hired the whole family
+
+417
+01:27:52,879 --> 01:27:54,659
+That is you hire
+
+418
+01:27:54,659 --> 01:28:00,059
+Somebody would come and look for a job and the employer would say well you know you're all very well but how many
+
+419
+01:28:00,059 --> 01:28:06,059
+How many you've got a wife and how many kids you got and how old are they personally say
+
+420
+01:28:06,059 --> 01:28:19,459
+Okay I got three kids all over eight which case the employer would say: okay I'll hire you and the family wage which is not much different from what the individual wage was previously
+
+421
+01:28:19,459 --> 01:28:37,919
+So this question of again the social relation which is involved and that could happen also because machinery could be managed by children or you could find ways within a factory to employ children in ways that were very difficult to do
+
+422
+01:28:37,919 --> 01:29:00,809
+If you were in a workshop where there was a certain skill using a machine of using a tool because the wife and the children would not know how to use the tools so the degree of exploitation our labor force depends very much on these things
+
+423
+01:29:00,809 --> 01:29:05,599
+And there's a real radical effect
+
+424
+01:29:05,599 --> 01:29:17,429
+Now Marx is often said he doesn't deal much with domestic labor but as the footnote on 518 where he does he quotes
+
+425
+01:29:17,429 --> 01:29:30,260
+The numerical increase of labor labourers has been great through the growing substitute of female for male and above all of child is for adult labor and this is from Thomas Quincy
+
+426
+01:29:30,260 --> 01:29:37,380
+There Marx comments since certain family functions such as nursing and subtle and children cannot be entirely suppressed
+
+427
+01:29:37,380 --> 01:29:42,050
+The mothers who have been confiscated by capital must try substitutes for some sort
+
+428
+01:29:42,050 --> 01:29:48,420
+Domestic work such as sewing and mending must be replaced by the purchase of ready-made articles
+
+429
+01:29:48,420 --> 01:29:57,869
+Hence the diminished expenditure of labor in the house is accompanied by an increased expenditure of money outside the cost of production of the working class family
+
+430
+01:29:57,869 --> 01:30:09,409
+Therefore increases and balances is greater income in addition to this economy and judgment in the consumption and preparation of the means of subsistence become impossible
+
+431
+01:30:09,409 --> 01:30:18,110
+Abundant material on these facts which are concealed by official political economy is to be found in the reports of inspectors of factories
+
+432
+01:30:18,110 --> 01:30:39,269
+So that what's going on in a domestic sphere is affected by many of these transformations that are occurring when Mars goes on to comment in the main text and machinery also revolutionizes and quite fundamentally the agency through which the capital relation is formally mediated
+
+433
+01:30:39,269 --> 01:30:54,179
+Ie the contract between worker and capitalists which leads of course to this traffic in children working-class parents of assumed characteristics which are truly revolting and thoroughly like slave dealing
+
+434
+01:30:54,179 --> 01:31:10,010
+So you abolish slavery but then you reintroduce it gets reintroduced by the way in which children are disposed of by their parents as kind of agents in this industrial system and we get a lot of kind of commentary on that
+
+435
+01:31:10,010 --> 01:31:36,870
+The use of opiates with children moral degradation that occurs through the transom forming immature human beings into mere machines for the production of surplus-value and then Marx has some ironic things to say about the spirit of capital as incorporated in education and the fat reacts
+
+436
+01:31:36,870 --> 01:32:12,929
+And things of this kind and the introduction of schooling into so the first impact on the working class is to suddenly say it's no longer individual labour but family labor which becomes significant and the family wage which becomes significant section be about impact prolongation of the working Day prolongation of working day arrives arises because capital wants to recuperate whatever capita advance is particularly in the use of machines as fast as possible
+
+437
+01:32:12,929 --> 01:32:35,909
+Therefore you want to prolong the working day rather than shorten it and - and this is an automatic mechanism in the person of the capitalist with the consciousness and will who is going to prolong the working day in order to recuperate as much capital as they can
+
+438
+01:32:35,909 --> 01:32:48,590
+As fast as they possibly can before the competition takes over but and then goes on to say in addition to the material wear and tear a machine also undergoes what we might call a moral depreciation
+
+439
+01:32:48,590 --> 01:32:50,580
+It'S a very weird term
+
+440
+01:32:50,580 --> 01:32:59,820
+It loses exchange value either because machines have the same sort of being produced more cheaply than it was well because better machines are entering into competition with it
+
+441
+01:32:59,820 --> 01:33:14,670
+In both cases however young however however young and full of life the machine may be its value is no longer determined by the necessary labour-time actually objectified in it but by the labor time necessary to reproduce either it or the better machine
+
+442
+01:33:14,670 --> 01:33:28,890
+It has therefore been valued so we get this idea of devaluation through competition from new and better machines or cheaper machines in order to foreclose on that and avoid devaluation
+
+443
+01:33:28,890 --> 01:34:08,310
+You want the machine to be deployed for 24 hours a day that leads into the shift system which he talks about and the like and this leads in Section C into the question: the intensification of Labor which is a very important thing - that the machine will have Its you know the speed of the machine is in the control of somebody else and therefore you can intensify labor by simply speeding up the machinery but here comes an interesting thing
+
+444
+01:34:08,310 --> 01:34:20,190
+I'Ve argued that machines cannot produce value but machinery produces relative surplus-value Okay
+
+445
+01:34:20,190 --> 01:34:30,674
+Now this is contradictory premises machines don't produce value but machines produce relative surplus-value
+
+446
+01:34:30,674 --> 01:34:42,151
+because by raising the productivity and the way we talked about in the theory relative surplus-value the machine allows for the reduction in the value of labour-power because wage goods are coming cheaper
+
+447
+01:34:42,151 --> 01:34:59,995
+and also For individual capitalists a technological advantage produces a relative surplus value on a temporary kind of basis and that relative surplus value comes from having a superior machine
+
+448
+01:34:59,995 --> 01:35:04,890
+so machines are a source of relative surplus-value but not a source of value
+
+449
+01:35:04,890 --> 01:35:18,140
+Now it's understandable that the capitalists would think they're a source of value right because in effect when the capitalist looks at the situation says the machine gives me surplus value
+
+450
+01:35:18,140 --> 01:35:41,040
+Therefore it says the machine is a source of surplus value but mark says no it's not It'S Not a source of surplus value machines do not produce value but it is a source of relative surplus and there's a relativity that is important here because the machine produces the relativity that underpins the surplus value
+
+451
+01:35:41,040 --> 01:35:49,330
+So what machines produces the relativity and the relativity gives rise to the surplus value now
+
+452
+01:35:49,330 --> 01:36:03,780
+The reason that this is important is that that this is the heart of some very important contradictions which are going to be a subject of inquiry throughout capital
+
+453
+01:36:03,780 --> 01:36:19,650
+But you cannot produce relative surplus-value without transforming relations to labor and you cannot do it and with all these implications about intensity and all the rest of it
+
+454
+01:36:19,650 --> 01:36:24,700
+And much of this happens behind the backs of the capitalist
+
+455
+01:36:24,700 --> 01:36:42,261
+The capitalists are not conscious necessarily of what is going on but what Marx is trying to do is to saying what has to happen Is this and capitalists even though they're not conscious of it end up doing this for certain reasons and if they don't end up doing this this produces a contradiction
+
+456
+01:36:42,261 --> 01:37:05,350
+and later on we'll get into the idea that individual capitalists seeking to maximize the productivity our actually going To create consequence which is gon na be very negative for the reproduction of the capitalist class so we're going to get into that contradiction further down the line but that goes back to that comment
+
+457
+01:37:05,350 --> 01:37:16,260
+I read much earlier about the premises mutually interacting contradictions and we're beginning to see some of that emerging here
+
+458
+01:37:16,260 --> 01:37:18,730
+Marx and five thirty one says
+
+459
+01:37:18,730 --> 01:37:24,120
+Hence there is an imminent contradiction in the application of machinery to production of surplus-value
+
+460
+01:37:24,120 --> 01:37:33,550
+Since of the two factors of the surplus value created by a given amount of capital one the rate of surplus-value cannot be increased except by diminishing the other
+
+461
+01:37:33,550 --> 01:37:43,179
+The number of workers - and we've done a little bit of that earlier when we're talking about the rate and master valia
+
+462
+01:37:43,179 --> 01:37:48,800
+This contradiction comes to light as soon as machinery has become into general use in a given industry
+
+463
+01:37:48,800 --> 01:37:55,309
+For them the value of the machine produced commodity regulates the social value of all commodities of the same kind
+
+464
+01:37:55,309 --> 01:38:04,429
+And is this contradiction which in turn drives the capitalist without his being aware of the fact to the most ruthless and excessive prolongation of the working day
+
+465
+01:38:04,429 --> 01:38:23,380
+In order that he may secure compensation for the decrease in the relative number of workers exploited by increasing not only relative but also absolute surplus labor these are the incentives he says for an unbounded prolongation of the working day
+
+466
+01:38:23,380 --> 01:38:28,809
+Machinery then says produces a surplus working population
+
+467
+01:38:28,809 --> 01:38:51,010
+You displace workers you produce unemployment and that surplus population which is compelled to submit to the dictates of capital hence that remarkable phenomenon in the history of modern industry that machinery sweeps away every moral and natural restriction on the length of the working-day
+
+468
+01:38:51,010 --> 01:38:54,860
+Now you would have thought machinery would lighten the load of labour
+
+469
+01:38:54,860 --> 01:38:57,499
+This is what John Stuart Mill was always going on about
+
+470
+01:38:57,499 --> 01:39:06,046
+He couldn't understand how machinery which in principle should right through the load of late labor hadn't done anything of the sort it made
+
+471
+01:39:06,047 --> 01:39:15,579
+it made conditions of labor worse industrial mill couldn't understand why Marx is saying Oh it's obvious w hy
+
+472
+01:39:15,579 --> 01:39:38,360
+Hence to the economic paradox at the most powerful instrument for reducing labour time suffers a dialectical inversion and becomes the most unfailing means for turning the whole lifetime of the worker and his family into the labor time at capital's disposal for its own valorisation again
+
+473
+01:39:38,360 --> 01:39:49,360
+This is not labour being introduced to us to a machine which is going to line lighten the load
+
+474
+01:39:49,360 --> 01:39:52,949
+That is exactly the opposite
+
+475
+01:39:52,949 --> 01:39:56,699
+I think Marx is very astute here in sort of saying yeah
+
+476
+01:39:56,699 --> 01:39:59,489
+This is what the logic of the system is doing
+
+477
+01:39:59,489 --> 01:40:07,820
+This is what competitive capitalism necessarily does wherever cavernous likes it or not and certainly whether the labourer likes it or not
+
+478
+01:40:07,820 --> 01:40:48,900
+This is what the Labour lebra has to revolt against but in order revolt against it you just can't revolt against the fact that yet yeah your whole lifetime is being put at capital's disposal he's got a you've got a revolt against the whole damn system back to His very origins intensification and speed-up there's something in the working-day which is referred to and Marx does deals with it here which is porosity
+
+479
+01:40:48,900 --> 01:40:53,840
+The porosity of the working days by the porosity is meant
+
+480
+01:40:53,840 --> 01:41:01,070
+What is you know empty of work
+
+481
+01:41:01,070 --> 01:41:13,790
+How much time the people on the shop floor spend so just chatting or having a cup of tea or something the porosity of the working day with the machine technology
+
+482
+01:41:13,790 --> 01:41:19,410
+You can actually control the porosity of the working day and reduce the porosity of the working day in ways
+
+483
+01:41:19,410 --> 01:41:31,620
+It was very difficult when workers were dealing with their own tools when workers are dealing with their own tools they sort of stand up and stop doing what they're doing and they sharpen the blade or something like that
+
+484
+01:41:31,620 --> 01:41:43,679
+When I take ten minutes sharpening the blade I don't really need ten minutes to sharpen the blade but it's a way of kind of resting up and sharpening the blade when you've got a machine
+
+485
+01:41:43,679 --> 01:41:47,040
+However the machine is moving at a certain pace and you've got to do
+
+486
+01:41:47,040 --> 01:41:50,070
+Do do Charlie Chaplin
+
+487
+01:41:50,070 --> 01:41:52,469
+Well you know modern times
+
+488
+01:41:52,469 --> 01:41:54,090
+You'Ve got to do so
+
+489
+01:41:54,090 --> 01:42:12,280
+You can control the intensity of work speed of the work and all of that is now longer and the power of the labourer it's entirely in the power of capital
+
+490
+01:42:12,280 --> 01:42:28,750
+So what we begin to see in these just these first early chapters is certain ways in which all these elements that he's talked about in the earlier sort of invoked become part of the story of what happens
+
+491
+01:42:28,750 --> 01:42:33,820
+It'S the worker under conditions of machinery and factory system
+
+492
+01:42:33,820 --> 01:42:55,720
+So we're looking now at the factory system what this is all about and how the factory system realizes if you like the technological basis of what a capitalist mode of production is about now next week
+
+493
+01:42:55,720 --> 01:43:06,010
+Just to finish up I want to skim through the rest of this chapter on machinery and large-scale industry
+
+494
+01:43:06,010 --> 01:43:32,890
+It'S a very long chapter and I want to spend a little time on chapter 16 on absolute and relative surplus-value because it puts together the whole theory of surplus surplus value rather neatly and rather nicely in going through the machinery and large-scale industry Chapter notice carefully
+
+495
+01:43:32,890 --> 01:43:41,220
+The chapter headings have already done that: okay we've got three chapter headings and subjective; firstly okay: what is the Machine looked like physically
+
+496
+01:43:41,220 --> 01:43:45,550
+Secondly how is value transferred by a machine in the machines
+
+497
+01:43:45,550 --> 01:43:53,760
+Thirdly what are the impacts on the worker and there are three forms of the impacts on the work worker
+
+498
+01:43:53,760 --> 01:43:59,880
+There is firstly the kind of question of the employment of women and children and the family labor
+
+499
+01:43:59,880 --> 01:44:04,260
+There is secondly the prolongation of the working day
+
+500
+01:44:04,260 --> 01:44:22,110
+There is thirdly and that is divided into very various elements so all of these that the chapter headings the section headings tell you a little bit and you should really go through and say alright what's going on in this section what are we looking at here
+
+501
+01:44:22,110 --> 01:44:28,250
+We'Re looking at this this and the process of picking up certain key pieces of information
+
+502
+01:44:28,250 --> 01:44:32,670
+One is machines don't produce value but they produce relative surplus-value
+
+503
+01:44:32,670 --> 01:44:34,890
+The other is the calculus
+
+504
+01:44:34,890 --> 01:44:50,100
+Ever weary employer machine or labor depends on how much labor you displace and by what's the cost what's the value of the machine versus the labor displaced by it and that calculus then leads to certain decisions being made in the market
+
+505
+01:44:50,100 --> 01:44:54,920
+So look at those those elements together
+
+506
+01:44:54,920 --> 01:44:58,290
+So let me stop here and we have hardly any time left
+
+507
+01:44:58,290 --> 01:45:14,670
+I'M sorry I've gone a bit long but I wanted to try to consolidate this notion of what what a historical materialist analysis is and how it works and how it works in such a way as to pose these kinds of questions which I find extremely extremely useful
+
+508
+01:45:14,670 --> 01:45:40,050
+When I kind of say ok if I'm writing a book like brief history of neoliberalism where as they're coming from this is very much in mind and and and I think that you might find it useful to bear this always in mind - and I think politically also It needs to be bought in borne in mind how much you can change people's social relations without changing their mental conceptions
+
+509
+01:45:40,050 --> 01:45:43,230
+How much you can change all of that without changing the technologies
+
+510
+01:45:43,230 --> 01:45:57,360
+How are the technologies of this related to that and what happens in the sphere say of social reproduction in relationship to the new technologies of social reproduction and the like
+
+511
+01:45:57,360 --> 01:46:09,330
+So all of these things are coming coming coming together and Marx insists on them being taken taken together even as he's saying all of the time
+
+512
+01:46:09,330 --> 01:46:12,633
+Okay I'm gon na make certain assumptions here
+
+513
+01:46:12,633 --> 01:46:20,925
+I'M not gon na deal with this, I'M not going to deal with that but you've got to remember the big picture at the same time as he's doing that the bits
+
+514
+01:46:20,925 --> 01:46:58,250
+you've got to remember the big picture and I think the big picture of capital is really what for me matters and I hope One thing you'll get out of this class is to think about the big picture of capital as opposed to you know particular propositions which sometimes reduce capital to a set of you know discreet rules when really it's a moving kind of analysis which I think if we Deployed it today would reveal many of the things that Marx talks about but a lot of other things too
+
+515
+01:46:58,250 --> 01:46:59,880
+Okay over to you
+
+516
+01:46:59,880 --> 01:47:42,310
+If you want to have any any immediate questions nobody online - Oh God silenced everybody thanks once again David for a fascinating trip through marks
+
+517
+01:47:42,310 --> 01:47:49,100
+In previous weeks you've you've made some passing references to a future Society
+
+518
+01:47:49,100 --> 01:47:55,429
+You did again today when you spoke about socials
+
+519
+01:47:55,429 --> 01:47:56,420
+I made the comment
+
+520
+01:47:56,420 --> 01:48:08,810
+Well good Luck with that one because of the seven elements that sort of all needed to come together which which mutually brought about the Industrial Revolution
+
+521
+01:48:08,810 --> 01:48:36,980
+As I understood the way he described it so do I take it that you think from that analysis that it really is too big a prospect to ever imagine something beyond this situation or is it feasible from your reading of Marx and of the situation and your Own theorizing that somehow those elements can all be brought together
+
+522
+01:48:36,980 --> 01:48:40,540
+Just a small question
+
+523
+01:48:40,540 --> 01:48:47,510
+I think it's possible to bring many of these elements together
+
+524
+01:48:47,510 --> 01:48:59,547
+I mean if you say to me: well you know this is a very big task My answer would be well yes but it's a long-term task
+
+525
+01:48:59,547 --> 01:49:26,330
+and I like I like to do the analysis of say the rise of neoliberalism and the transformations that have occurred and the capitalism through neoliberalism and say: can you analyze that without looking at all of those Seven elements and seeing how they relate to each other because the rise of neoliberalism was not simply you know but it's about greater freedom of the market or deregulation or something like that
+
+526
+01:49:26,330 --> 01:49:28,080
+It was also a change of men cavitus
+
+527
+01:49:28,080 --> 01:49:39,330
+It was also you know a change in the relation to nature and all the earth threatened the metabolic relation to nature and so on so III think that we've been through
+
+528
+01:49:39,330 --> 01:49:57,360
+I mean I've lived through if you like the way in which these different seven elements were being transformed to bring us to the point we are at today and if that can happen over a 30 or 40 year period then we have to think about I'll write
+
+529
+01:49:57,360 --> 01:50:22,370
+The transformation over the next 30 40 years which is in another direction and you can see elements of that - I mean you - know - elements in the Democratic Party in this country - are beginning to sort of talk about some of the things we need you know might need Not need to do but it's very difficult to do them without changing mental transformations and yeah mental conceptions
+
+530
+01:50:22,370 --> 01:50:29,490
+So there's a battle to be fought over mental conception so there's a battle to be fought else else elsewhere
+
+531
+01:50:29,490 --> 01:50:37,830
+The problem is when that party gets in says it's all just a matter of making the right policy and assumes the right policy is going to give do the trick
+
+532
+01:50:37,830 --> 01:50:42,000
+Well it won't do the trick It'S gon na take social organizing It'S going to take You know
+
+533
+01:50:42,000 --> 01:51:27,180
+Well cancer and one of the things that I think that I would hope would come out of the kind of reading of Marx that I'm trying to encourage would be a recognition that just because I'm talking about ideas and I'm talking about mental conceptions you know people Often say: well you know you're just you know just a stupid academic who has a few mental conceptions and I said well actually the battle for mental conceptions is important but it's not the only thing you know and a lot of intellectual academics think it's the only Thing but matters and it's not it's not it's embedded in all of these other elements and so you've got to be talking intense
+
+534
+01:51:27,180 --> 01:51:33,510
+Alright what are the social relations which are occurring on the ground and what are the social relations which are arising
+
+535
+01:51:33,510 --> 01:51:41,790
+How to of an economy where the delivers of labor we talked about last week the gig economy and all those kinds of things are going on
+
+536
+01:51:41,790 --> 01:51:57,840
+Yeah we've got we've got to understand all of those elements and I think that one of the one of the big problems that occurs is that somebody who's working on one aspect of this whole thing will often find themselves talking to somebody else
+
+537
+01:51:57,840 --> 01:52:00,630
+Who'S so diminishes what they're doing by saying
+
+538
+01:52:00,630 --> 01:52:01,680
+Oh that's not important
+
+539
+01:52:01,680 --> 01:52:10,199
+The important thing is my ideas or something right now Well I hope I wouldn't be stupid enough ever to say that
+
+540
+01:52:10,199 --> 01:52:21,435
+but I would want to say: look I think yeah having having some of these ideas is is is important and transforming people's ideas is important
+
+541
+01:52:21,435 --> 01:52:39,810
+and and you're not gon na get it since most you Know many people have been indoctrinated by a course called economics 101 which teaches is to look at the world in a certain kind of way and and and the biggest problem I've ever had
+
+542
+01:52:39,810 --> 01:52:53,790
+Actually in teaching Marx has been with economists who think they know how the world works try to say well no no it remarks understands this in a different way and they kind of go and he doesn't know anything
+
+543
+01:52:53,790 --> 01:52:56,730
+You kind of said look well name me
+
+544
+01:52:56,730 --> 01:53:03,110
+An economic 101 textbook that actually says struggle over the working day is important
+
+545
+01:53:03,110 --> 01:53:17,080
+It'S not mentioned in any 101 textbook and you kind of go how much of the history of what's going on under capitalist struggle over over temporalities in the struggle over working day working life
+
+546
+01:53:17,080 --> 01:53:28,540
+Working time and I've you know you guys don't have anything to say about it you know so there is a fight to be fat and - and I think it's important to wage that fight now
+
+547
+01:53:28,540 --> 01:53:33,760
+Am i optimistic and well I don't know I'm Thursdays
+
+548
+01:53:33,760 --> 01:54:15,190
+I am on Fridays I thank God it's Friday and sort of have a martini or something you know what I hope the world will wake up and be sensible instead of acting as if it's been showering idiot dust so I so uh yeah No I mean I know when when you when you outline it in the way that the mark styles and I I'm trying to do obviously it seems a very daunting kind of process like oh my god we have to change all that kind of stuff and you Kind of go well yeah but but incrementally there are many things that could be changed up
+
+549
+01:54:15,190 --> 01:54:21,840
+That'S why I raised the question of what is considered to be a reasonable object of commodification
+
+550
+01:54:21,840 --> 01:54:26,200
+Why is it that there are certain areas of social life and the rest of it
+
+551
+01:54:26,200 --> 01:54:44,110
+Where historically we've said that those breeding children for for their for their organs is is not something which is permissible or admissible in in our society
+
+552
+01:54:44,110 --> 01:54:55,510
+Even though you will find people who are trying to do it and there are many ass issues of this kind so if that's the case then there are other things we can say are off limits
+
+553
+01:54:55,510 --> 01:55:04,665
+I personally think healthcare should be off-limits You know I mean I really think it should be not considered a commodity
+
+554
+01:55:04,665 --> 01:55:17,153
+so what you do and so the whole debate which is now sort of constantly going on in our society about it about health care in this society is I think a very important debate To be had
+
+555
+01:55:17,153 --> 01:55:25,534
+but we can do that by kind of saying: okay we want to keep that out of the commodity market calculus
+
+556
+01:55:25,534 --> 01:55:49,420
+which is not to say it's gon na be totally outside because sometimes when you say that people say oh you think if something could Be completely outside well no no no You can have actually companies producing private companies producing I say medical equipment which are then used in hospitals but then the question is who gets access to that Well that should not be part of the commodity calculus
+
+557
+01:55:49,420 --> 01:56:16,750
+In other words there is there is a process of building the materials and the drugs and all this kind of stuff and I don't like it that it's private but okay that can be private but access to it - should not be decided by market power access to It should be open to all so so you can
+
+558
+01:56:16,750 --> 01:56:36,010
+You can imagine certain parts of what's going on in society which are sheltered from the commodity calculus and from exchange value and that's a very simple kind of idea and I think it's an idea that has certain resonance with people
+
+559
+01:56:36,010 --> 01:56:41,980
+I really think the the idea that that health care is a human right and access to it should not be
+
+560
+01:56:41,980 --> 01:56:43,930
+You know secure through the market
+
+561
+01:56:43,930 --> 01:57:07,840
+You know I think there's a lot of sympathy for that idea and it's possible to pursue it in which case you are saying there's a way of getting outside of the catalyst mode of production and this gannets and it's inherent logic and we're not and and and We'Re able to do some of that and we've also seen when by Marxist I'm talking about the employment of women and children yeah
+
+562
+01:57:07,840 --> 01:57:38,120
+Okay this legislation that comes in and says you know the employment of children and the first legislation that was made on working day was mainly referring to women and children so that there is so there are ways ways to go given what Marx is saying on but That the the notion of and again something important here the notion of a revolution - you know he's often colored by the fact of you know he stormed the winter pal
+
+563
+01:57:38,120 --> 01:57:40,940
+So you get the best deal or something like that
+
+564
+01:57:40,940 --> 01:57:47,330
+Well the kind of revolutionary transformation Marx is talking about here is not of that sort
+
+565
+01:57:47,330 --> 01:57:57,186
+I mean he's a great admirer of some of these revolutionary movements and understood they sometimes crystallized into these moments but
+
+566
+01:57:57,187 --> 01:58:15,920
+but the real long-run thing is you know when he's looking when you're looking at this these chapters in particular where he's looking at the transition from cooperation And divisions of labour into the machine country system looking at the Industrial Revolution he's not talking about something that occurred overnight
+
+567
+01:58:15,920 --> 01:58:31,130
+This is this is talking about 40 years 50 years of radical transformation from the mid 17th century onwards mid 18th century onwards - and I think this is kind of this is what we have to look at
+
+568
+01:58:31,130 --> 01:58:36,140
+So I think the theory of revolutionary transformation in here is is that it's long-term
+
+569
+01:58:36,140 --> 01:58:47,630
+It has to encompass a lot of this these these these transformations that Marx is talking about including you know mental conceptions and social relations and the rest of it
+
+570
+01:58:47,630 --> 01:59:01,420
+So I think it's not unreasonable to have people sort of think about well okay where do we want to be in 40 years time and what kind of process of transformation is going to go on
+
+571
+01:59:01,435 --> 01:59:09,125
+There is this debate going on of this sort Of course around our relation to nature
+
+572
+01:59:09,125 --> 01:59:17,478
+and people are now saying this is a crucial kind of question and I think you know we're going to see probably in the next election
+
+573
+01:59:17,478 --> 01:59:22,978
+This is gon na be a big issue and again mental conceptions
+
+574
+01:59:22,978 --> 01:59:26,540
+Nobody thought was a big issue now 20 years ago
+
+575
+01:59:26,540 --> 01:59:31,460
+Now it's becoming more and more of a big issue and this is emerging in mental conceptions
+
+576
+01:59:31,460 --> 01:59:36,320
+There'S something that has to be something has to be done about what exactly who knows
+
+577
+01:59:36,320 --> 01:59:44,690
+So I don't think or daunting though the whole picture is in the sense of an individual imagining
+
+578
+01:59:44,690 --> 01:59:46,390
+What can I do about it
+
+579
+01:59:46,390 --> 02:00:10,620
+Well the answer is you individually can't do much at all but society and associated movements and so on which thinking about these things and so on can do a lot and and we've seen a lot done in the past in both positive and negative directions and so We'Ll see a lot done in the future and positive and negative directions
+
+580
+02:00:10,620 --> 02:00:37,530
+It'S that then that flow of forces that Marx talks about in the working day of class forces clashing - and you know configurations of power sort of working together and against each other and and a recognition on our individual part that we live in a society where that Is going on all the time and then the question arises well how do we situate ourselves in relationship to those processes and what kinds of you know arguments
+
+581
+02:00:37,530 --> 02:00:52,230
+Would we make to sort of further the progress towards a different kind of social order Oh oh yeah
+
+582
+02:00:52,230 --> 02:01:15,210
+Out of time I guess we're out of time so next week then we'll do the rest of the chapter on machinery but you might also think a little bit about what we've been and watch when you're in that chapter for points where these different elements pop up In the chapter because they actually all of them pop up at various points in the in the chapter your feel see when you sit when you think about it
+
+583
+02:01:15,210 --> 02:01:26,290
+Okay so let's do it next week I noticed the most interesting
+
+584
+02:01:26,290 --> 02:01:29,320
+There is a law that was passed
+
+585
+02:01:29,320 --> 02:01:36,463
+Human trafficking which gave people the right to seek
+

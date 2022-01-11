@@ -1,0 +1,2106 @@
+﻿1
+00:00:00,060 --> 00:00:39,399
+Could I get the diagram up on the colored one
+
+2
+00:00:39,399 --> 00:00:41,600
+Okay the witching hour is here
+
+3
+00:00:41,600 --> 00:00:57,019
+So let us let us start - you probably will have noticed by this week's weeding
+
+4
+00:00:57,019 --> 00:01:14,348
+But it's been going on since the beginning of part 5 chapter 16 which is that there's a shift of emphasis and perspective going on in the text
+
+5
+00:01:14,348 --> 00:01:32,600
+up until this point by large marks has been dealing with the individual and dealing with very specific aspects of the Extraction of surplus value
+
+6
+00:01:32,600 --> 00:01:52,360
+and this big distinction between absolute and relative surplus-value and the concentration on the dynamics of technological change brings us to the point where in chapter 16 on absolute and relative surplus-value marks kind of says a certain point
+
+7
+00:01:52,360 --> 00:02:05,259
+Well really there's only one surplus value so what's the point of distinguishing between absolute and relative well there are two reasons that he advances
+
+8
+00:02:05,259 --> 00:02:18,290
+The first reason is that really there are two strategies that the capitalists can do and to engage with in searching for for surplus values the absolute and the relative
+
+9
+00:02:18,290 --> 00:02:33,260
+So it's the distinction defines two distinctive strategic possibilities in the approach of capital but Marx also inserts in chapter 16
+
+10
+00:02:33,260 --> 00:02:54,230
+The fact that this is not only strategic possibilities for capital but it's also the positionality of labor and he introduces this distinction between formal and real sumption of labour under capital
+
+11
+00:02:54,230 --> 00:03:09,000
+The formal is that which can be established through the market and but it leaves in effect the laborer in command of their own means of production and their own skills by the time
+
+12
+00:03:09,000 --> 00:03:30,420
+Of course you get to machinery all of that is taken away from the laborer and you get the real substantial labor under capital where the laborer becomes an appendage in effect upon capital and an appendage upon the labour process
+
+13
+00:03:30,420 --> 00:03:32,430
+So it's a shift in the position
+
+14
+00:03:32,430 --> 00:03:56,130
+Ality of labor and in a sense it does convey at the point that there's a certain disempowerment going on that during the earlier periods when workers were in control of their own instruments they had a certain power which resided in that
+
+15
+00:03:56,130 --> 00:04:22,680
+But now that power is taken away and they're effectively disempowered at the point of production because most of the skill is now embodied in the machine and and they become machine minders appendages and and the rhythms of work are driven by the Machine and whoever controls the Machine rather than by the worker so that's one shift that happens around here
+
+16
+00:04:22,680 --> 00:04:35,370
+Another shift that happens is he does this dual move in the opening of chapter 16 which we did talk about very briefly last time in which he kind of says
+
+17
+00:04:35,370 --> 00:04:41,400
+Well you know we no longer should be looking at the individual laborer
+
+18
+00:04:41,400 --> 00:04:44,120
+We need to be looking at the collective laborer
+
+19
+00:04:44,120 --> 00:04:57,580
+Now the collective laborer is a very you know controversial kind of question and Marx doesn't really elaborate upon it but well you asked the question: where does the collective labor begin and end
+
+20
+00:04:57,580 --> 00:04:59,810
+Well it's not easy to see
+
+21
+00:04:59,810 --> 00:05:03,710
+If you have a factory then you can say: okay it's the factory gate
+
+22
+00:05:03,710 --> 00:05:09,740
+But what happens when you have a production system where there's a lot of subcontracting going on
+
+23
+00:05:09,740 --> 00:05:16,400
+And what do you do about certain functions which can be inside of the factory or outside of the factory
+
+24
+00:05:16,400 --> 00:05:34,840
+But Marx doesn't elaborate upon that He just says: look I want to get to collect the collectivity and as you will see in the subsequent chapters he's moving towards the transition from if you'd like micro relations to the macro relations of relations between classes
+
+25
+00:05:34,840 --> 00:05:44,680
+So you move from the perspective of individual laborer and the exploitation to the class perspective of what's the relationship between the capitalist class and the working class
+
+26
+00:05:44,680 --> 00:06:00,890
+Now that transition in economic thinking is actually a very complicated one and a very difficult one as conventional economics has a terrible time trying to fuse microeconomics with macroeconomics it doesn't know how to do it
+
+27
+00:06:00,890 --> 00:06:02,450
+I mean tries to do it and every time it does
+
+28
+00:06:02,450 --> 00:06:11,720
+If somebody comes along and unfix it Marx is in effect faced with the same problem here and there are two ways you can look at it
+
+29
+00:06:11,720 --> 00:06:22,250
+One is to say that Marx is basically saying this: it's not that much of an important problem we're just going to deal with the collective labor and get on with it or you can kind of say well
+
+30
+00:06:22,250 --> 00:06:27,520
+Actually there is a bit of a problem here and we should spend some more time elaborating upon it
+
+31
+00:06:27,520 --> 00:06:39,890
+The second point where he introduces something which is controversial and and somewhat problematic is his definition of productivity and I should hasten to point out
+
+32
+00:06:39,890 --> 00:06:49,070
+This is not his definition of productivity he's trying to define for us what the definition of productivity is within a capitalist mode of production
+
+33
+00:06:49,070 --> 00:07:08,790
+So it's capital's definition of productivity that he's looking at and he says: well the only labor that's productive if the Labour which actually produces surplus value for the capitalist now again producing surplus labor surplus value for the capitalist You know again
+
+34
+00:07:08,790 --> 00:07:09,420
+Where does that begin
+
+35
+00:07:09,420 --> 00:07:17,120
+Where does that end and he's introducing here a bit of a thorny problem at the relationship between productive and unproductive labour
+
+36
+00:07:17,120 --> 00:07:39,526
+This is something that has occupied Adam Smith and so when you go to theories of surplus value the sort of three volumes that Marx attached to capital in terms of history of economic thought the first volume is very much about Adam Smith and most of the volume Is dealing with okay what's productive labor most unproductive labor
+
+37
+00:07:39,526 --> 00:07:50,964
+Adam Smith was very concerned that an economy should of course have a definition of productive labor and should try to put labor into productive activity
+
+38
+00:07:50,964 --> 00:08:12,720
+and in sort of eighteenth century there was a lot of laborers who Were in unproductive activities and if Adam Smith had any political programmers get them out of being retainers on the estate and sort of cooks in heuristic Radek households and get them into productive activities
+
+39
+00:08:12,720 --> 00:08:24,500
+And then there's an also an interesting question of what about those branches of capitalist activity which are not directly engaged in physical production
+
+40
+00:08:24,500 --> 00:08:32,060
+So do we regard the banking sector is essentially unproductive labor or do we regard it as productive labor
+
+41
+00:08:32,060 --> 00:08:35,040
+Do we think of the bankers as parasites
+
+42
+00:08:35,040 --> 00:08:39,360
+So do we think that was being foundational for for the whole system
+
+43
+00:08:39,360 --> 00:08:48,480
+I think Marx clearly thinks they're foundational but doesn't preclude the idea that there's a lot of parasitic activity going on in there
+
+44
+00:08:48,480 --> 00:09:06,110
+So when he differentiates between banking functions which helps to sort of smooth the passage of labor and credit structures which actually Feuer the continuity of the capitalist system then you could argue that the banking system is productive
+
+45
+00:09:06,110 --> 00:09:17,010
+It'S promoting efficiency continuity speeding up things and all the rest of it but on the other hand when it becomes speculative it's becoming unproductive
+
+46
+00:09:17,010 --> 00:09:24,750
+So you might well then approach question finance by saying some of it is productive and some of it's unproductive but Marx has introduced this here
+
+47
+00:09:24,750 --> 00:09:29,040
+But how much does he say about this definition of productive and unproductive labor
+
+48
+00:09:29,040 --> 00:09:32,670
+He says almost nothing
+
+49
+00:09:32,670 --> 00:09:57,260
+I suspect that after copying out all of the stuff that Adam Smith wrote about it and there's a surplus value and all the rest of it he got bored with the topic and decided to do what you know It wasn't gon na go anywhere so he just slide it in and sort of say okay well productive labor is that labor which produces surplus value and then sort of get on with the with the discussion
+
+50
+00:09:57,260 --> 00:10:03,410
+So these definitions are introduced
+
+51
+00:10:03,410 --> 00:10:19,400
+He'S also got something which he's adding into the question of productivity because there was a lot of literature arguing that of course productivity particularly in agriculture depends upon natural circumstances
+
+52
+00:10:19,400 --> 00:10:28,260
+It depends on the fertility of the soil so he has to introduce this distinction of fertile
+
+53
+00:10:28,260 --> 00:11:02,130
+This is on fertile relation to nature and as I point out in this diagram of a general circulation of capital the metabolic relation to nature is one of the theses that comes in to capital periodically and this is one moment where he takes up this kind of Question ask the question in what sense to surplus early rest on a natural basis and his answer answer is that natural wealth does indeed an external natural conditions
+
+54
+00:11:02,130 --> 00:11:21,910
+Do indeed affect the productivity of labour but there's one thing to say that they affect the productivity of labour and another thing to say that actually surplus-value is can be credited to nature rather than to human action but so he tries to bring it back
+
+55
+00:11:21,910 --> 00:11:25,710
+There'S a bit of dubious reasoning goes on here
+
+56
+00:11:25,710 --> 00:11:35,740
+There'S a bit of 19th century was a time when environmental determinism was a very popular kind of positionality
+
+57
+00:11:35,740 --> 00:11:46,180
+So on 649 when he talks about the domination of man over nature but then he goes on to say where nature is to prodigal with her gifts
+
+58
+00:11:46,180 --> 00:12:16,360
+She keeps him in hand like a child and leading strings which leads into the kind of whole thing that people are not very productive in the trophic tropics because they have it have life too easy and you kind of get an Arnold Toynbee kind of view which Is challenge and response that civilization arises only in those areas which pose certain challenges to humanity and where you know you can sit under a banyan tree and just new eat mangos or whatever you know not green
+
+59
+00:12:16,360 --> 00:12:18,340
+You know it was kind of environmental determinism
+
+60
+00:12:18,340 --> 00:12:35,680
+There'S a hint of that in here which I think we could do without but there is however a he does sort of bring it back to the social and historical fairly quickly and and on 6:51
+
+61
+00:12:35,680 --> 00:12:44,890
+He has a little phrase about nature's direct gift to him is plenty of leisure time before he can apply this leisure time productively for himself
+
+62
+00:12:44,890 --> 00:13:20,460
+A whole series of historical circumstances required before he spends it in surplus labor for others compulsion is necessary so he then gets back to the historical and social origins of surplus-value after sort of a little bit of a deviation in my view into the kind of the Possibility of being natural basis the subsequent chapters are kind of typical marks that he's got these different changes of magnitude in the price of labor power and surplus value
+
+63
+00:13:20,460 --> 00:13:22,770
+He'S got these three variables so what does he do
+
+64
+00:13:22,770 --> 00:13:29,430
+He has a little essay on the length of the working-day in the intensity of labour constant the productivity of labour variable
+
+65
+00:13:29,430 --> 00:13:36,810
+Then you go on a few pages and you read the length of the working-day and the productivity of labour constant the intensity of labour variable
+
+66
+00:13:36,810 --> 00:13:47,820
+Then you go on third the productivity and intensity of labour constant the length of the Working Day variable and finally you get simultaneous variations in the duration productivity and intensity of labour
+
+67
+00:13:47,820 --> 00:13:53,670
+Well you get it right so you know what he's doing he's just sort of saying: okay that's these these different variables
+
+68
+00:13:53,670 --> 00:14:08,010
+They could be permeated in different ways with each other in and around the labor process and the production of surplus-value and - and he then starts to toy with different formula for the rate of surplus-value and again
+
+69
+00:14:08,010 --> 00:14:16,610
+This is the usual sort of sort of sort of arguments
+
+70
+00:14:16,610 --> 00:14:18,630
+Part six um wages
+
+71
+00:14:18,630 --> 00:14:24,930
+I suggested we skipped that but I just want to make a couple of remarks about it
+
+72
+00:14:24,930 --> 00:14:40,580
+Marx has set up the concept of the value of labour-power which is the value of the of socially necessary labour-time in the commodities needed to reproduce the laborer at a certain standard of living
+
+73
+00:14:40,580 --> 00:14:45,660
+So he's got the concept of a value of labour-power he's also set up earlier
+
+74
+00:14:45,660 --> 00:14:52,820
+This whole kind of notion that value has to have its representation and its representation is in a monetary form of price
+
+75
+00:14:52,820 --> 00:14:56,460
+So here he's kind of saying: okay I've done the value of labour-power
+
+76
+00:14:56,460 --> 00:15:23,960
+Now I have to say what's the price form of that and he's this allows him to critique one of the big big problems of classical political economy and the big problem was that classical political economy kept on going on and on and on about the value of Labour and wanted to know how the value of labour was established and of course Marx is saying
+
+77
+00:15:23,960 --> 00:15:33,110
+There'S no such thing as value of labour labor is value so to ask the question: what is the value of labor It'S like asking
+
+78
+00:15:33,110 --> 00:15:34,330
+What is the value of value
+
+79
+00:15:34,330 --> 00:15:57,920
+It doesn't make any sense because what Marx is distinguishing is that there's a big difference between labor and labor labor time as a pro as a commodity and therefore the commodity form of labor time is what is is being bought and sold not labor
+
+80
+00:15:57,920 --> 00:16:10,490
+We don't the laborer is not selling himself or herself she's selling she's selling the labor time and Marx kind of says about this
+
+81
+00:16:10,490 --> 00:16:16,100
+What the worker is showing is his labor power as soon as his labor actually begins
+
+82
+00:16:16,100 --> 00:16:17,960
+It has already ceased to belong to him
+
+83
+00:16:17,960 --> 00:16:20,150
+It and therefore no longer be sold by him
+
+84
+00:16:20,150 --> 00:16:27,340
+Labor is the substance and the imminent measure of value but it has no value itself
+
+85
+00:16:27,340 --> 00:17:00,820
+The expression of value labor concept of value is not only completely extinguished but inverted and he then goes on to say what's the problem with this now when they ask this big question about well okay how do we establish what the value of labor is as opposed To the value of labour time the classical political economists in terms of demand and supply so they basically said the value of labour is set by demand and supply for labor
+
+86
+00:17:00,820 --> 00:17:16,459
+But Marx has a little answer to that which is important on 678 and I think this applies throughout capital in general because and it's one thing was very important to do it soon
+
+87
+00:17:16,459 --> 00:17:31,870
+He said that the classical political economy had to recognize that changes in the relation between demand and supply explained nothing with regard to the price of labour only any other commodity except those changes themselves
+
+88
+00:17:31,870 --> 00:17:46,460
+Ie the oscillations of a market price above or below a certain mean if - and this is a crucial - can passage if demand and supply and balance the oscillation of prices ceases
+
+89
+00:17:46,460 --> 00:17:54,830
+All other circumstances remaining the same but then demanded supply also ceased to explain anything
+
+90
+00:17:54,830 --> 00:18:22,610
+The price of labor at the moment when demand and supply are in equilibrium is its natural price determined independently of the relation of demand and supply throughout capital marks doesn't attribute any power to demand and supply demand and supply explains oscillations in prices and deviations away from Value but it doesn't explain why the value of this commodity is twice as much as that
+
+91
+00:18:22,610 --> 00:18:51,268
+In other words it shirts cost sure if if a shoes cost twice as much as shirts the reason why they do so is not because there's twice as much demand for shoes as there is for shirts It comes out because the labor input is different in the production of I mean this is his argument so it's the labor input which is which is critical in in in defining the difference
+
+92
+00:18:51,268 --> 00:19:23,690
+so throughout capital demand supply is generally eliminated and here he's saying it very Explicitly the demand supply also sees to explain something when demand and supply are imbalance and the oscillation of prices ceases now having then sort of got to the point of the way in which price of labor then becomes represented again by wages
+
+93
+00:19:23,690 --> 00:19:28,490
+Marx then has some remarks on wages so you've got the value of labour-power
+
+94
+00:19:28,490 --> 00:19:40,340
+You'Ve got the relationship between value and price which then produces the wage which is of course how much money is paid to the laborer and how it is paid
+
+95
+00:19:40,340 --> 00:19:49,470
+Now at this point again Marx goes into practices and says all right: chapter xx time wages which is when you're paid by the hour not by the day
+
+96
+00:19:49,470 --> 00:19:52,610
+So you have to get out of that thinking
+
+97
+00:19:52,610 --> 00:20:05,880
+That marks is used beforehand that there's a working day of 14 hours and and 6 hours go to the reproduction of labor no you're now looking at our hourly basis but you're still looking at the same ratio
+
+98
+00:20:05,880 --> 00:20:21,210
+In other words a certain ratio between the wage rate and the surplus value so time wages then peace wages
+
+99
+00:20:21,210 --> 00:20:52,190
+Well you know again this is a different form that the wage system can take and does take and so Marx talks about it and shows how this is often used as a means of disciplining the labor force by putting workers in competition with each other over a Piece work and as you probably know there's a long history of workers revolting against that by deliberately slowing down on piecework situations to make sure that it doesn't get too too rough
+
+100
+00:20:52,190 --> 00:21:14,090
+There'S a little interesting chapter 22 on national differences in wages and in if in effect marx is recognizing that the value of labour power as it's translated into the wage form it's going to look different in different parts of the world depending upon the standard of living
+
+101
+00:21:14,090 --> 00:21:24,710
+Depending upon the state of class struggle depending upon natural circumstances in other words all those things that affected the value of labour power can vary from one country to another
+
+102
+00:21:24,710 --> 00:21:40,260
+So you will find different values of labour power and different countries which gets then turned into different wage rates in different in different countries and then Marx introduces very slightly the whole kind of question of well
+
+103
+00:21:40,260 --> 00:21:42,920
+What happens when trade occurs between these two countries
+
+104
+00:21:42,920 --> 00:21:45,450
+We'Ve got different values of labour power
+
+105
+00:21:45,450 --> 00:21:49,560
+What happens is they're unequal exchange going on
+
+106
+00:21:49,560 --> 00:22:03,100
+Is there some extraction of value from one country to another and the answer when you work it through is yes there is but Marx is not being very very advanced on on that argument
+
+107
+00:22:03,100 --> 00:22:27,160
+Okay so that now brings us to chapter two part: 7 they're opening two pages of this on 709 710
+
+108
+00:22:27,160 --> 00:22:30,310
+This is a very important passage
+
+109
+00:22:30,310 --> 00:22:49,990
+Marks here actually tells us what his assumptions are and you've got to internalize very much the nature of those assumptions and and what they do for his analysis and what they don't do
+
+110
+00:22:49,990 --> 00:23:02,030
+So he wants now to look at the whole kind of process which is why I've put this diagram up on the board once more: the whole process of capital circulation and accumulation
+
+111
+00:23:02,030 --> 00:23:09,470
+That'S when he wants to look at - and he says: okay it's gon na be cyclical
+
+112
+00:23:09,470 --> 00:23:19,370
+It'S going to be going round and round and over time but then he's introduces some assumptions for this part of the analysis
+
+113
+00:23:19,370 --> 00:23:36,260
+He says the first condition of accumulation is that the catalyst must have contrived to sell his commodities and to reconvert into capital the greater part of the money received from their sale in the following pages which we shall assume the capital passes through its process of circulation
+
+114
+00:23:36,260 --> 00:23:41,770
+In the normal way the detailed analysis of the process will be found in volume 2
+
+115
+00:23:41,770 --> 00:23:56,720
+So it's telling you know there's a whole bunch of stuff going to be dealt with in volume 2 which is not going to be dealt with in volume 1 and the volume 1 analysis is going to proceed as if the whole circulation process goes on
+
+116
+00:23:56,720 --> 00:24:03,280
+In a normal way put in this diagram when you follow up you get you start at the bottom and you've got money
+
+117
+00:24:03,280 --> 00:24:18,499
+We'Ve seen how money is used to buy constant capital and variable capital or means the production and labor power how those commodities are taken into the production process and turned into production
+
+118
+00:24:18,499 --> 00:24:27,480
+How production of the new commodity is then taken into the market and and realized in the market and what's realized
+
+119
+00:24:27,480 --> 00:24:33,659
+There is also the profit or the surplus value and then the circulation process continues
+
+120
+00:24:33,659 --> 00:24:43,619
+Is it's distributed in various forms and keeps going round and round but Marx is saying I assume that there's absolutely no barrier to that point of realization
+
+121
+00:24:43,619 --> 00:24:46,080
+At that point of realization of value
+
+122
+00:24:46,080 --> 00:24:50,820
+I assume that once capital is produced value and surplus value is it
+
+123
+00:24:50,820 --> 00:24:52,139
+It is going to be realized
+
+124
+00:24:52,139 --> 00:25:00,919
+There is no problem of realization in Volume one that is going to be dealt with in volume two and volume three
+
+125
+00:25:00,919 --> 00:25:16,895
+So in a sense what he's doing is saying I'm just gon na look at this process that takes us from money up to the point of realization and then I'm gon na assume all the rest of the process is going Is gon na be normalized Okay
+
+126
+00:25:16,895 --> 00:25:32,279
+then mark says this: the capitalist who produces surplus value who extracts unpaid labor directly from the workers and fixes it in commodities is admittedly the first appropriator of this surplus value but he is by no means its ultimate proprietor
+
+127
+00:25:32,279 --> 00:25:42,080
+He has to share it after with capitalists who fill fill other functions in social production taken as a whole with the owner of land and with yet other people
+
+128
+00:25:42,080 --> 00:25:45,509
+Surplus value is therefore split up into various parts
+
+129
+00:25:45,509 --> 00:26:00,360
+Its fragments fall to various categories of person and take on various mutually independent forms such as profit interest going to the bankers and finances gains made through trade going to the merchant capitalists ground rent going to the landlords
+
+130
+00:26:00,360 --> 00:26:02,220
+And he should have put in here
+
+131
+00:26:02,220 --> 00:26:09,059
+Taxes which go to the state we shall be able to deal with these modified forms of surplus value
+
+132
+00:26:09,059 --> 00:26:15,659
+Only in volume 3 so volume 2 is going to deal with some aspects of the system
+
+133
+00:26:15,659 --> 00:26:18,240
+Volume 3 is going to deal with with with this
+
+134
+00:26:18,240 --> 00:26:44,100
+On the one hand then says next page then we assume here the capitalist sells the commodities commodities he has produced at their value and we shall not concern ourselves with their later return to the market or the new forms that capital assumes while in the sphere of Circulation on the other hand we treat the capitalist producer as the owner of the entire surplus value or perhaps better as a representative of all those who share the booty with him
+
+135
+00:26:44,100 --> 00:26:48,480
+We shall therefore begin by considering accumulation from an abstract point of view
+
+136
+00:26:48,480 --> 00:27:03,690
+I simply as one aspect of the immediate process of production insofar as accumulation actually takes place the capitalist must have succeeded in selling his commodities and in reconverting the money shaken loose from them into capital
+
+137
+00:27:03,690 --> 00:27:19,559
+Moreover the break up of surplus value into various fragments does not affect either its nature or the conditions under which it becomes an element of accumulation whether the proportion of surplus value which the catalyst producer retains for himself or yields up to others
+
+138
+00:27:19,559 --> 00:27:25,400
+He is the one who in the first instance appropriates it
+
+139
+00:27:25,400 --> 00:27:31,400
+Okay this is Marx stating what he's going to do in the three volumes of capital
+
+140
+00:27:31,400 --> 00:27:38,720
+The first volume is from money up to the point of realization and we're going to look at everything that goes on
+
+141
+00:27:38,720 --> 00:27:50,570
+Then volume 2 is going to look at the circulation process as a whole how it moves around and in particular the problems of realization of value in the market
+
+142
+00:27:50,570 --> 00:28:02,159
+What happens if there's no market for example and volume 3 is going to do deal with the effects of the breaking up of the surplus value into interest
+
+143
+00:28:02,159 --> 00:28:11,480
+Merchants can profit of merchants capital rent taxes and and and and the like
+
+144
+00:28:11,480 --> 00:28:20,520
+What that says is that the totality of what Marx is interested in doing is going to be contained in the three volumes of the analysis
+
+145
+00:28:20,520 --> 00:28:30,960
+We are going to look at one aspect of the totality in what follows and it's that aspect of the totality which is dealing with the left-hand side
+
+146
+00:28:30,960 --> 00:28:44,600
+If you like of the circular process and Marx is going to assume that everything else is gon na go on and the whole thing is going to keep sort of worrying around and a nice and a nice kind of form
+
+147
+00:28:44,600 --> 00:29:04,770
+So chapter 23 when viewed as a connected whole and in the constant flux of its incessant renewal every social process of production is at the same time a process of reproduction that is instead of looking at just one linear argument
+
+148
+00:29:04,770 --> 00:29:20,880
+Not what we're now doing is embedding it in this circulation process which is portrayed up here and we look then at certain aspects of this
+
+149
+00:29:20,880 --> 00:29:31,220
+Now when I said that Marx is not going to deal with everything around there are of course as usual certain exceptions
+
+150
+00:29:31,220 --> 00:29:48,390
+One of the first things is to start to look at the positionality of the worker and what happens is the worker is the labor power of the workers purchased taken in production Produces the commodity
+
+151
+00:29:48,390 --> 00:29:53,309
+The worker is then paid a wage so you see the line at the top that says
+
+152
+00:29:53,309 --> 00:29:58,520
+Okay some of the value and surplus value is distributed to the worker in the form of the wage
+
+153
+00:29:58,520 --> 00:30:08,149
+The wage then flows back into production and flows back but it flows back by passing through the purchase of commodities
+
+154
+00:30:08,149 --> 00:30:15,500
+Wages allow the worker to produce some of the commodities which the worker has produced
+
+155
+00:30:15,500 --> 00:30:18,990
+Those commodities can then be taken into social reproduction
+
+156
+00:30:18,990 --> 00:30:28,460
+You get social reproduction and then the laborer is revived and fed and can come back into the production process
+
+157
+00:30:28,460 --> 00:30:33,480
+So there's a circulation process in this diagram that goes from
+
+158
+00:30:33,480 --> 00:31:06,179
+If you like the whole kind of production process in the paying of wages round through the purchase of wage goods social reproduction back so the circulation process and that's the circulation of variable capital if you want to call it that and what Marx does is in effect To say well what kind of class relation does this presuppose and in effect I I think the best imagery for this is which is comes out on page 7 and 13
+
+159
+00:31:06,179 --> 00:31:14,280
+Is that well starting at bottom of 712
+
+160
+00:31:14,280 --> 00:31:21,539
+What flows back to the worker in the shape of wages is a portion of the product he himself continuously reproduces
+
+161
+00:31:21,539 --> 00:31:30,110
+The capless is true pays him the value of the commodity and money but this money is merely the transmuted form of the product of his labor
+
+162
+00:31:30,110 --> 00:31:39,840
+The illusion created by the money form vanishes immediately if instead of taking a single capitalist in a single worker we take the whole capitalist class and the whole working class
+
+163
+00:31:39,840 --> 00:31:51,980
+The capitalist class is constantly giving to the working class drafts in the form of money on a portion of the product produced by the latter and appropriated by the former
+
+164
+00:31:51,980 --> 00:31:58,649
+The workers give these drafts back just as constantly to the capitalists and thereby withdraw from the latter
+
+165
+00:31:58,649 --> 00:32:07,980
+There are allotted share of their own product; this is the circulation of variable capital and the best way to think of this is this: is a company store relation the class relation
+
+166
+00:32:07,980 --> 00:32:13,159
+Is a company store relation
+
+167
+00:32:13,159 --> 00:32:24,360
+You know you you you work for the company you get the money from the company and then you check it into the company store and you buy the commodities that allow you to live
+
+168
+00:32:24,360 --> 00:32:26,340
+And then you go back and work for the company again
+
+169
+00:32:26,340 --> 00:32:49,900
+So in fact in fact Marx is kind of saying the class relations between capital and labor when you look at it in this way is in effect company store relation now but he then does I think a very interesting little game
+
+170
+00:32:49,900 --> 00:33:02,360
+The money capital at the beginning of this whole sequence where where does it come from Moscow says it can basically come from from anywhere but somebody's gon na start
+
+171
+00:33:02,360 --> 00:33:09,460
+But let's suppose they start and they start with 1000 pounds
+
+172
+00:33:09,460 --> 00:33:20,659
+And what then happens is that it is taken into production and it produces a surplus value of 200 and then that is distributed and used in certain ways
+
+173
+00:33:20,659 --> 00:33:24,760
+And then it goes round again and comes back and and you go around
+
+174
+00:33:24,760 --> 00:33:27,830
+Marx makes a very interesting argument here
+
+175
+00:33:27,830 --> 00:33:37,600
+He says even though the capitalists owned the thousand pounds at the beginning and can claim that is the capitalist property
+
+176
+00:33:37,600 --> 00:33:57,020
+They have no claim after five years because after five years two hundred pounds a year has been produced in the form of surplus value which truly belongs to the worker but has been appropriated by capital now the way capital approach approaches
+
+177
+00:33:57,020 --> 00:34:03,289
+This is that they have a right to perpetuation of their 1000 pounds over the whole five year span
+
+178
+00:34:03,289 --> 00:34:21,139
+A Marx is saying but actually if you're looking at who's making the value and if you check the lock plinth principle right and the lock principle is that every laborer has the right to what the value is that comes from mixing their labor with the land
+
+179
+00:34:21,139 --> 00:34:31,580
+If you take the Lockean principle then the labourer should have a right to the 200 pounds of surplus because they produced it and capitalist
+
+180
+00:34:31,580 --> 00:34:44,359
+Private property should disappear after after five years because basically the capitalist has consumed away the surplus value
+
+181
+00:34:44,359 --> 00:34:54,150
+If they've took all the surplus value and consumed it then they've consumed away their original 1000 and they have no they don't maintaining any right to it
+
+182
+00:34:54,150 --> 00:35:10,400
+This is a very interesting idea and it was once put into process into practice in or attempted to be put into practice in in Sweden in the late 1960s early 1970s with something called the my dinner plan
+
+183
+00:35:10,400 --> 00:35:12,960
+The my dinner plan was very interesting
+
+184
+00:35:12,960 --> 00:35:22,050
+It kind of said basically this: alright there's inflation and there's real difficulties of you know in labor relations
+
+185
+00:35:22,050 --> 00:35:24,390
+So we're going to say to the working class
+
+186
+00:35:24,390 --> 00:36:03,860
+Okay do not ask for an increase in wages and working class would restrain its consumption but what we will then do is to take what you would have had if you had the wage rise and convert it into a social investment fund and that social investment fund Will be a non non tradable portion of the end of the enterprise within which you're working and after 10 years that social investment fund would in fact in own the whole company
+
+187
+00:36:03,860 --> 00:36:10,910
+So this is a way of socializing and it was in a sense it's a bit like this schema
+
+188
+00:36:10,910 --> 00:36:21,000
+It'S saying the company is sitting there kind of saying it's but it owes its capital but actually its capital is being augmented and reproduced by labor
+
+189
+00:36:21,000 --> 00:36:37,490
+All of the time and that and and labor has a right to that augmentation and if it has a right to that augmentation then eventually the company ownership should give way to ownership by the social investment fund which would be controlled by the workers
+
+190
+00:36:37,490 --> 00:36:56,303
+Actually the Labour Party in Britain has come up with something about right now what she's a little little bit not exactly the mind in a plan because as you can imagine this plan didn't go down too well with the capitalist class and there was a kind of A huge ruckus and it was never implemented
+
+191
+00:36:56,303 --> 00:37:25,690
+but it's an interesting I think sort of sort of way of way of thinking who has a right to what and this idea that property has a right to be perpetuated forever without any discussion of who it is is Producing the surplus value by the way we all have that problem and if you've got a savings account and getting interest
+
+192
+00:37:25,690 --> 00:37:36,288
+If you get any interest of 5 % The interesting question is where's the 5 % coming from it's coming from somebody producing surplus value somewhere
+
+193
+00:37:36,288 --> 00:37:46,728
+and if they have a right to it then you don't have a right in perpetuity to your 5 % rate of return on your savings, Sorry
+
+194
+00:37:46,728 --> 00:37:58,220
+what Marx is doing here is is challenging certain basic precepts of capitalist capital's property rights
+
+195
+00:37:58,220 --> 00:38:18,692
+and trying to tie it back actually and that's why I say it's so clever is tying it back to the Lockean principle which is supposed to be The liberal principle that founds you know what what a capitalist economy is about so Marx is really playing having a good time playing with that
+
+196
+00:38:18,692 --> 00:38:42,111
+but what has happens of course in practices As he says on 716 the worker always leaves the process in the same state as he entered it a personal source of wealth but deprived of any means of making that wealth and reality for himself in other words he's well the the the wealth they produce is Not theirs
+
+197
+00:38:42,111 --> 00:38:56,230
+ since before he enters the process his own labor has already been alienated from him and this is one of the points where the theory of alienation comes back into the picture appropriated by the capitalist incorporated with capital and now in the course of the process
+
+198
+00:38:56,230 --> 00:39:00,910
+Constantly objectifies itself so it becomes a product alien to him
+
+199
+00:39:00,910 --> 00:39:03,670
+So it's not only the processes alien to him
+
+200
+00:39:03,670 --> 00:39:10,780
+It'S also the product is alien to him since the process of production is also the process of the consumption of labour-power by the capitalist
+
+201
+00:39:10,780 --> 00:39:28,210
+The worker's product is not only constantly converted into commodities but also into capital into value that sucks up the workers value creating power means of subsistence that actually purchase human beings and means of production that employed the people who are doing the producing
+
+202
+00:39:28,210 --> 00:39:36,970
+Therefore the work himself constantly produces objective wealth in the form of capital an alien power that dominates and exploits him
+
+203
+00:39:36,970 --> 00:39:40,940
+One of the things messages Marx is trying to send to the workers about this
+
+204
+00:39:40,940 --> 00:39:45,700
+He said you you're producing an instrument of your own domination
+
+205
+00:39:45,700 --> 00:40:04,160
+If you don't like being dominated you've got to deal with that instrument which is the source of your domination and so the worker then constantly produces objective wealth in the form of capital and alien power that dominates and exploits him and the capital
+
+206
+00:40:04,160 --> 00:40:18,370
+Justice constantly produces labour power in the form of a subjective source of wealth which is abstract exist merely in the physical body of the worker and is separated from its own means of objectification and realization
+
+207
+00:40:18,370 --> 00:40:24,170
+Workers cannot objectify and realize the value and the power of their own body
+
+208
+00:40:24,170 --> 00:40:29,140
+In short the capitalist produces the worker as a wage labourer
+
+209
+00:40:29,140 --> 00:40:34,250
+This is kind of very interesting way of looking at it capital system
+
+210
+00:40:34,250 --> 00:40:37,160
+The worker produces an instrument of their own domination
+
+211
+00:40:37,160 --> 00:40:52,010
+At the same time as capital actually uses that instrument of domination dominate the work and produce the workers of wage labor this incessant reproduction this perpetuation of the worker is absolutely necessary condition for capitalist production
+
+212
+00:40:52,010 --> 00:41:03,250
+That'S what's going on in this circulation process This is what Marx is talking about very says work but the workers consumption is of two kinds
+
+213
+00:41:03,250 --> 00:41:06,550
+Then this is going to be an important distinction
+
+214
+00:41:06,550 --> 00:41:12,680
+The two kinds are productive consumption and individual consumption
+
+215
+00:41:12,680 --> 00:41:23,740
+Individual consumption is when the worker consumes wage goods food and the rest of it to reproduce themselves
+
+216
+00:41:23,740 --> 00:41:40,900
+Productive consumption is when the worker takes and capital and uses it in such a way and consumes it in the crew in the creation of a new commodity which is going to be sold in the market
+
+217
+00:41:40,900 --> 00:41:59,590
+Now when we talk about consumption we're nearly always thinking about personal consumption productive consumptions are terribly important category remarks because productive consumption also plays a very important role in realization problems
+
+218
+00:41:59,590 --> 00:42:04,970
+Just to give you an example in 2007 2008 there's a crisis
+
+219
+00:42:04,970 --> 00:42:16,990
+You know China is in difficulty it's losing its consumer market in the United States collapses its export industries start closing down
+
+220
+00:42:16,990 --> 00:42:19,060
+What are they gon na do
+
+221
+00:42:19,060 --> 00:42:26,140
+Where can they find in another form of consumption their own population isn't in a position to do it
+
+222
+00:42:26,140 --> 00:42:27,910
+So what do they do
+
+223
+00:42:27,910 --> 00:42:42,580
+They start building railroads and they start building fixed capital and they start investing that actually creates a huge amount of consumption so an actual but it was productive consumption
+
+224
+00:42:42,580 --> 00:43:00,080
+At least you hope it was going to be productive because it was long-term investment in long-term assets and that productive consumption generated a huge demand for commodities such as copper and steel and iron
+
+225
+00:43:00,080 --> 00:43:17,230
+You know iron ore and all the rest of it and and as a result of that you know countries that were supplying commodities like Australia and Chile and all the rest of it you know did pretty well because the commodity prices went up
+
+226
+00:43:17,230 --> 00:43:39,830
+So in effect what the Chinese did in the face of a collapse the final consumption - you know an individual consumption in the United States - is they move to productive consumption and this distinction Marx has and as you can see from that example this is not a trivial Thing and it's not a small thing it could be a huge shift
+
+227
+00:43:39,830 --> 00:43:46,290
+So at the same times the World Bank was yelling at China and saying you've got to up your final consumption or your individual consumption
+
+228
+00:43:46,290 --> 00:43:49,650
+You'Ve got to create more you've got to make much more
+
+229
+00:43:49,650 --> 00:43:53,520
+In your home market and to some degree the Chinese have now done that
+
+230
+00:43:53,520 --> 00:44:02,850
+But the big thing then was productive consumption not individual consumption so Marx's is into that and kind of says
+
+231
+00:44:02,850 --> 00:44:23,190
+You know you've got to think about consumption in those two ways: yeah yeah yeah yeah yeah yeah
+
+232
+00:44:23,190 --> 00:44:33,840
+I mean what was a new deal partly about one of the things they did was to set up these big public works projects and build highways through Appalachia and things of that kind
+
+233
+00:44:33,840 --> 00:44:42,170
+It was very you know in retrospect it wasn't very important at the time but it was relatively small compared to what the Chinese did
+
+234
+00:44:42,170 --> 00:44:51,690
+But yes now part of the New Deal was was to set up these works projects and to employ labor and owners to it
+
+235
+00:44:51,690 --> 00:44:59,490
+Yeah and - and we see it a little bit in recent times - you know Trump when he came in said one of the things we're gon na
+
+236
+00:44:59,490 --> 00:45:23,329
+Do we're gon na build infrastructures haven't done it but you know but but there was there's often a discussion about about mopping up surplus capital labor through schemes of productive consumption
+
+237
+00:45:23,329 --> 00:45:40,200
+So on page seven eighteen what mark starts to do is this event starts to again examine the positionality of the worker the individual consumption of the worker
+
+238
+00:45:40,200 --> 00:45:45,800
+He says in 1718 whether it occurs inside or outside the workshop inside or outside the labor process
+
+239
+00:45:45,800 --> 00:46:12,980
+That means whether it's individual consumption or productive consumption remains an aspect of the production reproduction of capital just as the cleaning of machinery does whether is done during the labor process or where an intervals in the process and present the maintenance and reproduction of the working class Remains a necessary condition for the reproduction of capital but the campus may safely leave this to the workers drives to self preservation and propagation
+
+240
+00:46:12,980 --> 00:46:23,000
+All capitalist cares for is to reduce the workers individual consumption to the necessary minimum and then he talks about no
+
+241
+00:46:23,000 --> 00:46:42,380
+Here too Marx is making a pretty big jump when he kind of says: okay the capitalist just leaves the reproduction of the working class to the workers drives for self-preservation of propagation
+
+242
+00:46:42,380 --> 00:46:54,270
+Now in this diagram there's this whole kind of area of social reproduction Marx is sort of throwing a little indication in that direction
+
+243
+00:46:54,270 --> 00:46:59,700
+Saying ok the social reproduction wherever there we're gon na leave that to the working class to sort out on their own
+
+244
+00:46:59,700 --> 00:47:07,380
+We give them the minimum wage possible and let them get on with the whole kind of question of how they socially reproduce themselves and their kids and all the rest of it
+
+245
+00:47:07,380 --> 00:47:16,470
+So again what Marx is doing is sliding out of having to go into that kind of question in any detail but notice
+
+246
+00:47:16,470 --> 00:47:24,000
+He is aware of the issue he's aware of the problem but he just doesn't want to deal with it and kind of slides over it
+
+247
+00:47:24,000 --> 00:47:33,630
+So that the question of social reproduction comes back in capital at another point but at this to the point and he's not prepared but to deal with it
+
+248
+00:47:33,630 --> 00:47:52,460
+But the consequence of this on the top of 719 is this: that from the standpoint of society then the working-class even when it stands outside the direct labour process is just as much an appendage of capital as the lifeless instruments of labour are
+
+249
+00:47:52,460 --> 00:48:10,160
+That is we've established earlier in the chapter on machinery how workers become an appendage of capital in the production process but Marx is now kind of saying they are an appendage of capital in the reproduction process
+
+250
+00:48:10,160 --> 00:48:20,910
+I'M not going to talk further about that but that is that shift of positionality that workers do not have any choice
+
+251
+00:48:20,910 --> 00:48:45,590
+They are in an alienated situation so on 7:23 towards the end of this simple reproduction chapter marx puts it this way
+
+252
+00:48:45,590 --> 00:48:59,210
+Capless production therefore reproduces in the course of its own process the separation between labour power and the conditions of labour and thereby reproduces and perpetuates the conditions under which the worker has exploited
+
+253
+00:48:59,210 --> 00:49:09,320
+It incessantly forces him to sell his labour power in order to live and enables the capitalists to purchase labour power in order that he may enrich himself
+
+254
+00:49:09,320 --> 00:49:15,240
+It is no longer a mere accident of capitalists to worker confront each other in the market is buyer and seller
+
+255
+00:49:15,240 --> 00:49:29,270
+It is the alternating rhythm of the process itself which throws the worker back onto the market again and again as a seller of his labor power and continually transforms his own product into a means by which another man can purchase him
+
+256
+00:49:29,270 --> 00:49:34,260
+In reality the worker belongs to capital before he has sold himself to the capitalist
+
+257
+00:49:34,260 --> 00:49:41,850
+His economic bondage is at once mediated through and concealed by the periodic renewal of the act by which he sells himself
+
+258
+00:49:41,850 --> 00:49:57,030
+His change of masters and the oscillations in the market price of labour the capitalist process of production - and this is the general conclusion to the chapter which is again very important therefore seen as a total connected process
+
+259
+00:49:57,030 --> 00:50:06,780
+The process of reproduction produces not only commodities not only surplus value but it also produces and reproduces the capital relation itself
+
+260
+00:50:06,780 --> 00:50:18,260
+On the one hand the capitalist on the other the wage laborer now most other forms of economic reasoning
+
+261
+00:50:18,260 --> 00:50:54,270
+Look at simple reproduction in terms of technical relations between supply and demand and you know or estimate what Marx does in this chapters to say what's being reproduced here is not a simple circulation process but at the social relation between capital labour what's being reproduced here is The working class and the capital class and the relation between them and and it's interesting I think that this this chapter that's the way this chapter works
+
+262
+00:50:54,270 --> 00:51:04,620
+It'S not a technical expose of simple reproduction by input-output tables and all the rest of it which you know or macroeconomic reasoning
+
+263
+00:51:04,620 --> 00:51:45,090
+It'S a social understanding of that process as a reproduction of the class relation and I think you know Marx's kind of say that's what's most important about all of this and we've got to get behind how that happens how it is that workers produce instruments of their Own domination - and so this exchange very much what that is about which leads us into chapter 24 which is surplus transformation of surplus value into capital
+
+264
+00:51:45,090 --> 00:52:01,680
+Now it's interesting that in Chapter in volume 2 there is also a chapter on simple reproduction Marx is very interested in simple reproduction and I think there are two reasons for that
+
+265
+00:52:01,680 --> 00:52:08,950
+One is that through the analysis of simple reproduction he can get certain conclusions
+
+266
+00:52:08,950 --> 00:52:19,530
+The one we've just seen he can get that and therefore simple reproduction is easier to analyze
+
+267
+00:52:19,530 --> 00:52:29,550
+Some of the features then happens when you're looking at the dynamism of expanding accumulation and the dynamics of that
+
+268
+00:52:29,550 --> 00:52:31,120
+So that's one reason
+
+269
+00:52:31,120 --> 00:52:49,889
+The second reason I suspect - and I I'm not sure about this but I sometimes think of it this way there a certain point we're gon na have to look at a society which is going to be based on simple reproduction
+
+270
+00:52:49,889 --> 00:53:15,990
+not necessarily of the form he's talked About here but if there is a problem which attaches to the perpetual accumulation of cash then we're going to have to actually try to invent and come up with forms of activity which addressed the question of simple reproduction without accumulation
+
+271
+00:53:15,990 --> 00:53:19,900
+And by looking at this
+
+272
+00:53:19,900 --> 00:53:30,670
+As an intellectual exercise of what the world looks like and the conditions of simple reproduction you can see certain relations and obviously you would socialize them in certain ways
+
+273
+00:53:30,670 --> 00:53:52,247
+So when I indicated then I'd and a plan for example as a way of socializing simple reproduction to the point where it then becomes under the control of the workers rather than under the control of the capitalist and that therefore the class relation is dissolved Through the mind plan
+
+274
+00:53:52,247 --> 00:54:01,382
+and through the mode of reasoning that Marx lays out here about you know changing the structure of property rights and and and all the rest of it
+
+275
+00:54:01,382 --> 00:54:27,121
+then you can even see a mechanism whereby you would say alright If we want to become socialist and we want to get rid of the class relation then we get rid of that particular property relation which grounds the way in which capital reproduces itself through the domination of labour and wide laborer is forced to produce instruments of its Own domination
+
+276
+00:54:27,121 --> 00:54:39,160
+and by drawing attention to the laborer that laborers attention to the fact that they are producing the instrument of their own domination it's sort of encouraging people to revolt against it
+
+277
+00:54:39,160 --> 00:54:55,680
+I suspect that's the idea but in chapter 24 then we get into the question of accumulation
+
+278
+00:54:55,680 --> 00:55:08,440
+In fact marks is very clear that the idea of a capitalist mode of production which is founded on simple reproduction is a non-starter
+
+279
+00:55:08,440 --> 00:55:13,360
+A capless mode of production is about expansion
+
+280
+00:55:13,360 --> 00:55:18,150
+It is always about accumulation
+
+281
+00:55:18,150 --> 00:55:44,070
+The Marx explains that this way accumulation he says on the bottom of 726 requires a transformation of a portion of the surplus product into capital but we cannot accept by a miracle transform into capital anything but such articles as can be employed in the labor process means The production and such further articles as are suitable for the sustenance of the worker ie means of subsistence
+
+282
+00:55:44,070 --> 00:55:51,670
+Consequently a part of the annual surplus labor must have been applied to the production of additional means of production of subsistence
+
+283
+00:55:51,670 --> 00:55:57,520
+Over and above the quantity of these things required to replace the capita advanced in a word
+
+284
+00:55:57,520 --> 00:56:09,780
+Surplus value can be transformed into capital only because the surplus product whose value it is already comprises the material components of a new quantity of capital
+
+285
+00:56:09,780 --> 00:56:11,580
+Imagine you're in this
+
+286
+00:56:11,580 --> 00:56:22,260
+Such an approach cyclical process you go around and you've purchased labour power and means of production
+
+287
+00:56:22,260 --> 00:56:28,210
+You'Ve expanded the system right because he produced the surplus value
+
+288
+00:56:28,210 --> 00:56:44,190
+A part of the surplus value is now going to come back and you've got more money capital but if there's more money capital going to be circulated back into the system there's got to be more means of production and more laborers
+
+289
+00:56:44,190 --> 00:56:47,920
+So this system has to depend
+
+290
+00:56:47,920 --> 00:57:17,789
+It'S a bit like a sort of a the bauer wave of accumulation Marx is saying is a constant production of means of production beyond what is required today because they have been required tomorrow and of a labor force which is larger than it is today because the Expansion will will require it as he says now in order that these components may actually function as capital
+
+291
+00:57:17,789 --> 00:57:22,130
+The capital class requires additional labor
+
+292
+00:57:22,130 --> 00:57:30,150
+The mechanism of campus production has already provided for this in advance by reproducing the working class as a class dependent on wages
+
+293
+00:57:30,150 --> 00:57:37,430
+A class whose ordinary wages suffice not only to maintain itself but also to increase its numbers
+
+294
+00:57:37,430 --> 00:58:02,430
+All capital needs to do is to incorporate this additional labor power and newly supplied by the working class in the shape of labor powers of all ages with the additional means of production comp comprised in the annual product and the transformation of surplus-value into capital has been Accomplished looked at concretely accumulation can be resolved into the production of capital on a progressively increasing scale
+
+295
+00:58:02,430 --> 00:58:10,339
+The cycle of simple reproduction alters its form and to use his Mundy's expression changes into a spiral
+
+296
+00:58:10,339 --> 00:58:13,009
+This diagram looks like a cycle
+
+297
+00:58:13,009 --> 00:58:17,438
+Marx is saying it's not a cycle It'S going to be a spiral
+
+298
+00:58:17,438 --> 00:58:25,557
+it's going to be constantly expanding has to constantly expand because it's constantly producing surplus value
+
+299
+00:58:25,557 --> 00:58:38,578
+surplus value means there's more value at a certain point than there was before that more value to some degree is gon na go back into the Circulation process and produce even more value
+
+300
+00:58:38,578 --> 00:59:03,730
+so instead of it being a cycle which is how we would think of it in under conditions of simple reproduction it becomes a spiral and never-ending spiral as Marx will argue in every case
+
+301
+00:59:03,730 --> 00:59:15,279
+Mark says of course it's the working class that produces the surplus which is going to produce more surplus in every case
+
+302
+00:59:15,279 --> 00:59:29,200
+As marks the top of 729 the working class creates by surplus labor of one year the capital destined to employ additional labor in the following year and this is what's called creating capital out of capital
+
+303
+00:59:29,200 --> 00:59:43,859
+I saw the bourgeois economist called it but Marx is kind of saying no it's workers actually creating the capital which then employs their surplus
+
+304
+00:59:43,859 --> 00:59:56,460
+Hence each individual transaction he says continues conform for the laws of commodity exchange with the capitalist which as you remember based on equality
+
+305
+00:59:56,460 --> 01:00:06,339
+That like-for-like is the law of exchange with the capitalist always buying labour power and the worker always selling it at
+
+306
+01:00:06,339 --> 01:00:08,130
+What we should assume is its real value
+
+307
+01:00:08,130 --> 01:00:21,069
+It is quite evident from this that the laws of appropriation of private property laws based on the production and circulation of commodities become changed into the direct opposite through their own internal and inexorable dialectic
+
+308
+01:00:21,069 --> 01:00:26,529
+This is the Lockean principle which gets turns into its exact opposite
+
+309
+01:00:26,529 --> 01:00:31,329
+You mix your labor with the land and you don't get the wealth
+
+310
+01:00:31,329 --> 01:00:37,049
+Somebody else gets it
+
+311
+01:00:37,049 --> 01:00:44,049
+The relation of exchange between capitalist and worker becomes a mere semblance belonging only to the process of circulation
+
+312
+01:00:44,049 --> 01:00:50,039
+It becomes a mere form which is alien to the content of the transaction itself and merely mystifies it
+
+313
+01:00:50,039 --> 01:00:55,470
+The constant sale and purchase of labour powers is top of seven-thirty is the form
+
+314
+01:00:55,470 --> 01:01:13,280
+The content is the constant appropriation by the capitalist without equivalent of a portion of a labor of others which has already been objectified and his repeated exchange of this labor for a greater quantity of the living labor of others originally was coming back to the Lockean principle
+
+315
+01:01:13,280 --> 01:01:19,490
+The rights of properties seemed to us to be grounded in a man's own labour
+
+316
+01:01:19,490 --> 01:01:22,010
+Some such assumption was at least necessary
+
+317
+01:01:22,010 --> 01:01:35,430
+His only commodity owners with equal rights confronted each other and the sole means of appropriating the commodities of others was the alienation of a man's own commodities commodities which however could only be produced by labour
+
+318
+01:01:35,430 --> 01:01:47,250
+Now however property turns out to be the right on the part of the capitalist to appropriate the unpaid labour of others or its product
+
+319
+01:01:47,250 --> 01:01:59,960
+In the impossibility on the part of the worker of appropriating his own product the separation of property from labor thus becomes the necessary consequence of a law that apparently originated in their identity
+
+320
+01:01:59,960 --> 01:02:09,980
+Locke established the identity Marx is talking about the inversion of that
+
+321
+01:02:09,980 --> 01:02:25,020
+Well then follows is a sort of repeat of the whole kind of theory of surplus-value so if you've forgotten what it is then we all have to deal you have to
+
+322
+01:02:25,020 --> 01:02:34,339
+You could take a career of that to be sure he says at the bottom of 732
+
+323
+01:02:34,339 --> 01:02:36,470
+The matter looks quite different
+
+324
+01:02:36,470 --> 01:02:49,770
+This is after the sort of review of the individual form of surplus-value theory the man who looks quite different if we consider capitalist production in the uninterrupted flow of its renewal
+
+325
+01:02:49,770 --> 01:02:51,839
+This is what I'm trying to get out of this diagram
+
+326
+01:02:51,839 --> 01:03:05,240
+Think about the uninterrupted flow of its renewal and if in place of the individual capitalist the individual worker we view them in their totality as the capitalist class and the working class confronting each other
+
+327
+01:03:05,240 --> 01:03:12,839
+And this then leads again to a whole kind of question
+
+328
+01:03:12,839 --> 01:03:36,230
+Of how the unpaid labor of the workers is appropriate by capital and turned into the vehicle for its own reproduction section two: okay political economist erroneous conception of reproduction on an increasing scale
+
+329
+01:03:36,230 --> 01:03:38,230
+How did accumulation occur
+
+330
+01:03:38,230 --> 01:04:02,930
+Well there's a big argument about hoarding and the significance of hoarding and what the and the incentive to hoard marks kind of his dismissive of that there's also a whole kind of discussion of of how this reproduction system works in in in the vol2 context
+
+331
+01:04:02,930 --> 01:04:22,900
+Very briefly but by and large he saw doing that the bourgeois way of understanding this expansion is is simply erroneous and and and imperfect
+
+332
+01:04:22,900 --> 01:04:30,490
+So what this is then lead into
+
+333
+01:04:30,490 --> 01:05:06,890
+This is laid out in the section three when he's talked about the division of surplus value into capital and revenue and the curious thing: the abstinence theory the the capitalist class or their ideologues and thinkers were desperate I think to square what they were doing with some Kind of notion of virtue and bourgeois virtue and they like to cover over what they were doing by kind of saying
+
+334
+01:05:06,890 --> 01:05:12,290
+Well actually we're we're virtuous people particularly
+
+335
+01:05:12,290 --> 01:05:23,780
+We are refraining for example from consumption and consumerism because we're taking our capital and we're reinvesting it and their model for that was of course the obstinacy
+
+336
+01:05:23,780 --> 01:05:53,220
+A family and Quaker industry had something to do with this and you can get mixed up with Weber and religion and origins of capitalism and so on but the theory of abstinence was terribly important because it basically said you know this idea that we capitalists are just Greedy pigs and we're taking whatever we can from the worker and we're robbers and all this kind of stuff is all wrong: we're actually virtuous people engaging in abstinence We'Re abstaining
+
+337
+01:05:53,220 --> 01:05:56,160
+I mean you know you live in Manhattan
+
+338
+01:05:56,160 --> 01:05:58,350
+You see all the abstinence of the capitalist class
+
+339
+01:05:58,350 --> 01:06:04,580
+So you know what perfectly well what on what I'm talking about
+
+340
+01:06:04,580 --> 01:06:14,810
+So we look then and what happens at this here we do get into a little bit into the distribution question
+
+341
+01:06:14,810 --> 01:06:29,400
+We look at what what happens with the capitalist when they receive the surplus value and Marx points out that the one part of the surplus value is consumed by the capitalist is revenue that is they use it for their own consumption
+
+342
+01:06:29,400 --> 01:06:34,700
+So you get this line going around of bourgeois consumption
+
+343
+01:06:34,700 --> 01:06:37,440
+The other part is employed as capital
+
+344
+01:06:37,440 --> 01:06:51,180
+It is accumulated which comes back through if you like one part goes around the top of this circle and one the other part around the bottom of coming back in the form of money capital
+
+345
+01:06:51,180 --> 01:07:07,740
+And the big question is: what's the relationship between circulation of revenues and the circulation of reinvestment capital with a given mass of surplus-value then the larger the one part the smaller the other other things being equal
+
+346
+01:07:07,740 --> 01:07:15,750
+The ratio of these parts determines the magnitude of the accumulation but it is the owner of the surplus value of the capitalist who makes this division
+
+347
+01:07:15,750 --> 01:07:25,770
+It is an act of his will where that part of the tribute exacted by him which he accumulates is said to be saved by him because he does not consume it
+
+348
+01:07:25,770 --> 01:07:32,420
+Ie because he performs his function as a capitalist and enriches himself Then comes Marx
+
+349
+01:07:32,420 --> 01:07:39,090
+Take on this accept as capital personified the capitalist has no historical value
+
+350
+01:07:39,090 --> 01:07:44,610
+No right that historical existence which to use lichnowsky is amusing expression
+
+351
+01:07:44,610 --> 01:07:46,070
+Ain'T got no date
+
+352
+01:07:46,070 --> 01:08:13,360
+It is only to this extent that the necessity of the capitalist own transitory existence is in applied in the transitory necessity of the capitalist mode of production but insofar as he is capital personified his motivating force is not the acquisition and enjoyment of use-values but the acquisition And augmentation of exchanged values is fanatically the intent on the valorisation of value
+
+353
+01:08:13,360 --> 01:08:18,339
+Consequently he ruthlessly forces the human race to produce for production sake
+
+354
+01:08:18,339 --> 01:08:29,660
+In this way he spurs on the development of societies productive forces and the creation of those material conditions of production which alone can form the real basis of a higher form of society
+
+355
+01:08:29,660 --> 01:08:35,799
+A society in which the full and free development of every individual forms the ruling principle
+
+356
+01:08:35,799 --> 01:08:39,620
+This is interesting I mean Maus is kind of saying
+
+357
+01:08:39,620 --> 01:08:59,000
+You'Ve got the capital to sauna fight there fetishistic the engaging on this crazy pursuit of creating more and more value and forcing everybody else to engage in this pursuit of more and more value
+
+358
+01:08:59,000 --> 01:09:06,589
+But in so doing this actually creates the material conditions of production which alone can form the real basis for higher form of society
+
+359
+01:09:06,589 --> 01:09:11,960
+A society in which the full and free development of every individual formed
+
+360
+01:09:11,960 --> 01:09:20,740
+The ruling principle notice that society in which the full and free development of every individual forms the ruling principle
+
+361
+01:09:20,740 --> 01:09:37,480
+This is where Marx starts to say things like when he you know the great thing that the capitalists did was to produce the productivity in the wealth which was allow socialism to flourish that you can't get to socialism without without probably going through this
+
+362
+01:09:37,480 --> 01:09:42,799
+Only as a personification of capital is the capitalist respectable as such
+
+363
+01:09:42,799 --> 01:09:46,060
+He shares with the miser an absolute drive towards self enrichment
+
+364
+01:09:46,060 --> 01:09:56,530
+What what appears in the miser as the mania of an individual is in the capitalist The effect of a social mechanism in which he is merely a cog
+
+365
+01:09:56,530 --> 01:10:05,467
+Moreover the development of capless production makes it necessary constantly to increase the amount of capital laid out in a given industrial under taking
+
+366
+01:10:05,467 --> 01:10:14,601
+and competition subordinates every individual capitalist to the eminent laws of capitalist production as external and coercive laws
+
+367
+01:10:14,601 --> 01:10:23,184
+It compels him to keep extending his capital So as to preserve it - and he can only extend it by means of progressive accumulation
+
+368
+01:10:23,184 --> 01:10:47,870
+then as the capitalist has no choice he starts to feel sorry for the capitalist right now he's a cog in the wheel and this phrasing is I think very very very important And it's the it's the coercive laws of competition external and coercive laws which compel him to keep extending his capital so as to preserve it
+
+369
+01:10:47,870 --> 01:10:52,300
+Can you now extend it by means of progressive accumulation
+
+370
+01:10:52,300 --> 01:11:13,520
+This is a the capitalist is a is alienated as anybody else in this system they're driven by abstractions which they don't control they're driven by a market process the cursive laws of competition which they don't and cannot
+
+371
+01:11:13,520 --> 01:11:21,460
+Control and they're actually forced to adopt the persona
+
+372
+01:11:21,460 --> 01:11:41,770
+But Marx is talking about here and to become capital personified now who as a he as a as a decent human individual would would sit down sad love to be capital personified
+
+373
+01:11:41,770 --> 01:11:55,070
+But at a certain point people will kind of start to justify what they're doing and say that you know they're contributing to humanity and all this kind of stuff I mean this is what all those people like you know the IMF and all the rest of it
+
+374
+01:11:55,070 --> 01:11:59,630
+Do they think I know where we're contributing to the benevolence of humanity
+
+375
+01:11:59,630 --> 01:12:11,260
+By doing all we do and you know and then comes this thing
+
+376
+01:12:11,260 --> 01:12:27,820
+Mark scanner says insofar therefore as his actions are a mere function of capital and doubt as capital is in his person with consciousness and a will that his consciousness in a will is forced upon them by capital
+
+377
+01:12:27,820 --> 01:12:35,830
+His own private consumption counts as a robbery committed against the accumulation of his capital
+
+378
+01:12:35,830 --> 01:12:40,400
+Accumulation goes on to say is caught the conquest of the world of social wealth
+
+379
+01:12:40,400 --> 01:12:44,360
+It is an extension of the air of exploited human material
+
+380
+01:12:44,360 --> 01:13:01,370
+At the same time the extension of the direct and indirect sway of the capitalist and mouse comes into the slightly ironic humorous part original sinners at work everywhere with the development of capitals mode of production with the growth of accumulation of wealth
+
+381
+01:13:01,370 --> 01:13:34,670
+The capitalist ceases to be married the incarnation of capital he begins to feel human warmth towards his own atom and his education gradually enables him to smile as his former enthusiasm for asceticism as an old fashioned Mises prejudice while the capitalist of the classical type brands individual Consumption as a sin against his function as abstinence from accumulating the modernized capitalist is capable of viewing accumulation as renunciation of pleasure to souls alas do not dwell within his breast oh sorry to soul
+
+382
+01:13:34,670 --> 01:13:36,410
+Celeste do dwell within his breast
+
+383
+01:13:36,410 --> 01:13:39,190
+One is of a parting from the other that's Faust
+
+384
+01:13:39,190 --> 01:13:54,560
+This is the Faustian dilemma of the capitalist so Marx was putting the capitalist firmly in that dilemma and their Marx goes through a kind of you know what happened to in in Manchester
+
+385
+01:13:54,560 --> 01:14:03,440
+In the first phase yeah there was a lot of asceticism and then you know things but by the time to get to the final phase that consuming up the way
+
+386
+01:14:03,440 --> 01:14:19,230
+So but the total result of this is as he says on 7:42 in a very famous passage: accumulate accumulate that is moses and the prophets industry furnishes the material which saving accumulates
+
+387
+01:14:19,230 --> 01:14:31,950
+Therefore save save ie reconvert the greatest possible portion of surplus-value or surplus products into capital accumulation for the sake of accumulation production for the sake of production
+
+388
+01:14:31,950 --> 01:14:40,400
+This was the formula in which classical economics expressed the historical mission of the bourgeoisie in the period of its domination
+
+389
+01:14:40,400 --> 01:15:14,900
+Not for one instant did it deceive itself over the nature of wealth birth pangs but what uses it to lament a historical necessity if in the eyes of classical economics the proletarian is merely a machine for the production of surplus-value the capitalist too is merely a machine For the transformation of the surplus value into surplus capital classical economics takes the historical function of the capitalist in grim earnest in order to counter away the awful conflict between the desire for enjoyment and the drive for self enrichment
+
+390
+01:15:14,900 --> 01:15:48,420
+This is the Faustian dilemma in which the capitalist class is caught and Marx talks about this at some kind of length the abstaining capitalists and how it is set up in Section four Marxist - something interesting which is he says those various ways in which you know
+
+391
+01:15:48,420 --> 01:16:15,030
+We think that the only way in which cumulation can occur through reinvestment that's what we've defined but actually there are various other ways in which accumulation can be promoted other than by the direct reinvestment and one of them is through the forcible reduction of the wage of Labour beneath its value which means that you don't have to invest to expand the system
+
+392
+01:16:15,030 --> 01:16:23,490
+You expand surplus value that way and indeed there's a long history of attempt to suppress wages
+
+393
+01:16:23,490 --> 01:16:35,780
+Wage repression has been we're even creating John Stuart Mill's kind of comment that wages
+
+394
+01:16:35,780 --> 01:16:46,610
+If Labour could be had without purchase wages might be dispensed with but then mark scanner says but if the workers could live on air it would not be possible to buy them at any price
+
+395
+01:16:46,610 --> 01:16:50,670
+This zero cost of labour is therefore a limited and mathematical sense
+
+396
+01:16:50,670 --> 01:17:00,679
+Always beyond reach although we can always approximate more and more nearly to it a constant tendency of capital is to force the cost of labour back towards is absolute zero
+
+397
+01:17:00,679 --> 01:17:09,570
+So there is constant pressure within a capitalist system to impose austerity and of course we don't
+
+398
+01:17:09,570 --> 01:17:14,869
+We don't understand what that's all about duty doesn't happen in our society
+
+399
+01:17:14,869 --> 01:17:41,810
+We'Re civilized people not going to impose austerity on the working class then there's certain what certain things for instance something provided by nature free of charge and there's in the case of metals minerals cold stone etc as so that you can get free constant capital
+
+400
+01:17:41,810 --> 01:18:12,270
+You can also get some free capital or labor by conversion of say attendance on the wealthiest states so they joined the working class and through as he said in 752 the direct action of man on nature that this can become an immediate source of greater accumulation
+
+401
+01:18:12,270 --> 01:18:19,170
+Without the intervention of any new capital then he has a fairly lengthy
+
+402
+01:18:19,170 --> 01:18:44,199
+Understanding of an important factor in the accumulation of capital is a degree of productivity of social labor which is really about how effective the labor force is and how well-trained it is and improvements in that canal increase the the accumulation of capital without reinvestment
+
+403
+01:18:44,199 --> 01:19:02,900
+Then there is the savings of of waste as he talks about in 754 then how capital is taught to throw back the waste from the process of production and consumption to the cycle of the process and reproduction and thus without any previous outlay of capital
+
+404
+01:19:02,900 --> 01:19:14,440
+It creates fresh materials for it and then of course there's an increased exploitation of natural wealth resulting from the simple act of increasing the pressure under which labor power has to operate
+
+405
+01:19:14,440 --> 01:19:21,800
+Science and technology give capital a power of expansion which is independent of reinvestment
+
+406
+01:19:21,800 --> 01:19:32,239
+They react at the same time on that part of the original capital which has entered the stage of its renewal and Marx then goes on to say
+
+407
+01:19:32,239 --> 01:19:38,199
+The natural power of labour appears as a power incorporated into capital for the latter's own self-preservation
+
+408
+01:19:38,199 --> 01:19:47,380
+All the powers of labour project themselves as powers of capital just as all the value forms of the commodity do as forms of money
+
+409
+01:19:47,380 --> 01:20:01,580
+So there are various ways then in which the accumulation process can be jacked up and various possibilities so that you don't rely solely on the reinvestment function
+
+410
+01:20:01,580 --> 01:20:06,830
+Even though looking at it you would sort of say it's really the reinvestments function
+
+411
+01:20:06,830 --> 01:20:24,953
+That'S probably the most important aspect of this 7:58 Marx pulls all this together and in the so-called labor fund and he says it has been shown in the course of this inquiry As the capital is not a fixed magnitude
+
+412
+01:20:24,953 --> 01:20:34,506
+but a part of social wealth which is elastic and constantly fluctuates with a division of surplus value into revenue and additional capital
+
+413
+01:20:34,506 --> 01:20:44,728
+now this idea that capital is very flexible elastic and constantly fluctuates again is one of the powers Of capital
+
+414
+01:20:44,728 --> 01:21:03,737
+and it's one of the powers of the capital that has the marks really does appreciate but also fears it in a way particularly when it comes to waging political struggles because capital is so elastic so flexible so dynamic that if it gets a problem it Goes round it and finds another way around it
+
+415
+01:21:03,737 --> 01:21:17,989
+and the flexibility is such there to mean that you know to be an anti capitalist has to be putting yourself in a position where you can counter the flexibility and be as flexible as as capital
+
+416
+01:21:17,989 --> 01:21:25,881
+And if I dare say itself to me my observation on the left is not very fact flexible
+
+417
+01:21:25,881 --> 01:21:34,390
+and I will now be accused of flexible leftism but actually that's what you need
+
+418
+01:21:34,390 --> 01:21:41,997
+because without the flexibility you just can't
+deal with yet the rapid adaptability of capital
+
+419
+01:21:41,997 --> 01:22:04,130
+then he Goes on says it's been seen further that even with a given magnitude of functioning capital the labor power science and land which means economically speaking all the objects of labour furnished by nature without human intervention incorporated in it form elastic powers of capital allowing it within certain Limits a field of action independent of his own magnitude
+
+420
+01:22:04,130 --> 01:22:10,580
+In this inquiry we have ignored all relations arising from the process of circulation right okay
+
+421
+01:22:10,580 --> 01:22:22,850
+He said that before all of this other stuff that's going on in this circulation process is kind of being cast to one side and seamlessly presupposed the limits set by capitalist production
+
+422
+01:22:22,850 --> 01:22:28,850
+We presuppose the social process of production in a form developed by purely spontaneous growth
+
+423
+01:22:28,850 --> 01:22:40,310
+We disregarded any more rational combination which could be affected directly and in a planned way with the means of production and labor power present available
+
+424
+01:22:40,310 --> 01:23:00,440
+Classical political economy has always liked to conceive social capital as a fixed magnitude of a fixed degree of efficiency and in here Marx is going to criticize you know classical political economy for its inability to understand the flexibility of the system it was dealing with
+
+425
+01:23:00,440 --> 01:23:15,950
+But this flexibility was first established as a Dogma by the arch Philistine jeremy bentham who is described as that soberly pedantic and heavy-footed oracle of the common sense of the nineteenth-century bourgeoisie
+
+426
+01:23:15,950 --> 01:23:17,520
+Bentham is among philosophers
+
+427
+01:23:17,520 --> 01:23:22,440
+What marching tapper is among poets whose own it was apparently a crass poet
+
+428
+01:23:22,440 --> 01:23:51,980
+I'Ve never read him but anyway both could only have been manufactured in England so but but the attempt to create a fixed science which is going to define and capture what's happening in a highly flexible dynamic system is in a sense fool's errand
+
+429
+01:23:51,980 --> 01:24:35,510
+So here I think we've got to the end of this chapter except there's one other thing that I didn't mention which I think is important to the assumptions which are prevailing here which is back on 727 where as a footnote where a mark says here we take No account of the export trade by Breen's of which a nation can change articles of luxury either into means of production or means of subsistence and vice versa
+
+430
+01:24:35,510 --> 01:24:46,130
+An interesting discussion as to when something there's an ark of luxury becomes a necessity or when it becomes a form of constant capital
+
+431
+01:24:46,130 --> 01:25:12,840
+If you convert sort of aristocratic residents into a sweatshop you've actually you know taken something that exists and changed its function and it's now defined as fixed capital and it wasn't fixed capital before so there's all this kind of flexibility of definition but in order to examine The object of our investigation in its integrity free from all disturbing subsidiary circumstances
+
+432
+01:25:12,840 --> 01:25:23,530
+We must treat the whole world of trade as one nation and assume that Kabbalist production is established everywhere and has taken possession of every branch of Industry
+
+433
+01:25:23,530 --> 01:25:39,610
+This is Marx making an assumption that there's a closed system so it's not only made all those assumptions about what he's going to do in volume 2 and vol 3 and what he's leaving out in volume 1 he's also saying I'm assuming a closed system
+
+434
+01:25:39,610 --> 01:25:45,520
+So there's no trade with pre-capitalist social formations or anything of that kind going on
+
+435
+01:25:45,520 --> 01:25:54,790
+So the theory that he's dealing with is a fairly restricted kind of theory and we've seen he's at various points he's reached that theory
+
+436
+01:25:54,790 --> 01:26:04,199
+If you remember he only kind of said you know the problem with technological dynamism is you need a market in front of you and and a source of raw materials behind you
+
+437
+01:26:04,199 --> 01:26:05,710
+Where did that happen
+
+438
+01:26:05,710 --> 01:26:17,170
+Well it happened with the India because you destroyed the Indian capacity to produce their own textiles and therefore you've got the big textile market for the cotton manufacturers of Lancashire
+
+439
+01:26:17,170 --> 01:26:20,020
+But then you needed something from India and what did it get
+
+440
+01:26:20,020 --> 01:26:23,860
+You get hemp and jute and cotton and all that kind of thing from India
+
+441
+01:26:23,860 --> 01:26:44,342
+So there is a there are moments where Marx just get out of the closed closed systems kind of model but by and large his thinking
+is as if there is one nation and the capital is established everywhere and capital is the only way in which reproduction can Occur
+
+442
+01:26:44,342 --> 01:27:00,540
+if you live in a hybrid society where they're pre capitalists or post capitalist modes of production going on and
+only part of the societies organized on capitalist basis then of course again you get something very very different:
+
+443
+01:27:00,540 --> 01:27:14,457
+okay so Matt's chapters 23 and 24 and that's Going to take us into chapter 25 not next week because next week is a CUNY holiday vacation right
+
+444
+01:27:14,482 --> 01:27:26,230
+So we meet in two weeks time which gives you a lot of time to enjoy chapter 25 the general law of capitalist accumulation which is effectively divided into two parts
+
+445
+01:27:26,230 --> 01:27:31,200
+One is a theoretical argument the first four sections
+
+446
+01:27:31,200 --> 01:27:44,490
+Then the fifth is the illustrations of a general law of capitalist accumulation which is a very very lengthy and a thing which is about the conditions of life and labor of the industrial reserve army
+
+447
+01:27:44,490 --> 01:27:48,240
+With a great deal of historical detail Again
+
+448
+01:27:48,240 --> 01:28:00,910
+Relying upon press reports and also the factory inspectors - but this is a this - is where particularly the first four sections
+
+449
+01:28:00,910 --> 01:28:24,790
+This is where the theoretical apparatus of volume one is brought together and to build a very I think very sophisticated model of the accumulation of capital and how it works and how the spiral operates and what the conditions are which are required for their spiral
+
+450
+01:28:24,790 --> 01:28:41,770
+Now this spiral form is stuck if you like with the assumptions which we started out with so when Marx makes predictions in here that it's going to look like this will look like that remember
+
+451
+01:28:41,770 --> 01:28:54,250
+These are always contingent predictions they're contingent on the assumptions which are built into the form of the model that he's going to build people get annoyed at me
+
+452
+01:28:54,250 --> 01:28:55,840
+When I say it's a model of accumulation
+
+453
+01:28:55,840 --> 01:28:59,079
+Well it is it is a model in the you know
+
+454
+01:28:59,079 --> 01:29:12,279
+I know it sounds kind of very positive astern all the rest of it but that's in fact what what Marx is doing here is to build an analysis of the laws of motion of capital under the coercive laws of competition
+
+455
+01:29:12,279 --> 01:29:26,128
+And again I would want to emphasize that what we're looking at here one of the mechanisms of disciplinary apparatuses if you like which is going on it's the coercive laws of competition
+
+456
+01:29:26,128 --> 01:29:36,334
+and the coercive laws of competition otherthey
+if you like the enforcer of the law of Value
+
+457
+01:29:36,334 --> 01:30:03,279
+so you have a law value which is being a forced through the coercive laws of competition and this is I think something is very important to keep in mind when you read the next chapter because what you're gon na look at is how the law value Is producing laws of motion and we're going to look at the laws of motion of capital accumulation in the next chapter based on all of the arguments that have gone on about absolute and relative technological dynamism and and all arrestor
+
+458
+01:30:03,279 --> 01:30:13,108
+It'S a brilliant chapter and in many ways but please
+remember the assumptions when when you're reading it
+
+459
+01:30:13,108 --> 01:30:36,965
+so I'm gon na stop here and ask if you have any kind of comments or questions
+you want to get into on these two two chapters on and anything that's Gone before
+
+460
+01:30:36,965 --> 01:30:50,320
+hello I have a question about a term that was used in the readings for today which was that at some point the capitalist will pay well
+
+461
+01:30:50,320 --> 01:31:00,370
+That will define the the wage labor into smaller ranges and then something called I think parochial sustenance and I didn't understand what they would that
+
+462
+01:31:00,370 --> 01:31:05,700
+What was meant by parochial Oh parochial sustenance is I think a reference to the Poor Laws
+
+463
+01:31:05,700 --> 01:31:28,600
+At the time each parish was supposed to take care of impoverished population and the question of what kind of food they were fed and in the work houses and things of that kind and what kind of disciplinary apparatuses around
+
+464
+01:31:28,600 --> 01:31:32,770
+So when talk about parochial sustenance it's it's a reference
+
+465
+01:31:32,770 --> 01:31:47,250
+I think to the fact that the Poor Laws usually led to the administration of the lowest possible common denominator of food supply that could barely keep people physically alive let alone
+
+466
+01:31:47,250 --> 01:31:56,170
+So I think that's what's been referred to I mean not I mean the poor laws were administered of the parish level and so there was a lot of variation
+
+467
+01:31:56,170 --> 01:32:08,739
+You know there are probably some parishes that were reasonable but but and the general thesis grew up in this time which we still get today which is if you made
+
+468
+01:32:08,739 --> 01:32:16,090
+If he made the level of sustenance too attractive then people would not bother go to work
+
+469
+01:32:16,090 --> 01:32:23,780
+They would just live off the sustenance which is one of them which is the right wing objection right now
+
+470
+01:32:23,780 --> 01:32:38,420
+You know food stamps and all this kind of thing that in fact in a very funny way the the right wing maintains that the main cause of unemployment in the societies that the welfare state is too generous because people would rather live off unemployment
+
+471
+01:32:38,420 --> 01:32:50,930
+And they would actually go and into the wage labor force and do hard days good day's work which would discipline them and make righteous people of them instead of lazy mongrels living off
+
+472
+01:32:50,930 --> 01:33:10,970
+You know I mean yeah so parochial sir parochial refers refers to that that system
+
+473
+01:33:10,970 --> 01:33:45,720
+Thanks again David the okay thinking about this division of surplus-value between revenue and capital and mark seems to spend a lot of time talking about what are the other factors that explain the rate of accumulation but doesn't at least in this bit sort of explain that and That seems to me to be critical and it seems on the surface to I actually have a big role for demanding it
+
+474
+01:33:45,720 --> 01:33:56,330
+I said Marx really dismisses the role of demand outside of oscillations but yeah I so I'm wondering is
+
+475
+01:33:56,330 --> 01:33:58,560
+Is there more to come
+
+476
+01:33:58,560 --> 01:34:01,920
+Should I sit on the edge of my seat for a bit longer
+
+477
+01:34:01,920 --> 01:34:10,260
+What what determines the split between between revenue as a circulation of revenue one session of capital
+
+478
+01:34:10,260 --> 01:34:24,260
+Oh Wendy when the catalyst has the surplus value then what how much of it goes into this and goes into that part of that is going to be dictated by the coercive laws of competition
+
+479
+01:34:24,260 --> 01:34:40,700
+That if I reinvest a lot I'm going to start to push for big I'm gon na expand going to look for more market share I'M probably gon na have a new technology and I'm probably gon na drive you out of business
+
+480
+01:34:40,700 --> 01:35:17,730
+So if the capital sits there and says well I'll put 20 % into reinvestment and you know but then somebody comes along and says: oh I'm gon na put a 70 % into reinvestment and coercive laws of competition are at work there which plays a very important Role I think in the way Marx is setting it up and that of course then effects the nature of the demand because if you put it back in to prove reinvestment it's a productive consumption
+
+481
+01:35:17,730 --> 01:35:27,330
+That'S going to be the demand if you put it the other way around it's gon na be bourgeois consumption and but again you're right
+
+482
+01:35:27,330 --> 01:35:35,280
+However because to say well Marx isn't looking at the demand side but he's not know because he's assuming there's no problem
+
+483
+01:35:35,280 --> 01:35:42,770
+I mean this whole this whole thing about I assume all commodities exchange at their value
+
+484
+01:35:42,770 --> 01:35:57,660
+It permeates the whole the whole volume and that's a big assumption and so there's nothing much in here about the creation of new
+
+485
+01:35:57,660 --> 01:35:59,430
+You know once needs and desires
+
+486
+01:35:59,430 --> 01:36:04,110
+We saw a little bit of that in Chapter three kind of said: that's necessary but I'm not going to deal with it
+
+487
+01:36:04,110 --> 01:36:15,450
+So this assumption that everything exchanges of this value with in the next chapter the exception of labor may exchange below its value as he starts to talk about here
+
+488
+01:36:15,450 --> 01:36:24,210
+The assumption that there's no problem in the field of demand is is problematic from the standpoint of Volume
+
+489
+01:36:24,210 --> 01:36:51,450
+One of capital - but it is dealt with in in you know actually rather incomplete ways but is - is opened up anyway for more detailed consideration in volume 2 of capital the last part of which is very much similar to a sort of Keynesian exploration of demand supply Dynamics so you'll get you'll get some of that in in the volume and the volume too
+
+490
+01:36:51,450 --> 01:37:02,060
+So you ain't gon na get it in here this time but it is an interesting kind of question of the history of reinvestment
+
+491
+01:37:02,060 --> 01:37:26,330
+How you know to what degree one looks at some of the some of the hope this has been so well documented in in in Britain how have the Quaker business persons and the Quaker household played a very important role
+
+492
+01:37:26,330 --> 01:37:31,860
+Industrialization because the question of where does the original capital come from
+
+493
+01:37:31,860 --> 01:37:40,470
+Well if people are saving there's abstinence then you will have some surplus capital to begin to put in when you put it in
+
+494
+01:37:40,470 --> 01:37:42,989
+You are not going to spend it on consumption
+
+495
+01:37:42,989 --> 01:38:00,810
+In fact the stories that come out of kind of the lifestyle of Quaker industrialists who often had a very democratic relationship with their workforce so their workforce may in some instances lived in or lived so close by and they all would eat from the same table
+
+496
+01:38:00,810 --> 01:38:44,870
+So they were all kind of living in some cases on parochial food broke your sustenance food levels in order to have enough capital to expand the business and so yes there had been phases of working like that and then there being places where merchants capitalists have basically Loved robbed people in role of merchant capital in the 17th and 18th century was basically robbery and and and mayhem so that that was another part of the story so how the reinvestment function works and what the incentives are to reinvestment as opposed to personal consumption
+
+497
+01:38:44,870 --> 01:38:58,890
+But here too I think you would look at something which is back in the earlier part in that chapter where mark talked about the right and mass of surplus-value I mean there
+
+498
+01:38:58,890 --> 01:39:13,250
+There gets a certain mass of surplus-value where people couldn't have a very luxurious lifestyle at the same time as they're putting a large quantity of surplus value back into production
+
+499
+01:39:13,250 --> 01:39:21,090
+So you can't say because somebody has a tremendously luxurious lifestyle that they're not reinvesting
+
+500
+01:39:21,090 --> 01:39:31,970
+It depends on what massive capital a control I mean if they only control the $ 10000 or something like that then obviously
+
+501
+01:39:31,970 --> 01:39:53,170
+But if if they're in control of billion dollars - and you know you could have 80 % reinvestment in 20 % personal consumption but that 20 % personal consumption would be a huge amount so that you could have you know you could live like Bloomberg
+
+502
+01:39:53,170 --> 01:40:07,090
+Or you know with four or five houses around and personal helicopter and all that kind of stuff so yeah what what goes on in that the spheres
+
+503
+01:40:07,090 --> 01:40:13,690
+Again I think a question of historical analysis but Marx has raised it and said
+
+504
+01:40:13,690 --> 01:40:19,630
+Look this this question but it is going to be regulated by the coercive laws of competition
+
+505
+01:40:19,630 --> 01:40:46,189
+I think it's interesting to go back in and throughout this whole capitalist how the coercive laws of competition are working and what their role is and Marx never sort of gets to it and much in in enough detail any other
+
+506
+01:40:46,189 --> 01:40:58,099
+I was just wondering though would I read about a lot today: the corporations are sitting on a lot of cash yeah
+
+507
+01:40:58,099 --> 01:41:12,579
+What do you think about that from the standpoint of the totality this system on looking at
+
+508
+01:41:12,579 --> 01:42:01,360
+If you get to the point of having money in your pocket and you're looking at an investment where the potential rate of return is very low or the risks are very high then you sit on the money and the money and there's a lot of evidence that For instance quantitative easing has created a lot of cash which is not being reinvested partly because where's the rate of return and the second thing is that it's not only being reinvested it's being used to buy back their own stock
+
+509
+01:42:01,360 --> 01:42:09,559
+So one of the way in which for instance the CEOs get very rich is by the price of their stock
+
+510
+01:42:09,559 --> 01:42:34,219
+Going up and one of the ways you can force the price up is a company can take some of its cash go into the market and buy back its own stock which then it means there's a big demand for the stock and the stock price goes up And CEOs can cash in so actually the evidence right now is a lot of the surplus money which is available for real could be available to reinvestment
+
+511
+01:42:34,219 --> 01:42:51,919
+It'S not going into reinvestment but is going to stop buybacks and in some cases just being hoarded as as cash because investment opportunities are not so are considered to to too risky right
+
+512
+01:42:51,919 --> 01:42:53,900
+Now we're going to wait and see what happens
+
+513
+01:42:53,900 --> 01:42:58,790
+There'S too much uncertainty in the market
+
+514
+01:42:58,790 --> 01:43:18,780
+Now of course in some instances the cash is being used to pay dividends and raise divisions which also means the stock goes up which means that the owners ie the stockholders are going to become more affluent and then they have an interesting choice
+
+515
+01:43:18,780 --> 01:43:40,680
+Whether they want to spend it on consumerism or whether they want to spend it on investing again in stock somewhere else by and large seems like the system right now given the flows is a bit gummed up
+
+516
+01:43:40,680 --> 01:44:11,730
+If you want to call it that in terms of not it's not free flowing as free-flowing as it might be but part of that also may be a function of the fact that the massive capital out they are looking for things to do is now so much Greater than it was before I was looking at some data on China and the mass of capital which is available in China
+
+517
+01:44:11,730 --> 01:44:32,866
+Right now is about three times what it was say in 1995 because the economy has grew very significantly and now very much smaller growth rate is producing a much larger mass of capital Looking for things to do
+
+518
+01:44:32,866 --> 01:44:44,790
+so the Chinese have a if you like a surplus capital disposal problem but it's not only the Chinese everybody's got that kind of problem right now Surplus capital disposal problems: it's not a shortage of capital in the world
+
+519
+01:44:44,790 --> 01:44:57,930
+There'S a there's A surplus of it and nobody knows exactly what to do with it and where to put it in what ways you can earn an adequate rate of return though there have been certain shifts
+
+520
+01:44:57,930 --> 01:45:11,530
+One of the shifts of course has been into land grabbing buying up resources buying up land on the thesis that land is not
+
+521
+01:45:11,530 --> 01:45:20,050
+The long-term is gon na maintain it's it's gon na maintain its value and perhaps even increase its value
+
+522
+01:45:20,050 --> 01:45:37,069
+Given you know agricultural shortages and things of that kind so you know what the investment prospects are dependence okay
+
+523
+01:45:37,069 --> 01:45:39,109
+So maybe we should stop around here cuz
+
+524
+01:45:39,109 --> 01:45:48,769
+I have to get out of here and yes so next week then chapter 25 - okay not next week
+
+525
+01:45:48,769 --> 01:45:53,847
+Two weeks time chapter 25 okay
+

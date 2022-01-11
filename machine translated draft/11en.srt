@@ -1,0 +1,2268 @@
+1
+00:00:57,840 --> 00:01:13,540
+Okay everybody settled: let's get into this week's topic which is chapter 25 on the general law of capitalist accumulation
+
+2
+00:01:13,540 --> 00:01:51,360
+I think it's sometimes important to ask the question: what does this book about and the answer to that question is very important because it has a lot to say about how you read it if you read it economistic lee in the sense of saying okay this is A book about the general laws of motion of capital - and we want to create this theoretical understanding of how those general laws work
+
+3
+00:01:51,360 --> 00:02:12,810
+And we will read it in in one way if we saw it as a sort of source more philosophical kind of reflection on how to interpret the world as well as understand it
+
+4
+00:02:12,810 --> 00:02:39,459
+Then we would read it another way but I think I would want to read it very much in the lines of the opening sentence of chapter 25 where Marx says in this chapter we shall consider the influence of the growth of capital on the fate of the Working class I think capital is very much particularly Volume
+
+5
+00:02:39,459 --> 00:02:58,299
+One he's very much book about what happens to the working class why the working class is in the condition that it's in and what are the general circumstances so and this is important to Marx
+
+6
+00:02:58,299 --> 00:03:07,860
+I think because after all he doesn't want to exploit you know encourage economists to be revolutionaries
+
+7
+00:03:07,860 --> 00:03:19,650
+He wants working class to understand why it is that they live under the conditions that they live under and they work under the conditions that they work under
+
+8
+00:03:19,650 --> 00:03:31,930
+So in that sense I think if you say well this is a big book about the condition of the working class and why it is that condition
+
+9
+00:03:31,930 --> 00:03:35,440
+Then you read it in a slightly different way than you would
+
+10
+00:03:35,440 --> 00:03:55,049
+If you read it an economists looking for laws of motion nevertheless welcomed us discuss the laws of motion because it's those laws of motion which determined the fate of the working class in terms of what you know of how it lives in how it works
+
+11
+00:03:55,049 --> 00:04:11,451
+So the general law understood as a the laws of accumulation and how the coercive laws of competition work and alike all of those things are means to understand something
+
+12
+00:04:11,451 --> 00:04:25,532
+and in exactly the same way that in the chapter on the Working Day if you just go back To that and then the course of laws of competition force capitalists to treat the working class in a certain kind of way
+
+13
+00:04:25,532 --> 00:04:50,832
+and therefore you get their forms of oppression arising which are connected to the tremendous pressure to increase the length of the working-day and to therefore Suck as much value out of labor as possible within those hours
+
+14
+00:04:50,832 --> 00:05:06,584
+so when he says here then that miss Cooper wants to consider the influence of the growth of capital on the fate of the working class then you start to see what the design of this whole Chapter is
+
+15
+00:05:06,584 --> 00:05:12,589
+now: the chapter is really divided into two parts
+
+16
+00:05:12,589 --> 00:05:38,240
+First for four sections sort of a building of the argument and and then the fifth section is a very long illustrative discussion of the conditions of labor that results from the way in which the general law of capital accumulation works
+
+17
+00:05:38,240 --> 00:05:41,389
+I want to say one other thing
+
+18
+00:05:41,389 --> 00:05:56,229
+Just to remind you as I always think it's important to do - that the general law of capitalist accumulation that Marx comes up with here is a contingent law
+
+19
+00:05:56,229 --> 00:06:03,740
+It assumes that there's absolutely no problem of selling commodities in the market
+
+20
+00:06:03,740 --> 00:06:20,569
+It assumes there is really very little impact except for a very short section of the forms: a distribution like rent and interest and Merchants capital and all the rest of it
+
+21
+00:06:20,569 --> 00:06:27,519
+So this is this is an argument which is built around certain assumptions
+
+22
+00:06:27,519 --> 00:06:47,839
+Assumptions no problem in the market assumptions that there are no problems of distribution assumption that you've working with a closed system and if those assumptions don't hold then the story that Marx would tell here will be rather different and I'll
+
+23
+00:06:47,839 --> 00:06:49,849
+Be pointing out some of that
+
+24
+00:06:49,849 --> 00:07:00,849
+As we go through he starts off however with a little argument about something called the composition of capital
+
+25
+00:07:00,849 --> 00:07:15,494
+I think this got inserted into volume 1 because Marx was working on volume 3 at the time that vol 1 was published
+
+26
+00:07:15,494 --> 00:07:26,179
+and volume 3 he's very much taken up with the whole kind of question of the organic composition of capital as he calls it
+
+27
+00:07:26,179 --> 00:07:36,222
+and the Transformation in the organic composition of capital a rising organic composition of capital which produces a falling rate of profit arguments of that sort
+
+28
+00:07:36,222 --> 00:07:46,470
+so he felt I think it was important to insert something about this notion of a value composition into the argument here in practice
+
+29
+00:07:46,470 --> 00:07:59,190
+In this chapter however you don't really need to know that I mean you can actually work out what's going on in this chapter without going through the kind of these concepts of composition of capital
+
+30
+00:07:59,190 --> 00:08:05,250
+But let me just briefly go over them Marx
+
+31
+00:08:05,250 --> 00:08:23,580
+Actually as a sentence ends up with three concepts: the value composition the technical composition and the organic composition of capital and it's important to understand the differences between them
+
+32
+00:08:23,580 --> 00:08:39,080
+The technical composition of capital is simply the physical capacity of the laborer to work over certain amount of constant capital or a certain amount of raw materials
+
+33
+00:08:39,080 --> 00:08:50,100
+How many shirts can a laborer produce - and you know in an hour how many pairs of socks can the laborer produce
+
+34
+00:08:50,100 --> 00:09:03,290
+You know now so it's a physical physical composition of capital a physical productivity measure
+
+35
+00:09:03,290 --> 00:09:12,440
+The value composition is something different which is the value relations
+
+36
+00:09:12,440 --> 00:09:17,940
+How much constant capital the value of the constant capital value of the variable capital
+
+37
+00:09:17,940 --> 00:09:32,470
+What'S the relationship between the variable capital and the constant capital and again the variable capital will depend upon the wage rate and the constant will depend upon the value of all of those means of production
+
+38
+00:09:32,470 --> 00:09:49,010
+Now clearly the ratio between constant capital and variable capital is a measure of value productivity and that is rather different from the physical measure
+
+39
+00:09:49,010 --> 00:09:55,160
+There can be quite radical transformations in the physical measure with no impact whatsoever on the value relation
+
+40
+00:09:55,160 --> 00:10:00,230
+On the other hand McCree transformations to the valley relation where the physical stuff is constant
+
+41
+00:10:00,230 --> 00:10:09,880
+So but then he comes out with a third concept which is the organic composition of capital the organic composition of capital
+
+42
+00:10:09,880 --> 00:10:31,450
+It'S a little bit hard to distinguish between the value composition and the organic composition but I the way I would interpret it is the organic composition is what happens to the relations between constant and variable capital consequent upon transformations of technological relations within the labour process
+
+43
+00:10:31,450 --> 00:10:51,200
+For it this way if a new machine comes along and a laborer that could maybe make three pairs of socks in an hour can suddenly make twenty in an hour that's changing the value of composition but it's a change
+
+44
+00:10:51,200 --> 00:10:53,710
+It occurs because you got a new machine
+
+45
+00:10:53,710 --> 00:11:13,430
+Imagine however a situation where you don't change this technology inside but on the other hand the raw cotton is now much cheaper because of technological innovations in spinning and all the rest of it so that the value composition can change without there being any transformation
+
+46
+00:11:13,430 --> 00:11:20,150
+The organic composition because value composition is taken by a mixture of what goes on inside of the labor process
+
+47
+00:11:20,150 --> 00:11:31,190
+The technology there but also there are a lot of external influences on the value ratios depending upon the technology is governing the production of raw materials
+
+48
+00:11:31,190 --> 00:11:40,930
+The production of machines and and also of course eventually the value of labour-power so we've got these three concepts
+
+49
+00:11:40,930 --> 00:11:51,890
+So marx introduces these and like i say they have a they have great importance in in volume 3 of capital
+
+50
+00:11:51,890 --> 00:12:08,170
+But here it's really he's really simply saying about the general law of capital accumulation which he's going to look at he's going to be affected very much by the value composition and the organic composition
+
+51
+00:12:08,170 --> 00:12:21,279
+Because at a certain point he's going to introduce the question of technological change but as an initial starting point in this first section he keeps technological change out of the picture
+
+52
+00:12:21,279 --> 00:12:25,040
+He just basically says what we've seen in the preceding chapter
+
+53
+00:12:25,040 --> 00:12:38,680
+Chapter 24 is that capital has to accumulate surplus value and then reinvest some of that surplus value in the expansion of production
+
+54
+00:12:38,680 --> 00:13:00,470
+So there's going to be instead of a kind of cyclical process a spiral form in which there's going to be a constant expansion of the process of capital accumulation and that constant expansion means that there must be available more labor and more constant capital You need
+
+55
+00:13:00,470 --> 00:13:06,520
+So he starts off by saying well the accumulation of capital
+
+56
+00:13:06,520 --> 00:13:19,779
+It has with it a an increasing demand for labor power and an increase in demand for power of a constant capital
+
+57
+00:13:19,779 --> 00:13:34,839
+And what this does is to say that increase of capital and as he says in page 764 accumulation of capital is therefore multiplication of the proletariat that is increasing
+
+58
+00:13:34,839 --> 00:13:42,010
+Expansion means that more and more wage laborers have to be sucked into this capitalist production machine
+
+59
+00:13:42,010 --> 00:14:00,910
+If there's a situation however and in points this element place before where the requirements of accumulation capital may exceed the growth in labor or in the number of workers the demand for workers may outstrip the supply and thus wages may rise
+
+60
+00:14:00,910 --> 00:14:07,840
+So we've got the possibility of the sixth the spiral form expanding the demand for labour
+
+61
+00:14:07,840 --> 00:14:16,640
+The supply of labour is not there drawn of supply relations yet up there for labour the wages rise Now
+
+62
+00:14:16,640 --> 00:14:30,940
+This is the one moment where Marx abandons his assumption that all commodities exchange at their value because what in effect is saying here is that a wage situation can arise in which workers will be paid more than their value
+
+63
+00:14:30,940 --> 00:14:50,980
+By virtue of the fact that there's a scarcity of labour relative to the demand from the expansion of capital so accumulation he says reproduces the capital relation on an expanded scale with more capitis or bigger capitalists at one pole and more wage laborers at the other
+
+64
+00:14:50,980 --> 00:15:11,090
+But as he then goes on to say a little bit further on in this section that actually what this means is that there situations such that they can be very favorable to the workers for certain periods under the conditions of accumulation we've assumed so far
+
+65
+00:15:11,090 --> 00:15:18,470
+He says on 768 and these are the ones which are most favorable to the workers
+
+66
+00:15:18,470 --> 00:15:27,340
+Their relation of dependence on capital takes on forms which are enduring or as an e-coat somebody court even are easy and liberal
+
+67
+00:15:27,340 --> 00:15:30,500
+Instead of becoming more intensive with the growth of capital
+
+68
+00:15:30,500 --> 00:15:34,180
+This relation of dependence only becomes more extensive
+
+69
+00:15:34,180 --> 00:15:56,022
+The sphere of capital's exploitation and domination merely extends with the seven dimensions the number of people subjected to it and a rise in the price of labour as a consequence of the accumulation of capital only means in fact that the length and weight of the golden chain The wage labor has already forged for himself to be loosened somewhat
+
+70
+00:15:56,022 --> 00:16:10,750
+and he talks about at the end of the eighteenth century There was a period where there was increases in wages but this he says is only a quantitative reduction in the amount of unpaid labor
+
+71
+00:16:10,750 --> 00:16:16,200
+The worker has to supply the reduction can never go so far as to threaten the system itself
+
+72
+00:16:16,200 --> 00:16:33,010
+What are you suggesting then is that capital as it expands expands the demand for labor the wages go up and they go up to a certain degree but then he introduces a in a sense of homeostatic kind of adjustment mechanism
+
+73
+00:16:33,010 --> 00:16:43,950
+If wages go up it means that there's less surplus value for the capitalist if there's less surplus value for the capitalist there's less capital available for reinvestment
+
+74
+00:16:43,950 --> 00:16:59,670
+Therefore there is a slackening in the pace of expansion in other words as wages rise profits go down profit the lower profitability both the incentive and the capacity she reinvest is limited and that therefore the expansion saken's
+
+75
+00:16:59,670 --> 00:17:15,010
+So so what this suggests is it this that either the price of labour keeps on rising because its rise does not interfere with the progress or accumulation and then goes on to say there's nothing remarkable in this
+
+76
+00:17:15,010 --> 00:17:28,960
+In this case it is evident that a reduction in the amount of unpaid labor in no way interferes with the extension of the domain of capital or the other alternative accumulation slackens as the result of the rise in the price of labour
+
+77
+00:17:28,960 --> 00:17:42,929
+Because the stimulus of gain is blunted the rate of accumulation lessens but this means that the primary cause of that lessening itself vanishes the mechanism of the capitalist production process removes the very obstacles it temporarily creates
+
+78
+00:17:42,929 --> 00:17:50,640
+The price of labour Falls again to a level corresponding with capital's requirements for self-fertilization
+
+79
+00:17:50,640 --> 00:17:54,300
+It'S a sort of homeostatic adjustment mechanism
+
+80
+00:17:54,300 --> 00:18:05,770
+Wages go up profit goes down accumulation slackens wages come down profit goes up so you can imagine sort of wave like kind of with with capital
+
+81
+00:18:05,770 --> 00:18:11,740
+Doing this waving like this and the wage rate go in the opposite direction and they both adjust to each other
+
+82
+00:18:11,740 --> 00:18:41,630
+So Marx is looking at this and saying this is this is something that that that couldn't be accommodated within the laws of capital accumulation and she says at the bottom of 770 to put it mathematically the rate of accumulation is the independent not the dependent variable the Rate of wages is the dependent not the independent variable
+
+83
+00:18:41,630 --> 00:19:07,390
+It'S very important way of looking at it because we often kind of think like to think that it's the workers who were who are driving things out but Marx who say no it's the other way around but the rate of accumulation is the independent variable not the Dependent variable so everything is driven by the rate of accumulation but the rate of accumulation oscillates around movements in the wage rate and wages are adjusting to that
+
+84
+00:19:07,390 --> 00:19:34,310
+He then goes on to say say this: the law of Kabbalist production which really lies at the basis of the supposed natural law of population can be reduced simply to this missus on 771 if the quantity of unpaid labor supplied by the working class and accumulated by The captives class increases so rapidly that its transformation into capital requires an extraordinary addition of paid labor
+
+85
+00:19:34,310 --> 00:19:37,970
+Then wages rise and all other circumstances remaining equal
+
+86
+00:19:37,970 --> 00:19:48,140
+The unpaid labor diminishes in proportion the law of capitalist accumulation mystified by the economists into a supposed law of nature
+
+87
+00:19:48,140 --> 00:20:04,810
+In fact expresses the situation that the very nature of accumulation excludes every diminution in the degree of exploitation of labour and every rise in the price of labour which would seriously imperil the continual reproduction on an ever larger scale of capital relation
+
+88
+00:20:04,810 --> 00:20:25,210
+So this is the first section in section 2 he cancels ok what happens to this whole process when he introduced technological change technological dynamism the search for relative centrist value and he kind of says so far
+
+89
+00:20:25,210 --> 00:20:53,050
+We'Ve considered only one special phase of this process that in which the increase of capital occurs while the technical composition of capital remains constant that is the organic composition is constant but the process goes beyond this phase given the phases of the capitalist system a point is Reached in the course of accumulation and with the development of the productivity of social labor becomes the most powerful lever of accumulation
+
+90
+00:20:53,050 --> 00:21:23,410
+That is you cannot imagine this earlier system he's discussed lasting very long without the insertion of strong currents of transformation in the productivity of labour through technological change which gets us back to the question of the technical composition of capital which he then analyzes the bottom of 773 is follow follows this change in the technical composition of capital through technological dynamism
+
+91
+00:21:23,410 --> 00:21:38,860
+This growth in the mass of the means of production as compared with the mass of the labor power that defies them is reflected in its value composition by the increase of the constant constituent of capital at the expense of its variable constituent
+
+92
+00:21:38,860 --> 00:21:41,020
+In other words the ratio
+
+93
+00:21:41,020 --> 00:21:44,020
+C over V tends to rise
+
+94
+00:21:44,020 --> 00:21:54,810
+That is more and more C is being consumed by less and less V because of the technological chance of transformations
+
+95
+00:21:54,810 --> 00:22:07,773
+This T turns into a law but law of the progressive growth of the constant part of capital in comparison with a variable part is confirmed at every step by the comparative analysis of the prices of commodities
+
+96
+00:22:07,773 --> 00:22:25,120
+The reason is he says on the next page 774 The reason is simple: with the increasing productivity of labour the mass of the means of production consumed by labour increases but their value in comparison with their mass diminishes
+
+97
+00:22:25,120 --> 00:22:30,780
+Their value therefore Rises absolutely but not in proportion to the increase in their mass
+
+98
+00:22:30,780 --> 00:22:52,690
+That is if if you get the technological change then labels going to use much more physical cotton in the making of the socks but the value of that cotton may be less because of technological changes in raw cotton production
+
+99
+00:22:52,690 --> 00:23:11,390
+So what what this means is that you've got to start then to get into the value composition that all these shifts are going on but the general trend insis the progress of accumulation lessens the relative magnitude of the variable part of capital
+
+100
+00:23:11,390 --> 00:23:28,960
+That is the amount being abouts on wages going down but this by no means thereby excludes the possibility of a rise in its absolute magnitude and we're now getting into a relative and absolute movements
+
+101
+00:23:28,960 --> 00:23:48,080
+So this transformation which occurs in the technical composition ends up meaning that less and less variable capital is being used relative to the amount of constant capital and therefore the value composition of capital is rising
+
+102
+00:23:48,080 --> 00:23:50,299
+The organic composition of capital is writing
+
+103
+00:23:50,299 --> 00:24:01,450
+The technical composition of capital is rising now
+
+104
+00:24:01,450 --> 00:24:13,330
+This is also then associated with a tendency to start to concentrate means of production in fewer and fewer hands
+
+105
+00:24:13,330 --> 00:24:29,940
+Because if you're going to have technological dynamism and there's going to be an expansion of activity within the corporation then the corporation is going to expand in size and as it expands in size so you're gon na see more and more concentration of capital
+
+106
+00:24:29,940 --> 00:24:43,090
+So he starts to then say: every individual capital is a larger or smaller concentration of means of production with a corresponding command over a larger or smaller army of workers
+
+107
+00:24:43,090 --> 00:24:51,520
+Every accumulation becomes the means of new accumulation with the increasing mass of wealth which functions as capital
+
+108
+00:24:51,520 --> 00:25:04,000
+Accumulation increases the concentration of what that wealth in the hands of individual capitalists and thereby widens the basis of production on a large scale and extends this specifically capitalist methods
+
+109
+00:25:04,000 --> 00:25:27,420
+Of production he's really talking about economies of scale the expansion of corporate corporate activity individual capitalist activity and that expansion is involved in the concentration of the means of production in fewer and fewer hands
+
+110
+00:25:27,420 --> 00:25:47,610
+This changes as you go forward and so one of the one of the themes that is then taken up in this section is the increasing concentration and centralization of capital
+
+111
+00:25:47,610 --> 00:25:58,570
+The fragmentation he says of the total social capital into many individual capitals or the repulsions of its fractions from each other is counteracted by their attraction
+
+112
+00:25:58,570 --> 00:26:16,780
+The attraction of capitals no longer means the simple concentration of the means of production and the command over labor labor which is identical with accumulation in this concentration of capitals already formed destruction of their individual expropriation of capitalists by capitalists
+
+113
+00:26:16,780 --> 00:26:32,200
+Transformation of many small and a few large capitals capital II said grows to a huge mass and a single hand in one place because it has been lost by many in another place
+
+114
+00:26:32,200 --> 00:26:47,080
+This is centralization proper as distinct from accumulation and concentration so centralization of capital which is taking up on 777 is about but taking out by mergers and acquisitions
+
+115
+00:26:47,080 --> 00:26:50,650
+In other words this is what we look at these days: mergers and acquisitions chain
+
+116
+00:26:50,650 --> 00:26:57,430
+One capitalist takes over another capitalist buys out another capitalist centralization of capital expands
+
+117
+00:26:57,430 --> 00:27:01,320
+The whole accumulation of capital faster then occurs through concentration
+
+118
+00:27:01,320 --> 00:27:17,770
+Concentration occurs because capital produces surplus value certain amount of surplus value is ploughed back in and so the firm size becomes bigger and bigger and bigger but it takes many years for concentration to arrive at a point where it's very very massive and large
+
+119
+00:27:17,770 --> 00:27:26,380
+So it's my file quicker to get there by small one capitalist taking over another capitalist and and eventually expanding things this way
+
+120
+00:27:26,380 --> 00:27:43,300
+So he then talks - and this is I think very important - a section about the laws of this centralization of capitals or of the attraction of capital about catapult but he then says these cannot be developed here now
+
+121
+00:27:43,300 --> 00:27:52,470
+Remember Marx throughout the Volume one of capital is dealing where they're competitive capitalist system - small scale
+
+122
+00:27:52,470 --> 00:28:04,830
+Okay some concentration some centralization going on but this law of centralization is something which is going to actually end up producing monopoly capital monopoly power
+
+123
+00:28:04,830 --> 00:28:21,230
+Huge centralization of activity Marx recognizes that slightly to happen but then says: okay I'm going to exclude it here so mainly because he wants to keep within that framework of a competitive free market
+
+124
+00:28:21,230 --> 00:28:28,250
+A few brief factual indications he says about centralization
+
+125
+00:28:28,250 --> 00:28:32,010
+The Battle of competition is fought by the cheapening of commodities
+
+126
+00:28:32,010 --> 00:28:41,570
+A cheapness of commodities depends all other circumstances remaining the same on the productivity of labour and thus depends in turn on the scale of production
+
+127
+00:28:41,570 --> 00:28:46,920
+Therefore the larger capitals beat the smaller they use economies of scale
+
+128
+00:28:46,920 --> 00:28:52,160
+They can defeat and take over the smaller
+
+129
+00:28:52,160 --> 00:29:03,450
+The smaller capitals therefore crowd into spheres of production which large scale industry the second control of only sporadically or in completely here
+
+130
+00:29:03,450 --> 00:29:08,900
+Competition rages in direct proportion to the number and in inverse proportion to the magnitude
+
+131
+00:29:08,900 --> 00:29:25,280
+Apart from this and altogether new force comes into existence with the development of capitalist production the credit system - we haven't seen the credit system so far and we have a very brief thing in saying: ok the credit system is could be foundational for the centralization of capital
+
+132
+00:29:25,280 --> 00:29:29,340
+The credit system leveraged buyouts all those kinds of things
+
+133
+00:29:29,340 --> 00:29:37,770
+This is going to be absolutely crucial to centralization and you can't talk about centralization of capital without looking at the way
+
+134
+00:29:37,770 --> 00:29:47,460
+The credit system is going to be used as a vehicle and as he says commensurately with the development of capitalist production accumulation
+
+135
+00:29:47,460 --> 00:29:55,850
+There also takes place in development of the two most powerful levers of centralization and those levers are competition and credit
+
+136
+00:29:55,850 --> 00:30:07,350
+So you compete your way and that gives you centralization but you can also use credit to centralize capital and this leads to a situation
+
+137
+00:30:07,350 --> 00:30:17,330
+What distinguishes centralization from concentration he says is that the latter being only another name for reproduction on an extended scale
+
+138
+00:30:17,330 --> 00:30:27,000
+Centralization may result from a mere change in the distribution of already existing capitals from a simple alteration in the quantitative grouping of the component
+
+139
+00:30:27,000 --> 00:30:49,450
+Parts of social capital capital can grow into powerful masses in a single hand in one place because in other places as it's been withdrawn from many individual hands centralization supplements the work of accumulation by enabling industrial capitalists to extend the scale of their operations
+
+140
+00:30:49,450 --> 00:31:04,990
+So remember it's not only through productive activity that capital grows; it can also grow through centralization and the economies of scale that are generated by massing together capital in very few hands
+
+141
+00:31:04,990 --> 00:31:40,380
+I think this is an important argument that's being made here which is about the way in which powerful masses in a single hand get generated and Marx is talking about that process and seeing it very clearly in the 1850s and 1860s as having a very important role Into the the future history of capitalism even at the bottom of the page very bottom of page 779 either you use the credit system and fusion of capitals already formed or you organize joint stock companies
+
+142
+00:31:40,380 --> 00:31:52,840
+So he starts to look at joint stock companies and this is again taking you into vol3 territory and he's just briefly mentioning it but then drops the whole argument
+
+143
+00:31:52,840 --> 00:32:01,690
+But what we're seeing in this section is a sort of a touching upon themes from Volume
+
+144
+00:32:01,690 --> 00:32:16,900
+Three but accumulation he says the gradual increase of capital by reproduction as it passes from the circular to the spiral form is clearly a very slow procedure compared with centralization notice
+
+145
+00:32:16,900 --> 00:32:21,580
+This invocation of the spiral form would mentioned this before the cyclical form
+
+146
+00:32:21,580 --> 00:32:28,980
+He looked looked at now he's talking about the spiral form and it's a spiral form which is absolutely crucial
+
+147
+00:32:28,980 --> 00:32:42,510
+The masses of capital welded together overnight by centralization reproduce and multiply as the others do only more rapidly and they thereby become new and powerful levers of social accumulation
+
+148
+00:32:42,510 --> 00:33:27,919
+Therefore when we speak of the program the social accumulation we tacitly include the effects of centralization so we're now looking at this dynamics of capital when we shift from this cyclical to the spiral form and the spiral form is moving in a way which is expanding and And centralizing and becoming much more more dynamic and this leads into the third section which is the progressive production of a relative surplus population or industrial reserve army on 781
+
+149
+00:33:27,919 --> 00:33:47,440
+He says the demand for labor is determined not by the extent of the total capital but by its variable constituent alone and that demand Falls progressively with the growth of total capital instead of rising in proportion to it as was previously assumed in the first section
+
+150
+00:33:47,440 --> 00:34:08,450
+Expansion of capital expansion of proletariat here expansion of capital diminution of the proletariat with the growth of the total capitalist variable constituent the labor in corporate incorporated in it doesn't miss idli increase but in a constantly diminishing proportion
+
+151
+00:34:08,450 --> 00:34:10,339
+So then you've got the thing
+
+152
+00:34:10,339 --> 00:34:12,169
+How fast does this spiral move
+
+153
+00:34:12,169 --> 00:34:13,790
+If it moves very fast then
+
+154
+00:34:13,790 --> 00:34:23,662
+Yes there will be some expansion of the labor force but nowhere near as much as would have been needed if there was no technological change in no centralization of capital
+
+155
+00:34:23,662 --> 00:34:45,369
+because the centralization of capital is a transformation of organizational form and as you remember from chapters on Relative surplus-value transformations in organizational form are just as important in affecting productivity of labour as are as the hardware of machines and machine productivity production
+
+156
+00:34:45,369 --> 00:34:48,609
+So he says in fact it is capitalist accumulation
+
+157
+00:34:48,609 --> 00:35:07,180
+The constantly produces and produces indeed in direct relation with its own energy and extent a relatively redundant working population ie a population which is superfluous to capital's average requirements for its own valorisation and is therefore a surplus population
+
+158
+00:35:07,180 --> 00:35:15,740
+Now you've got a situation demand for labour rises in the first model of accumulation
+
+159
+00:35:15,740 --> 00:35:33,670
+That meant an increase in wages but if accumulation is also modifying the value composition of capital and reducing through labor saving innovations the number of labor is required
+
+160
+00:35:33,670 --> 00:35:42,560
+Then you've got the opposite effect: you've got an expansion and then you've got a contraction of the demand for labour and what does this mean
+
+161
+00:35:42,560 --> 00:35:48,010
+It means that you can actually create a relatively redundant working population
+
+162
+00:35:48,010 --> 00:35:54,760
+You put people out of work technologically induced yet unemployment is what he's talking about
+
+163
+00:35:54,760 --> 00:36:02,470
+Technological change throws people out of work and therefore the labour force which was once required is no longer required
+
+164
+00:36:02,470 --> 00:36:14,529
+This is what it's going to happen through very strong processes of technological change
+
+165
+00:36:14,529 --> 00:36:49,946
+and what this means is that there's likely to be some strong fluctuations as he puts it in which the increase of the variable part of the capital and the number of workers employed by It is connected with violent fluctuations and the temporary production of a surplus population whether whether this takes the more striking form and the extrusion of workers already employed or less evident but not less real form of a greater difficulty in absorbing the additional working population Through its customary outlets
+
+166
+00:36:49,946 --> 00:37:01,060
+ the working population he says on 783 therefore produces both the accumulation of capital and the means by which it is itself made relatively superfluous
+
+167
+00:37:01,060 --> 00:37:11,480
+Workers create the technologies that put them out of themselves out of work and it does this to an extent which is always increasing
+
+168
+00:37:11,480 --> 00:37:19,210
+This says marks is a law of population peculiar to the Kappas mode of production
+
+169
+00:37:19,210 --> 00:37:23,930
+Now it's very important to mention this many times in Marx
+
+170
+00:37:23,930 --> 00:37:32,180
+There are these things in markzware okay you have a universal condition but then he says under capitalism
+
+171
+00:37:32,180 --> 00:37:56,780
+This universal condition has a very specific character and he's saying the law of population under and within a capitalist mode of production is radically different from law of population in any other mode of production and then he goes on and says in in fact every particular historical Mode of production has its own special laws of population which are historically valid within that particular sphere
+
+172
+00:37:56,780 --> 00:38:21,890
+An abstract law of population exists only for plants and animals and even then only in the absence of any historical intervention by man but if a surplus population of workers is a necessary product of accumulation or of the development of wealth on a capitalist basis this surplus Population also becomes conversely the lever of capitis accumulation
+
+173
+00:38:21,890 --> 00:38:28,910
+Indeed it becomes a condition for the existence of the Kapus mode of production and this is key sentence
+
+174
+00:38:28,910 --> 00:38:42,530
+It forms a disposable industrial reserve army which belongs to capital justice absolutely as if the latter had bred it at his own cost independently of the limits of the actual increase of population
+
+175
+00:38:42,530 --> 00:38:48,050
+It creates a mass of human material always ready for exploitation by capital
+
+176
+00:38:48,050 --> 00:39:22,140
+In the interests of capital zone changing valorisation requirements so you create unemployment about unemployment acts as a lever because it actually creates the surplus population that capital needs to expand and capital can adjust through its technological dynamism to any condition of population change
+
+177
+00:39:22,140 --> 00:39:32,099
+Now this is of course where Marx comes up against Malthus and well Marx really disses Mel just no end Malthus
+
+178
+00:39:32,099 --> 00:39:45,660
+Explanation of poverty was you know workers bred too fast relative to the resources available to feed them and all the rest of it
+
+179
+00:39:45,660 --> 00:39:58,130
+So poverty was due to population to our population and that was the explanation Marx is saying
+
+180
+00:39:58,130 --> 00:40:06,900
+Poverty has nothing whatsoever to do with overpopulation no matter what the population is and what the population condition
+
+181
+00:40:06,900 --> 00:40:18,239
+Capital will always work in such a way as to produce an industrial reserve army because it needs it and the industrial reserve army is something which it produces through technological dynamism
+
+182
+00:40:18,239 --> 00:40:39,089
+So through this mix of the transformation of the rate of surplus-value reinvestment and surplus value reinvestment in new technologies capital can actually produce poverty and in fact what Marx is arguing here is that it is capital that produces problems
+
+183
+00:40:39,089 --> 00:40:47,569
+Poverty not overpopulation and that is a crucial argument
+
+184
+00:40:47,569 --> 00:41:13,840
+Now what this means is that again there's going to be a wave-like motion capital will drive certain populations out through technological dynamism reabsorb them and then throw them out again and so this is the kind of dynamism which which exists this peculiar cyclical path of modern industry
+
+185
+00:41:13,840 --> 00:41:24,750
+He says after he's explained this kind of throwing in and out which occurs in no earlier period of human history was also impossible when capitalist production was in its infancy
+
+186
+00:41:24,750 --> 00:41:32,760
+The expansion by fits and starts of the scale of production is a precondition for its equally sudden contraction
+
+187
+00:41:32,760 --> 00:41:45,270
+The latter again evokes the former but the former is impossible without disposable human material without an increase in the number of workers which must occur independently and the absolute growth of the population
+
+188
+00:41:45,270 --> 00:41:47,200
+So Marx is kind of saying
+
+189
+00:41:47,200 --> 00:41:49,390
+The absolute growth of the population doesn't affect anything
+
+190
+00:41:49,390 --> 00:42:02,970
+This increase is effected by the simple process that constantly sets free a part of the working class by methods which lessen the number of workers employed in proportion to the increased production
+
+191
+00:42:02,970 --> 00:42:22,980
+Modern industries should ingest just so much
+
+192
+00:42:22,980 --> 00:42:35,710
+This increase is affected by the simple process that constantly sets free a part of the working class by methods which lessen the number of workers employed in proportion to the increased production Modern industries
+
+193
+00:42:35,710 --> 00:42:42,910
+Whole form of motion therefore depends on the constant transformation of a part of the working population into unemploy
+
+194
+00:42:42,910 --> 00:43:00,690
+An employed or semi employed hands effects become causes in their turn and various vicissitudes of this whole process which always be reproduced certain conditions take on the form of periodicity when this periodicity has once become consolidated
+
+195
+00:43:00,690 --> 00:43:22,869
+Even political economy sees that the production of a relative surplus population - I here population surplus in relation to capital's average requirements for valorisation is a necessary condition for modern industry and then he takes on mouths and complains Capra's production
+
+196
+00:43:22,869 --> 00:43:39,599
+He says in 788 can by no means content itself with the quantity of disposable label power which the natural increase of population yields it requires for its unrestricted activity and industrial reserve army which is independent of these natural limits
+
+197
+00:43:39,599 --> 00:43:50,339
+So Marx doesn't want to give any credit at all to any idea of overpopulation as being the route of impoverishment
+
+198
+00:43:50,339 --> 00:44:11,579
+No poverty is produced by capital it's produced because capital needs an impoverished surplus population in order to continue on its path of accumulation
+
+199
+00:44:11,579 --> 00:44:22,860
+Now this relative selfless population has he says a number of functions He says it
+
+200
+00:44:22,860 --> 00:44:33,600
+The setting free of workers proceeds still more rapidly than the technical transformation the process of production that accompanies the advance of accumulation
+
+201
+00:44:33,600 --> 00:44:50,340
+One of the things one of the ways in which this does this is that insofar as production increases in extent and effective compares it becomes a means of disciplining the labour forces
+
+202
+00:44:50,340 --> 00:44:56,070
+Capital increases its supply of labour more quickly than its demand for workers
+
+203
+00:44:56,070 --> 00:45:15,910
+The overwork of the employed part of the working class swells the ranks of its reserve while conversely the greater pressure that the reserve by its competition exerts on the employed workers forces them to submit to overwork and subject them to the dictates of capital
+
+204
+00:45:15,910 --> 00:45:26,400
+The condemnation of one part of the working class reinforced idleness by the overwork of the other part and vice versa becomes a means of enriching the impinge image of capitalists
+
+205
+00:45:26,400 --> 00:45:36,030
+It'S a very interesting kind of thing even in times of unemployment it's in terms of unemployment
+
+206
+00:45:36,030 --> 00:45:46,740
+It'S very interesting to see how many capitalists insist on the employed workers working overtime
+
+207
+00:45:46,740 --> 00:45:52,320
+Now you would in a rational system You would say: well ok there's a lot of surplus labor out there
+
+208
+00:45:52,320 --> 00:45:54,820
+You know we'll employ them
+
+209
+00:45:54,820 --> 00:46:00,600
+No The capitalists at times like that will actually take their workers and say you want to be unemployed
+
+210
+00:46:00,600 --> 00:46:12,040
+If you don't want to be unemployed then you've got a volunteer to do over time and actually capitalists start to push real hard on over time
+
+211
+00:46:12,040 --> 00:46:21,190
+The more unemployment there is he would think you would think it'd be the other way around but you can see what capitalists are doing they're actually paying their workers less
+
+212
+00:46:21,190 --> 00:46:57,090
+So there are various ways in which the relative surface population as a disciplinary force in relationship to to the time of which the laborers employed and then also as he sexes in the next page the general movements of wages are exclusively regulated by the expansion and contraction Of the industrial reserve army - and this in turn corresponds to the periodic alternations of the industrial cycle so that the reserve army puts pressure on wages
+
+213
+00:46:57,090 --> 00:47:12,330
+It puts pressure on overtime it puts pressure on the discipline of the workers and this then he summarizes on 792 as follows
+
+214
+00:47:12,330 --> 00:47:25,480
+Industrial reserve army during the periods of stagnation and average prosperity way is down the active army of workers during the periods of overproduction and feverish activity
+
+215
+00:47:25,480 --> 00:47:33,099
+It puts a curb on their pretensions that is its constant regulator of class struggle
+
+216
+00:47:33,099 --> 00:47:40,390
+The relative surplus population is therefore the background against which the law of demand and supply of what Labour does its work
+
+217
+00:47:40,390 --> 00:47:49,500
+It confined the field of action of this law to the limits absolutely convenient to capital's drive to exploit and dominate the workers
+
+218
+00:47:49,500 --> 00:48:06,480
+Then he goes on to say the following: that the mechanism of capitalist production takes care that the absolute increase of capital is not accompanied by a corresponding rise in the general demand for labor
+
+219
+00:48:06,480 --> 00:48:13,440
+The apologist calls this a compensation for the misery the sufferings the possible death of the displaced workers
+
+220
+00:48:13,440 --> 00:48:21,339
+The demand for labor is not identical with the increase of capital nor is supply of labor identical with the increase of the working-class
+
+221
+00:48:21,339 --> 00:48:26,339
+It is not a case of two independent forces working on each other
+
+222
+00:48:26,339 --> 00:48:31,500
+The dice are loaded capital acts on both sides at once
+
+223
+00:48:31,500 --> 00:48:47,559
+Supply and demand of labor is actually regulated by capital both in terms of the demand for labor okay at the same time as the supply of labor
+
+224
+00:48:47,559 --> 00:48:51,099
+Now this is violation of the laws of exchange
+
+225
+00:48:51,099 --> 00:49:08,437
+You'Re supposed to in exchange would like to be You know two independent but no capital controls both the supply by a production of an industrial reserve army and the demand
+
+226
+00:49:08,437 --> 00:49:28,089
+ if it's accumulation on the one hand increases the demand for labor it increases on the other the supply of workers by setting them free while at The same time the pressure of the unemployed compels those who are employed to furnish more labor and therefore makes the supply of labor to a certain extent independent of the supply of workers
+
+227
+00:49:28,089 --> 00:49:38,319
+The movement of the law of supply and demand of labor on this basis completes the despotism of capital capital rules over both the demand and the supply
+
+228
+00:49:38,319 --> 00:49:46,569
+There is no independent labor market labor capital controls both sides of the labor market
+
+229
+00:49:46,569 --> 00:50:11,900
+Thus as soon as the workers learn the secret of why it happens that the more they work the more alien wealth they produce and that the more the productivity of their labor increases the more does their very function as a means for the valorisation of capital become Precarious there's a lot of language here about precariousness by the way so this idea that only now have we come into a world of precarious labor Well all precarious
+
+230
+00:50:11,900 --> 00:50:27,230
+All labor was precarious as far as marx was concerned as soon as they discover that the degree of intensity of the competition among in the cells depends wholly on the pressure of the relative surplus population as soon as by setting up trade unions
+
+231
+00:50:27,230 --> 00:50:34,400
+And this is the first time trade and about the only time the trade unions get mentioned and this whole book
+
+232
+00:50:34,400 --> 00:50:39,289
+It was just kind of interesting but as soon as by setting up trade unions etc
+
+233
+00:50:39,289 --> 00:50:43,910
+They try to organize planned cooperation between the employed and the unemployed
+
+234
+00:50:43,910 --> 00:51:03,220
+In order to obviate or to weaken the ruinous effects of this natural law of capitalist production on their class so soon does capital in its sycophant political economy cry out at the infringement of the eternal and so to speak sacred law of supply and demand
+
+235
+00:51:03,220 --> 00:51:32,980
+Every combination between employed and unemployed disturbs the pure action of this law in other words as soon as workers get together and say collectively we can respond to these conditions in the labor market where capital has despotic control of both supply and demand then the formation of A trade union is seen as an infringement against the free operation of free markets
+
+236
+00:51:32,980 --> 00:51:40,960
+So mark is again saying Marx is again saying this idea of free market is kind of it's nonsense
+
+237
+00:51:40,960 --> 00:51:44,750
+It'S it's It'S biased in this in this very specific way
+
+238
+00:51:44,750 --> 00:52:06,339
+So that's the third section they said: we've got a different model of accumulation here one in which technological dynamism production of the industrial reserve army is going on and and capital is creating its own supply conditions through the management of the industrial reserve army
+
+239
+00:52:06,339 --> 00:52:11,869
+So then Marx turns to the question: alright what happens to this industrial reserve army
+
+240
+00:52:11,869 --> 00:52:22,021
+What'S life like in the industrial reserve army and this is where the book really comes down to Ok what's the general law of capital accumulation about
+
+241
+00:52:22,021 --> 00:52:39,742
+so he starts off by saying: ok you can divide the industrial serv army into three parts: the floating which is people who are intermittently in and out of the labor force because you know they get fired cause of Technological change technologically induced unemployment all those kinds of things
+
+242
+00:52:39,742 --> 00:52:49,463
+then there's the category the latent that is group in the population that has not yet been proletarianized
+
+243
+00:52:49,463 --> 00:53:05,082
+in Marxist time Well there's the huge peasant population out there, in our time Well it was a huge peasant population in China that was the big Layton force
+
+244
+00:53:05,082 --> 00:53:23,424
+women and children petty-bourgeois shop owners in other words there's a whole group of people in the population is not being probably terrorized and the latent group is very significant
+
+245
+00:53:23,424 --> 00:53:32,135
+and at any Particular time you can sort of say: okay where's the latent group and how can they be mobilized
+
+246
+00:53:32,135 --> 00:53:48,120
+in 1960s for example when there were labor shortages within the major centers of a capital accumulation instead of creating an industrial reserve army by by technological dynamism
+
+247
+00:53:48,120 --> 00:54:05,070
+That threw a lot of people out of work which by the way in the 1960s might have been difficult to do because of trade union power and might have induced sort of actually a revolutionary movement and all the rest of it Capital said: okay we're going to go for a latent we're going to mobilize the latent
+
+248
+00:54:05,070 --> 00:54:17,310
+Where was the latent Well the Germans said kind of a Joan capitally said: okay as always people in Turkey we bring in the Turks the French brought in the Maghreb ian's
+
+249
+00:54:17,310 --> 00:54:30,000
+The British brought in people from the current continent the 1960s as a reform of immigration acts in this country which suddenly gave up the quota system and allowed the import of all kinds of labor from all around the world in this country
+
+250
+00:54:30,000 --> 00:54:43,860
+In other words the mobilisation of the latent reserve became a very important for strategy in the 1960s to control the dynamics of class struggle and because it was about controlling the dynamics of class struggle
+
+251
+00:54:43,860 --> 00:54:47,510
+It generated of course a great deal of hostility to immigration
+
+252
+00:54:47,510 --> 00:54:56,490
+So by the end of the nineteen sixties you have kind of anti-immigrant movements going on and people saying why is the French state subsidizing them to these Maghreb ian's
+
+253
+00:54:56,490 --> 00:55:03,390
+Why is the German state subsidizing these folks from Turkey why the Swedes concentrate
+
+254
+00:55:03,390 --> 00:55:08,340
+You know subsidizing these people from Portugal and and Yugoslavia Why
+
+255
+00:55:08,340 --> 00:55:22,860
+You know why is all this going on conventional working classes started to become rather anti-immigrant and that then led to all kinds of social consequences but then think of the latent reserve
+
+256
+00:55:22,860 --> 00:55:28,680
+Over the last 30 or 40 years about a billion people have joined the global wage
+
+257
+00:55:28,680 --> 00:55:36,920
+Labor force in the last 30 years where were they from well China came in that was in itself huge Just in itself
+
+258
+00:55:36,920 --> 00:55:44,075
+Women were mobilized into the labor force which in in in mass in mass ways
+
+259
+00:55:44,075 --> 00:56:03,944
+the Soviet empire collapses and so you suddenly got all of you know Eastern Europe and Russia and the like I mean a huge latent labor force which is mobilized in The 1980s and 1990s and so on up to now
+
+260
+00:56:03,944 --> 00:56:17,138
+so the latent was very very important and and and the latent that latent labor force did what Marx talks about in here It disciplined the existing labor forces
+
+261
+00:56:17,138 --> 00:56:40,113
+a discipline to the point where a once powerful trade union movements in Europe and North America are kind of disempowered and you know all kinds of you know labor controls are set in motion
+
+262
+00:56:40,113 --> 00:56:51,856
+so the latent it's important To sort of think about the history of the latent labor force it's also important to think about You know the creation of unemployment
+
+263
+00:56:51,856 --> 00:57:03,600
+the mass that occurred at the end of the 1970s when in fact there was a deliberate creation of unemployment in what was called the volca shock and the Reagan
+
+264
+00:57:03,600 --> 00:57:09,900
+You know disciplining of the air traffic controllers Union and all kinds of things like that
+
+265
+00:57:09,900 --> 00:57:14,130
+So in the early 1980s there was a disciplining of labor that was going on internally
+
+266
+00:57:14,130 --> 00:57:23,020
+At the same time as latent labor forces were being mobilized from abroad capital was starting to move abroad to where the labor forces were so
+
+267
+00:57:23,020 --> 00:57:31,240
+You then find this whole kind of relation to but this is all about an industrial reserve army Where is it
+
+268
+00:57:31,240 --> 00:57:33,910
+What'S it doing you know: where can it be mobilized
+
+269
+00:57:33,910 --> 00:57:41,920
+What are the tactics of mobilization how much state power is involved in that you know all kinds of things of that sort and it seems to me Marx is opening up here
+
+270
+00:57:41,920 --> 00:58:02,770
+These kind of questions to look at in terms of the history of capital accumulation throughout its history capital has always had to have and this industrial reserve army and that I think one of the crucial features and the latent is you know in some respects
+
+271
+00:58:02,770 --> 00:58:12,240
+I think capital would prefer to deal with a latent force then are floating
+
+272
+00:58:12,240 --> 00:58:18,910
+The advantage of a floating labor force is of course though it has certain skills and doesn't have to be trained into
+
+273
+00:58:18,910 --> 00:58:21,460
+You know labor processes and the like
+
+274
+00:58:21,460 --> 00:58:30,010
+So as certainly advantages of having a floating labor force but a floating labor force is also difficult because they tend to be a bit organized
+
+275
+00:58:30,010 --> 00:58:34,600
+They tend to have a good idea of what they're doing and they tend to be resentful of all such things
+
+276
+00:58:34,600 --> 00:58:48,460
+So the creation of industrial reserve army by deliberate creation of unemployment has occurred in the early 1980s deliberately in Thatcher's Britain and also in Regan's America
+
+277
+00:58:48,460 --> 00:59:01,720
+You see see that going on but it's only a short-term thing and if you'd last too long there'll be internal discontent and all kinds of hell will break loose and so you know you look then for the latent as much as possible
+
+278
+00:59:01,720 --> 00:59:22,480
+The third category he talks about is the stagnant population which is what workers who have effectively been either driven out of the labor force or lost their interest in working and and don't want to be bothered anymore It'S a it's
+
+279
+00:59:22,480 --> 00:59:28,750
+A sort of stagnant sector Marx sometimes referred to it as a sort of lump and proletariat
+
+280
+00:59:28,750 --> 00:59:38,510
+I don't like that term but but but it's there and finally he says the lowest settlement of the relative self population dwell in the sphere of pauperism
+
+281
+00:59:38,510 --> 00:59:43,830
+That is those people who are kind of sickly
+
+282
+00:59:43,830 --> 00:59:51,980
+The widow's pauperism he says is the hospital of the active labour army and the dead weight of the industrial reserve army
+
+283
+00:59:51,980 --> 00:59:58,650
+His production is included in that of the relative surplus population if necessity is implied by their necessity
+
+284
+00:59:58,650 --> 01:00:05,280
+Along with the surplus population pauperism forms a condition of capitalist production and of the capitalist development wealth
+
+285
+01:00:05,280 --> 01:00:09,840
+It forms part of the necessary costs of capitis production
+
+286
+01:00:09,840 --> 01:00:17,381
+but capital usually knows how to transfer these from his own shoulders to those of the working class and the petty bourgeoisie
+
+287
+01:00:17,381 --> 01:00:33,703
+for the role of pauperism is that you've take out this layer of the population and it Basically is a deadweight of the industrial reserve army; it curbs the ambitions of the industrial workers reserve army
+
+288
+01:00:33,703 --> 01:00:50,190
+you point to people you know the homeless people on the street and that can happen to you This is the kind of thing that can happen to you Unless you you know you play good and play by the rules and do what we want you to do so
+
+289
+01:00:50,190 --> 01:01:10,290
+This brings him to this conclusion: the more extensive well the greater the social wealth the functioning capital the extent and energy of its growth and therefore also the greater the absolute mass of the proletariat and the productivity of its labour
+
+290
+01:01:10,290 --> 01:01:21,350
+The greater is the industrial reserve army the same causes which develop the expansive power of capital also developed the labor power at its disposal
+
+291
+01:01:21,350 --> 01:01:31,860
+The relative mass of the industrial reserve army thus increases with the potential energy of wealth but the greater this reserve army in proportion to the active labour army
+
+292
+01:01:31,860 --> 01:01:39,540
+The greater is the mass of consolidated surplus population whose misery is an inverse ratio to the amount of torture
+
+293
+01:01:39,540 --> 01:01:44,250
+It has to undergo in the form of labor the more extensive
+
+294
+01:01:44,250 --> 01:01:55,430
+Finally the pauperize sections of the working class and the industrial reserve me the greater is official pauperism like all other laws
+
+295
+01:01:55,430 --> 01:02:02,809
+Sorry this he says is the absolute general law of capitalist gem of capitalist accumulation
+
+296
+01:02:02,809 --> 01:02:17,640
+So this is why I say the whole of capital is really about this general law the absolute general law of capitalist accumulation which is the production of an industrial reserve army the production of poverty
+
+297
+01:02:17,640 --> 01:02:35,780
+The production of you know conditions of not only working but of living which are close to being intolerable because that is the basis upon which capital accumulation rests and the production of wealth rests
+
+298
+01:02:35,780 --> 01:02:51,660
+Like all other laws says Marx it is modified in it's working by many circumstances the analysis of which does not concern us here but I would still submit that this general kind of characterization is very characteristic of our present condition
+
+299
+01:02:51,660 --> 01:03:11,010
+I mean what's remarkable in many ways about this: is we've got the huge production of wealth and concentration of wealth at the same time as we've got the production of an industrial reserve army of impoverishment of the pauperism I've just come back to
+
+300
+01:03:11,010 --> 01:03:23,760
+I was in Greece for a week the whole history of what happened to Greece and in in a society in in Greece itself but top 1 % has increased its wealth by something like 20 %
+
+301
+01:03:23,760 --> 01:03:45,174
+Since the crisis wealth has been drained from Greece austerity austerity austerity said the European Union and the lesson of Greece is to all the working classes around the world If you don't play ball you it's gon na be like Greece
+
+302
+01:03:45,174 --> 01:03:58,890
+and it's actually it's very interesting because ya said this: before United States has its own Greece in Puerto Rico industrial reserve army perhaps the industrial army
+
+303
+01:03:58,915 --> 01:04:12,167
+and it is put under conditions of austerity and it's Put under conditions of this living conditions - and this is what what what wealth is based upon and this is what capital accumulation is based upon
+
+304
+01:04:12,167 --> 01:04:23,871
+and of course the explanation of why Greece is Greece and my Puerto Rico's Puerto Rico - is both cultural You know so the popular view is lazy Puerto Ricans and lazy idle Greeks You know
+
+305
+01:04:23,896 --> 01:04:35,130
+all over the German press That kind of thing you don't have to probe very far in this country to get that kind of reaction either or it's just men policy mistakes and indebtedness
+
+306
+01:04:35,130 --> 01:04:45,599
+This kind of thing know what Marx is saying: is conditions of that sort that you see in Puerto Rico and you see in Greece ah absolutely essential to the function of a capitalist mode of production
+
+307
+01:04:45,599 --> 01:05:08,550
+A capitalist mode of production cannot function without producing that and it's really very interesting that you know when all this money started pouring out from the very outer rich in in France to rebuild natura Dam and suddenly all of the she later on was saying where the Hell did all that wealth come from Why happen
+
+308
+01:05:08,550 --> 01:05:24,619
+Why are we living under austerity and why are we having to live under regulations and conditions of almost pauperism when all this wealth is there and can be easily spelled out in this yeah and a second they just signed the checks and that's it
+
+309
+01:05:24,619 --> 01:05:43,339
+So what does this lead to so marx gives them this general characterization of capital which is our sort of famous passages on 798 79 the higher the productivity of labour the greater is the pressure of the workers on the means of employment
+
+310
+01:05:43,339 --> 01:05:54,950
+The more precarious therefore becomes the conditions of their existence namely the sale of their own labour power of the increase of alien wealth or in other words the self valorisation of capital
+
+311
+01:05:54,950 --> 01:06:03,079
+The fact that the means of production and the productivity of labour increased more rapidly than the productive population expresses itself
+
+312
+01:06:03,079 --> 01:06:13,220
+Therefore under capitalism in the inverse form that the working population always increases more rapidly than the valorisation requirements of capital
+
+313
+01:06:13,220 --> 01:06:16,410
+We earlier saw it in the capitalist system
+
+314
+01:06:16,410 --> 01:06:22,940
+All methods for raising the social productivity of labour are put into effect at the cost of the individual worker
+
+315
+01:06:22,940 --> 01:06:32,550
+That all means for the development of production undergo a dialectical inversion so they become means of domination and exploitation of the producers
+
+316
+01:06:32,550 --> 01:06:33,660
+That is the workers
+
+317
+01:06:33,660 --> 01:06:36,530
+They distort the worker into a fragmented man
+
+318
+01:06:36,530 --> 01:06:41,400
+They degrade him to the level of an appendage of a machine They destroy
+
+319
+01:06:41,400 --> 01:07:03,120
+The actual content of his labour by turning it into a torment they alienate from him the intellectual potentialities of the labour process in the same proportion of Sciences incorporated in it as an independent power they deform the conditions under which if he works subject him during the Labor process to a despotism the more hateful for its meanness
+
+320
+01:07:03,120 --> 01:07:10,880
+They transform his life time into working time and drag his wife and child beneath the wheels of the juggernaut of capital
+
+321
+01:07:10,880 --> 01:07:21,920
+But all methods for the production of surplus-value are at the same time methods of accumulation and every extension of accumulation becomes conversely a means for the development of these methods
+
+322
+01:07:21,920 --> 01:07:31,310
+It follows therefore that in proportion as capital accumulates the situation of the worker be his payment high or low must grow worse
+
+323
+01:07:31,310 --> 01:07:46,820
+Finally the law which always holds the relative surplus population or dusty reserve army in equilibrium with the extent in energy of accumulation rivets the work at the capital more firmly than the wedges of Hephaestus held prometheus to the rock
+
+324
+01:07:46,820 --> 01:07:53,960
+It makes an accumulation of misery and necessary condition corresponding to the accumulation of wealth
+
+325
+01:07:53,960 --> 01:08:12,350
+The accumulation of wealth of one pole is therefore at the same time: accumulation of misery the torment of Labour's slavery ignorance brutalization and moral degradation at the opposite pole ie on the side of the class that produces its own product there's capital
+
+326
+01:08:12,350 --> 01:08:19,382
+So this is the conclusion if you like now this is what capital is about
+
+327
+01:08:19,382 --> 01:08:35,578
+but this is the famous thesis of the increasing imitation of the working class increasing impoverishment the reduction of large segments for workers working class the conditions of pauperism
+
+328
+01:08:35,578 --> 01:08:50,359
+but remember this is Not a prediction: it is a contingent statement and it's contingent upon the assumptions
+
+329
+01:08:50,359 --> 01:09:03,850
+in volume 2 of capital you'll find another argument being made that if this is the only way in which capital can work then there can be no market
+
+330
+01:09:03,850 --> 01:09:18,489
+The market disappears because the workers are not in a position to exercise any demand for the increasing product created
+
+331
+01:09:18,489 --> 01:09:45,969
+So you can see immediately that this process that Marx is talking about here if it is the only process of relevance will produce a condition under which capital will collapse because it will have no market and remember the first chapter of capital Marx can assess if there Is no market there is no value
+
+332
+01:09:45,969 --> 01:09:57,040
+If you cannot sell the product there you know no matter how much labour has been incorporated in a product there's no value
+
+333
+01:09:57,040 --> 01:10:10,790
+So what Marx is kind of doing here is to give us a one-sided analysis and therefore it's interesting to take that analysis and say well
+
+334
+01:10:10,790 --> 01:10:14,080
+Ok that is part of the story of capital
+
+335
+01:10:14,080 --> 01:10:37,790
+It'S a very important part because we can see phases in which the production of a relative surplus population the mobilisation of a latent reserve armies all those kinds of things the pressure which is put on a working population by the unemployed the pressure which is put on Wages the pressure is which is put on the intensity of exploitation of labour and all the rest of it
+
+336
+01:10:37,790 --> 01:10:46,260
+Those pressures they're all there and they are being mobilized to this day and in certain parts of the world
+
+337
+01:10:46,260 --> 01:10:59,010
+If you read this you're kind of saying and you were sitting in Bangladesh or you are sitting in Laos or you're sitting in Vietnam or even sell in China until recently you would say that this is
+
+338
+01:10:59,010 --> 01:11:00,240
+This is exactly what is happening
+
+339
+01:11:00,240 --> 01:11:16,820
+A latent reserve has been mobilized its pushed its way and and and it's been reduced to conditions of labor which I'm living which are absolutely appalling
+
+340
+01:11:16,820 --> 01:11:23,370
+So it's a one-sided story It'S interesting
+
+341
+01:11:23,370 --> 01:11:32,180
+At the end of volume two Marx talks about the need to encourage rational consumption on the part of the worker
+
+342
+01:11:32,180 --> 01:11:47,040
+Rational consumption is that consumption which is necessary for the worker to engage in in order to stabilize the accumulation of capital in order for that rational consumption
+
+343
+01:11:47,040 --> 01:11:59,840
+To occur you have to give the workers more wages so you raise their wages and and then the market can confection
+
+344
+01:11:59,840 --> 01:12:22,020
+So the volume two stories rather is rather different very different and I think it's interesting to say well the volume two stories about the stabilization of capital by the management of a wage rate which is sufficiently high to create the effective demand to absorb the increasing product
+
+345
+01:12:22,020 --> 01:12:54,459
+Because the accumulation of capital is the accumulation of more and more commodities and who's going to consume those commodities first off they have to have the wants needs and desires but then beyond that they have to have the means to pay for so the volume two story Then says manage the wage level in such a way as as as to create the solution effective demand to absorb the value which has been produced
+
+346
+01:12:54,459 --> 01:13:09,979
+That'S the volume two story but you can't do that if you're in this volume one analysis - and I think it's very interesting - just to look at the history of capital and ask the question to what degree are we functionally
+
+347
+01:13:09,979 --> 01:13:37,849
+According to the volume one analysis or the volume two analysis my view is in the 1960s we were tending to do demand management and and the question of aggregate effective demand by at least giving a certain segment of the labor force privileged wage levels and all the Rest of it unionization and all the rest of it that that was a very important sort of phase in which the volume to story was was being followed
+
+348
+01:13:37,849 --> 01:13:45,679
+The trouble with the volume two story is the workers started to get much more ambitious I'm much more empowered and they needed to be disempowered
+
+349
+01:13:45,679 --> 01:13:53,269
+So in the 1970s they get disempowered and he go into a volume one story and we're now firmly in a volume
+
+350
+01:13:53,269 --> 01:14:06,949
+One story with serious problems about management of effective demand and so where's the effective demand gon na come from when we you know and so we have these claims
+
+351
+01:14:06,949 --> 01:14:18,919
+Well let's put the minimum wage up to $ 15 an hour or something like that and then demand will recover and you know if we go back into a volume that's actually the global capital
+
+352
+01:14:18,919 --> 01:14:29,269
+Right now China has been operating on a sort of the basis of a volume two story the rest of the world with austerity politics and all the rest of it has been really working on a volume
+
+353
+01:14:29,269 --> 01:14:31,629
+One story so you've got both stories together
+
+354
+01:14:31,629 --> 01:14:40,869
+Has she right now okay this leads then into the section 5 on illustrations of the general law of capitalist accumulation
+
+355
+01:14:40,869 --> 01:14:48,669
+Now I yeah there's a lot of materials here and I'm not going to go over it in any great detail
+
+356
+01:14:48,669 --> 01:15:02,050
+But what I wanted to point out is that Marx is not only interested in the position allottee of what happens to the worker in the point of production
+
+357
+01:15:02,050 --> 01:15:25,710
+Here he's doing things he's talking about conditions of social reproduction and the conditions of social reproduction of the industrial reserve army in particular because if the the industrial reserve army has absolutely nothing and all they all die of starvation then it's not going to perform its role
+
+358
+01:15:25,710 --> 01:15:37,300
+So there's been a big problem throughout the history of capital as to how to manage the industrial reserve army how to give it enough resources to keep it alive and able to come back
+
+359
+01:15:37,300 --> 01:15:42,210
+And you don't into the labor force you if they all end up in
+
+360
+01:15:42,210 --> 01:16:07,090
+In in the sort of pauper category then they're not going to be very effective as an effective as an industrial reserve army but nevertheless the incentive that comes with the pangs of hunger Mark's points about this way 811
+
+361
+01:16:07,090 --> 01:16:20,860
+He says for example the intimate connection between the pangs of hunger suffered by the most industrious layers of the working class and the extravagant consumption course are refined to the rich for which capitalist accumulation is
+
+362
+01:16:20,860 --> 01:16:24,450
+The basis is only uncovered when the economic laws are known
+
+363
+01:16:24,450 --> 01:16:27,690
+It is otherwise with the housing situation
+
+364
+01:16:27,690 --> 01:16:48,884
+Every unprejudiced observer sees that the great of the greater the centralization of the means of production the greater is the corresponding concentration of workers within a given space and therefore the more quickly capitalist accumulation takes place and the more miserable the housing situation Of the working-class
+
+365
+01:16:48,884 --> 01:17:09,047
+improvements of towns which accompanied the increase of wealth such as the demolition of badly built districts the erection of palaces to house banks warehouses etc the widening of streets for business traffic for luxury carriages for the introduction of tramways obviously drive the poor away Into an even worse and more crowded corners
+
+366
+01:17:09,047 --> 01:17:29,753
+on the other hand everyone knows that the dearness of houses stands is the inverse ratio to their quality and that the mines of misery exploited by house speculators with more profited and at less cost than the mine's of Potosi Were ever exploited potosi is great silver mines
+
+367
+01:17:29,753 --> 01:17:45,539
+ and you know he has a lot of stuff in here from the Senate reports of sanitation workers of what living conditions are alike and the reports of Public Health and the condition of urban dwellings
+
+368
+01:17:45,539 --> 01:17:51,579
+Mark'S quote somebody called dr Simon or than my official point of view is one exclusively physical
+
+369
+01:17:51,579 --> 01:17:58,499
+Common humanity requires that the other aspect of this evil should not be ignored in its highest degrees
+
+370
+01:17:58,499 --> 01:18:12,909
+Overcrowding almost necessarily involves such negation of all delicacy such unclean confusion of bodies and bodily functions such exposure of animal and sexual nakedness as is rather bestial than human to be subject to these influences
+
+371
+01:18:12,909 --> 01:18:20,260
+It is a degradation which must become deeper and deeper for those on whom ADIZ continues to work to children who are born under its curse
+
+372
+01:18:20,260 --> 01:18:24,159
+It must often be very baptism into infamy now
+
+373
+01:18:24,159 --> 01:18:26,940
+Marx is just quoting here
+
+374
+01:18:26,940 --> 01:18:39,429
+The factory and the public health inspectors about things are some some Victorian ideas about things but nevertheless it's about that
+
+375
+01:18:39,429 --> 01:18:57,400
+The living conditions of dead total degradation and then Marx goes on the better part of the working class together with small shopkeepers and other elements of the lower middle class both in London more and more under the curse of those vile housing conditions in proportion
+
+376
+01:18:57,400 --> 01:19:16,989
+As improvements and within the demolition of old streets and houses advanced gentrification is not new urban renewal and improvements and all the rest of it and slum clearance and so on and and the raising of rents rents have become so heavy that few laboring men can afford
+
+377
+01:19:16,989 --> 01:19:20,559
+More than one room there is almost no house property in London
+
+378
+01:19:20,559 --> 01:19:31,820
+That is not however burdened with the number of middlemen and goes on about the price and had land in London and what happens to living conditions
+
+379
+01:19:31,820 --> 01:19:43,900
+There'S a lot of work of this kind in this and this which where Marx puts together many of these quotations above from public health inspectors and and and the like
+
+380
+01:19:43,900 --> 01:19:59,690
+I think that there are two other themes in here which are you know terribly important one
+
+381
+01:19:59,690 --> 01:20:18,380
+One is the the the notion of a continual immigration through which this system is continuously replenished so that the importation of a feel from the countryside becomes to replace
+
+382
+01:20:18,380 --> 01:20:25,429
+There was people who end up in the hospital of the industrial reserve army becomes important
+
+383
+01:20:25,429 --> 01:20:52,820
+The other thing is that Marx also introduces into here the question of the Irish and and the way in which capital uses both ethnic and religious distinctions to divide and rule upon many elements in the population and the conditions of the Irish post
+
+384
+01:20:52,820 --> 01:21:14,380
+All sorts of problems for the working class at the time to try to for for capital to try to find a way to manage the industrial reserve army at the same time as it dissing disempowered it
+
+385
+01:21:14,380 --> 01:21:32,770
+So there's there's a very interesting kind of argument which is also made about the living standards and and and this occurred in a couple of times and we've also seen it in in this country
+
+386
+01:21:32,770 --> 01:22:03,521
+There'S a point where Marx points out that the public health inspectors saying that the people in jail had better living conditions and better diet than the people in the workhouse : the official pauper population, and better also than the lower levels of the working class out On the street
+
+387
+01:22:03,521 --> 01:22:16,916
+and actually the examples in this country of people wanting to go back into jail having got out because it actually turned out there were better fed in jail and they were likely to be outside
+
+388
+01:22:16,916 --> 01:22:32,710
+and I think this the argument that Then gets made is that there has to be a welfare system
+
+389
+01:22:32,710 --> 01:22:53,990
+There is sufficiently how should we say sufficiently vicious that people are not given too much in the way of support because otherwise they'll refuse to go and engage in wage labour
+
+390
+01:22:53,990 --> 01:23:04,450
+Now this is the right-wing argument that unemployment is actually caused by social welfare because social welfare
+
+391
+01:23:04,450 --> 01:23:19,360
+If it's reasonably you know it's a reasonable level then then it sets the level at which people refuse to go to work and people's refusal to go to work depends very much upon them being given adequate welfare
+
+392
+01:23:19,360 --> 01:23:28,979
+So cutting welfare becomes the right-wing mantra and it's argued that cutting welfare actually reduces unemployment
+
+393
+01:23:28,979 --> 01:23:41,777
+because if the welfare level is so low that you do almost anything together you have a job then you're going to labor force at extremely low wages
+
+394
+01:23:41,777 --> 01:23:56,784
+and again Marx is talking Here about the way in which pauperism sets a certain kind of level and and becomes the basis upon which accumulation of capital and exploitation of living labor and production and all those things can operate
+
+395
+01:23:56,784 --> 01:24:06,968
+and it is therefore the the basis of the of the creation and Production of wealth and the more poverty there is the greater the wealth
+
+396
+01:24:06,968 --> 01:24:15,949
+and it's very interesting that you know since the 1970s effectively the disciplining of the working classes has meant that more and more poverty is around
+
+397
+01:24:15,949 --> 01:24:30,770
+Even though you know there are certain measures which say poverty is less and less but that's mainly because of China and this this then produces this
+
+398
+01:24:30,770 --> 01:24:45,360
+You know situation in which the production of poverty is absolutely critical to the accumulation of wealth and those things go together and that was what was so
+
+399
+01:24:45,360 --> 01:24:53,040
+I think stunning with in in in the front and the French case and was kind of you know
+
+400
+01:24:53,040 --> 01:25:02,370
+Macro comes in and one of the big reasons why France has not had the same levels of inequality as other almost all the other major countries
+
+401
+01:25:02,370 --> 01:25:13,584
+It'S because they've never been able to revise all the labor laws to create greater flexibility in in in hiring and firing of labour
+
+402
+01:25:13,584 --> 01:25:17,502
+Macro comes in and says: that's what we're going to do
+
+403
+01:25:17,502 --> 01:25:30,590
+and this is this - is the big step towards creating greater greater inequality and and and so micron comes in and does that he cuts taxes on them for the rich
+
+404
+01:25:30,590 --> 01:25:40,500
+He does austerity for for the welfare services and it's a classic Neanderthal kind of kind of program
+
+405
+01:25:40,500 --> 01:25:48,840
+He puts that all in place and - and we start then to see suddenly these enormous extrusions of wealth around you know
+
+406
+01:25:48,840 --> 01:25:56,680
+Okay you need 200 million euros to rebuild not to dam is to million euros well
+
+407
+01:25:56,680 --> 01:26:07,770
+It is interesting that all of the its merchants capitalist class there that's the wealthy class they're not not their producers
+
+408
+01:26:07,770 --> 01:26:24,150
+So this connection which Marx is making between the production of industrial reserve army and the accumulation of capital the production of poverty and the necessity of that poverty took to increase is crucial
+
+409
+01:26:24,150 --> 01:26:37,570
+It seems to me to interpret exactly what is happening in terms of this dynamism of of contemporary capitalism and this idea of precarity is something that's new
+
+410
+01:26:37,570 --> 01:26:53,590
+You know plainly it's not because there's a large segment of the industrial reserve army that is precarious in marxist time and and Marx clearly saw it as such and even the curricular lee employed labourers have a element of precarity
+
+411
+01:26:53,590 --> 01:26:57,420
+They can be thrown out by by dynamism
+
+412
+01:26:57,420 --> 01:27:01,680
+So this is the general law of capitalist accumulation
+
+413
+01:27:01,680 --> 01:27:12,173
+The role of labor is is really what what it's about as far as I'm concerned
+
+414
+01:27:12,173 --> 01:27:32,171
+and I think that all these illustrative materials back here are worth reading if only to get some sort of sense of the vast array of reports which are coming out on The conditions of working and living in in Britain at the time when Marx was writing
+
+415
+01:27:32,171 --> 01:27:38,200
+the idea that this is all gone away Well to some degree he has gone away to move over
+
+416
+01:27:38,200 --> 01:27:56,100
+That'S because you needed to do something in the volume to equilibrium condition but nevertheless you'll find plenty of evidence of this and by the way this idea that you get this production of wealth
+
+417
+01:27:56,100 --> 01:28:32,520
+At the same time as you get the production of poverty it's not unique to to Marx and I've always found it very interesting that that passage where he talks about accumulation of wealth of one pole is is resting upon the accumulation of misery degradation or another pole Of that of working class you can actually find almost that same phrasing and Hegel and Hegel's philosophy is right and and and it's interesting when you read Eagles philosophy of right Marx wrote a critique of Hegel's philosophy of right but he never actually quoted All of that
+
+418
+01:28:32,520 --> 01:28:46,449
+I think some of this sensibility of what's happening to workers is actually modeled on Hegel's philosophy right for those of you who are interested in Hegel collection
+
+419
+01:28:46,449 --> 01:28:56,798
+so I'll stop here and see what you might be making of this and and how you might might see it And any questions you might have
+
+420
+01:29:20,286 --> 01:29:22,858
+nobody?
+
+421
+01:29:38,626 --> 01:30:10,650
+I just wanted to make sure I wasn't kind of getting caught in a contradiction or confusion but so the whole thing that machines don't create value and centralization doesn't create capital that just sort of shifts it Towards fewer capitalists what's the like what would make the demand for labor decline
+
+422
+01:30:10,650 --> 01:30:23,529
+Is it just technical technical technical dynamism meaning that they can create more with less workers faster because there's been centralized
+
+423
+01:30:23,529 --> 01:30:43,899
+yeah well part of the story here is the Marx is generally speaking thinking about technological innovation which is labor saving so labor saving technologies come In
+
+424
+01:30:43,899 --> 01:30:51,836
+and it means you need fewer workers and large...
+
+425
+01:30:51,836 --> 01:31:10,207
+for example in when I moved to Baltimore 1969 there's a steel works ...and I've gotten exactly maybe thirty seven thousand people employed,
+
+426
+01:31:10,207 --> 01:31:18,473
+by trying to get to 1990 there's five thousand people employed and They'Re producing the same amount of steel
+
+427
+01:31:18,473 --> 01:31:26,210
+and the story in the order plants is similar large areas of manufacturing
+
+428
+01:31:26,210 --> 01:31:47,810
+What we've seen is robotics and automation and all the rest of it so that Detroit is presumably you know I don't know whether it is but but using still producing hell of a lot of cars but in terms of employment we know it's it's nowhere
+
+429
+01:31:47,810 --> 01:31:52,550
+You know and so you've got a Detroit kind of problem
+
+430
+01:31:52,550 --> 01:32:28,010
+So if you if you look at the history of manufacturing over the last thirty four years what you'd see is a huge increase in productivity a decrease of the variable capital that decrease in the number of people employed and and at the same time you're not you're
+
+431
+01:32:28,010 --> 01:32:39,560
+Still producing the same amount of cars if not more so so I think that's the now when you're doing that
+
+432
+01:32:39,560 --> 01:32:48,550
+That means of course the price of the individual cars comes down or should come down relatively speaking
+
+433
+01:32:48,550 --> 01:32:54,010
+The cars get more sophisticated and so all sorts of things go on to that sort
+
+434
+01:32:54,010 --> 01:33:13,721
+But that is what's happening and so if you've looked at something than said ok what's the value composition of capital in the automobile industry and you would say well it's it's a tremendous amount of constant capital
+
+435
+01:33:13,721 --> 01:33:21,340
+both in terms of raw materials that make the car but Also the infrastructures which are required and the robotic instruments and all their estimates there
+
+436
+01:33:21,340 --> 01:33:35,480
+so you got a lot of constant capital being being consumed and a lot of constant capital used in the production process and the variable capital is it's much lower
+
+437
+01:33:35,480 --> 01:33:52,994
+So you would take the C over V ratio and say that the value composition of capitalism risen very distinctly over the last 30 or 40 years in the auto industry or in the steel industry or anywhere else
+
+438
+01:33:52,994 --> 01:34:12,847
+and you know there's all this kind of discussion in This country about you know loss of manufacturing jobs and the general tendency is to sort of blame it all on offshoring but only about 40 % of the job losses I think are attributable to going to China or offshoring
+
+439
+01:34:12,847 --> 01:34:32,560
+about 60 % of the job losses are Due to technological change and of course we're now beginning to see technological change coming into the service sector and we may well see in the same way we saw the industrialization and loss of manufacturing
+
+440
+01:34:32,560 --> 01:34:41,400
+Jobs were likely to see a similar round of loss of service jobs
+
+441
+01:34:41,400 --> 01:34:51,360
+Through technological dynamism technological change now the answers you know why why would bother capital Do that
+
+442
+01:34:51,360 --> 01:35:13,450
+Well partly it's the pressures of competition that if my productivity is higher than yours I'm in competition with you that that's it It'S also has to do with some of the internal dynamics of cost savings internally but you know so
+
+443
+01:35:13,450 --> 01:35:23,170
+There are also some reasons why I engage in the technological technology could dynamism but again it comes back to this notion that machines are not
+
+444
+01:35:23,170 --> 01:35:47,429
+None of this is a suit is a source of value but it is a source of relative surplus-value and that that's the important the important thing yes yeah no he's exciting yeah
+
+445
+01:35:47,429 --> 01:35:51,849
+Those agree that you know economies of scale become terribly important
+
+446
+01:35:51,849 --> 01:36:10,900
+So one of the arguments he's making here is economies of scale allow a much greater productivity of our labor force and so you can reduce the labor force and maintain your production or just keep the labor force and expand your production so so economies of scale report
+
+447
+01:36:10,900 --> 01:36:53,760
+So through centralization and you can economize in all sorts of ways and but the the initiative to centralize through mergers and acquisitions and so and has a lot to do then we're course with asset stripping that you consolidate an asset strip and all those kinds of things Marx is not obviously talking about that but it's not hard to insert all of that kind of activity into the argument he's making yeah
+
+448
+01:36:53,760 --> 01:36:55,540
+We have a question from online
+
+449
+01:36:55,540 --> 01:36:58,080
+That'S on that point
+
+450
+01:36:58,080 --> 01:37:01,320
+What will happen this is from beyhan from berlin
+
+451
+01:37:01,320 --> 01:37:09,910
+What will happen if sophisticated and widespread artificial intelligence enters the stage of accumulation and exploitation strategies of capital
+
+452
+01:37:09,910 --> 01:37:18,420
+Will it promote or hinder the emergence of a classless society in the future
+
+453
+01:37:18,420 --> 01:37:42,480
+In versions of this kind always carry with them opportunities and possibilities but as Marx points out about machines in general and there's this ambiguity of course he has about you know: do we need machine technology and machine production for socialist society
+
+454
+01:37:42,480 --> 01:37:59,770
+What we know is that machine production has been mobilized for the purposes of capital accumulation and Mike in exactly the same way that the new technologies and flexible specialization and all of that was mobilized
+
+455
+01:37:59,770 --> 01:38:02,190
+In the 1970s and 1980s
+
+456
+01:38:02,190 --> 01:38:23,220
+It had the potential to create new possibilities for associated workforces to better manage and self manage but it was actually used by capital largely to accumulate more wealth and power and in terms of the capitalist class
+
+457
+01:38:23,220 --> 01:38:39,390
+So my guess is about artificial intelligence that while it can it has the possibility to be utilized very very directly within a socialist project that the development of artificial intelligence is not going
+
+458
+01:38:39,390 --> 01:38:44,580
+It'S not going to be organized around a socialist project
+
+459
+01:38:44,580 --> 01:39:00,960
+It'S going to be mobilized around the protection of structures of class domination and class management and all the rest of it and it's going to be organized around the requirements of a capitalist class
+
+460
+01:39:00,960 --> 01:39:07,190
+Unless there is a movement the kind of says no we're going to mobilize it in some other way
+
+461
+01:39:07,190 --> 01:39:10,070
+Now at the moment I don't see that movement
+
+462
+01:39:10,070 --> 01:39:17,220
+I see kind of yeah obviously individuals who would be concerned or doing that kind of thing
+
+463
+01:39:17,220 --> 01:39:43,460
+But you're going to have to need a mass movement to dis possess the Koch brothers and the Waltons and all the other kind of super capitalist class who essentially or if you like have the power over the state apparatus we're going to have to deal with the Bondholders and have the power of the state apparatus and push it in a different direction
+
+464
+01:39:43,460 --> 01:39:46,190
+On this I think it's very very interesting
+
+465
+01:39:46,190 --> 01:39:57,260
+At the same time as micron was doing all this stuff about you know trying to increase the wealth of the of the capitalist classes
+
+466
+01:39:57,260 --> 01:40:09,150
+China has is dedicated still to the idea of the elimination of poverty and I found it interesting to read about President Xi going to these
+
+467
+01:40:09,150 --> 01:40:12,230
+You know poor communes
+
+468
+01:40:12,230 --> 01:40:15,420
+He was when he was 16 years old
+
+469
+01:40:15,420 --> 01:40:21,450
+He was sent to a commune in a very poor area of China and worked there for seven years during the Cultural Revolution
+
+470
+01:40:21,450 --> 01:40:23,580
+So he knows what poverty is all about
+
+471
+01:40:23,580 --> 01:40:26,550
+He went back there and kind of said to the people that were gon na
+
+472
+01:40:26,550 --> 01:40:49,860
+You know really change life there and I there was a story in The Financial Times two days ago about shrinking cities in China which is a very unusual thing but in Manchurian region where he got under development and deindustrialization going on as he turned up in town Said: okay we're going to nicely eliminate poverty
+
+473
+01:40:49,860 --> 01:41:04,430
+So here you have a french president who's actually creating poverty in order to create wealth and you have and Chinese president who's committed at least in principle to the attempt to eradicate poverty
+
+474
+01:41:04,430 --> 01:41:06,470
+So again artificial intelligence
+
+475
+01:41:06,470 --> 01:41:09,260
+The Chinese are using it they could use it it
+
+476
+01:41:09,260 --> 01:41:11,810
+Maybe they can use it in ways which were going to be progressive
+
+477
+01:41:11,810 --> 01:41:26,000
+Who knows I'm not confident at all that it's going to be used in this country in a way that's progressive and I'm not confident at all that it's going to be used in and in Europe in a way which is progressive
+
+478
+01:41:26,000 --> 01:41:35,120
+So I think the answer to the question of you know: will the technology do this or that no the technology won't do anything depends who's going to use it and for what purpose
+
+479
+01:41:35,120 --> 01:41:49,460
+And I think that's where the big struggle lies in terms of hegemony of a capitalist class that is very much in control right now it's essentially an oligarchy or kleptocracy or whatever you want to call it
+
+480
+01:41:49,460 --> 01:42:08,980
+But it's a very small group of power centers which is essentially dominating a lot of the applications of of techniques of this kind Hello
+
+481
+01:42:08,980 --> 01:42:20,330
+Well where there was about to ask was what you were talking about this now about the the use of technology for social change and I think that it's really important that you mentioned
+
+482
+01:42:20,330 --> 01:42:29,660
+I know there are a few groups already in the world but they just very spread out over the world but you know having create an artificial intelligence
+
+483
+01:42:29,660 --> 01:42:31,670
+It'S not really hard
+
+484
+01:42:31,670 --> 01:42:34,880
+These days create a machine it's not really hard either
+
+485
+01:42:34,880 --> 01:42:43,190
+So I think that the left really can pull up something like a small project to produce things
+
+486
+01:42:43,190 --> 01:42:48,490
+For example there's things that are really low hanging fruits the free production of food for example
+
+487
+01:42:48,490 --> 01:42:58,700
+It'S not a really complicated project and probably there's something that the left can do someday and there's a couple of groups over the world that there we are
+
+488
+01:42:58,700 --> 01:43:02,330
+Will I part of one of this by the way where I was talk about these kind of things
+
+489
+01:43:02,330 --> 01:43:08,790
+Are we always complain because we often feel leftists but we always complain bad the left
+
+490
+01:43:08,790 --> 01:43:13,869
+No one is really they willing to do something concrete
+
+491
+01:43:13,869 --> 01:43:17,770
+I creating this thing here and the community has a lot of power
+
+492
+01:43:17,770 --> 01:43:19,330
+We can create this kind of machine
+
+493
+01:43:19,330 --> 01:43:27,489
+We can create this at the facial intelligence here we can create this app but it's really hard to find dedicate a group for this
+
+494
+01:43:27,489 --> 01:43:33,699
+But but what's a question before it's just coming to you that yes there are people
+
+495
+01:43:33,699 --> 01:43:36,159
+There are people that we are worried about that
+
+496
+01:43:36,159 --> 01:43:42,520
+We are worried that the means of production are much more improve it with artificial intelligence and robotics
+
+497
+01:43:42,520 --> 01:44:01,389
+But the concentration of wealth now is not only accelerating the introduction of robotics like Amazon or warmer for example which are really big actors in this in this thing but also the displacement of workers with with what we think are a class in excision Yeah
+
+498
+01:44:01,389 --> 01:44:29,670
+To be honest so well there are really people thinking about this today and hopefully someday the left will rise with a nice team of engineers and grammars right or something yes I will hope to have this someday okay so I was wondering how you think about brexit
+
+499
+01:44:29,670 --> 01:44:33,930
+Oh I try not to think about it
+
+500
+01:44:33,930 --> 01:44:39,470
+I you know it's
+
+501
+01:44:39,470 --> 01:44:46,200
+That is a total mess right now I mean it would have
+
+502
+01:44:46,200 --> 01:44:50,280
+It would have made sense if there had been a political project
+
+503
+01:44:50,280 --> 01:44:56,220
+I mean in a case I think a strong case was being made by at least some of the people
+
+504
+01:44:56,220 --> 01:45:15,210
+I know that I've given the degree to which the European Union was totally locked into a very neoliberal repressive project that the only way to get out of it was to sever relations with Europe
+
+505
+01:45:15,210 --> 01:45:25,380
+But that would presume that there will be a political movement in place in Britain that was actually going to pursue
+
+506
+01:45:25,380 --> 01:45:38,550
+Some alternative strategy to the neoliberal kind of configuration that was dominant has had dominated the European Union from the Maastricht Accord onwards
+
+507
+01:45:38,550 --> 01:45:47,141
+So there was an argument along those lines but since there was since that certainly didn't happen and most people who voted for brexit we're not thinking about that either
+
+508
+01:45:47,141 --> 01:46:07,441
+then the argument for brexit was not good and it probably would have been a better idea in to Stay in the European Union try and reform the European Union but you can see how difficult it is as a reform the European Union it's
+
+509
+01:46:07,441 --> 01:46:23,880
+it's a very neoliberal structured organization and the only thing is sponsoring right now seems to me a rise of right-wing nationalism
+
+510
+01:46:23,880 --> 01:46:35,176
+Around the place and company by anti-immigrant fervor and all the rest of it so a brexit
+
+511
+01:46:35,176 --> 01:47:05,787
+ I think was a major lost opportunity to either say well whatever we're going to stay in the European Union and we're going to fight to reform it or we're going To get out and we're going to autonomously develop an alternative kind of regulatory form and structure which is not going to rest on the kind of neoliberal principles that led the European Union to inflict the kinds of damage it did on sell in Europe and Greece In particular
+
+512
+01:47:05,787 --> 01:47:16,420
+I mean the European Union was supposedly set up That originally is a sort of organization in which there would be mutual aid from one part to the other
+
+513
+01:47:16,420 --> 01:47:34,710
+When Greece got into trouble well okay they were partly to blame but when they got into trouble there was no mutual aid forthcoming and in fact the whole eurozone mainly benefited Germany and did not benefit anybody else
+
+514
+01:47:34,710 --> 01:47:43,480
+So you know I'm even geographical development was involved in that
+
+515
+01:47:43,480 --> 01:47:53,230
+So I think this yeah there was an alternative politics was possible but but it wasn't it wasn't anywhere near the coming to the surface
+
+516
+01:47:53,230 --> 01:48:13,570
+As a majority majoritarian opinion I was wondering if you could comment a bit on the different examples of Marx gives of transforming land use so exist
+
+517
+01:48:13,570 --> 01:48:24,840
+One of what is wondering if you could comment a bit on the different examples of marsh gives of transforming land use
+
+518
+01:48:24,840 --> 01:48:29,580
+That was very disturbing
+
+519
+01:48:29,580 --> 01:48:41,770
+The the one example that he gives of the closed villages on the land and people being pushed out of them and having to commute from these open villages and then also the example of Ireland
+
+520
+01:48:41,770 --> 01:48:46,630
+The transformation of arable land in a pasture land and how that created
+
+521
+01:48:46,630 --> 01:48:51,040
+Pressure for depopulation I was wondering what your thoughts were on those sections
+
+522
+01:48:51,040 --> 01:49:00,150
+No I think I mean the all of the materials which were assembled in this last part
+
+523
+01:49:00,150 --> 01:49:08,530
+You know get into all kinds of details of that kind and I think that you know when you said: where do I think about it
+
+524
+01:49:08,530 --> 01:49:11,619
+I think oh well they were doing it back then and we haven't stopped doing it
+
+525
+01:49:11,619 --> 01:49:13,980
+We'Re still doing that kind of stuff
+
+526
+01:49:13,980 --> 01:49:34,750
+Maybe in a slightly different way I think the the Irish question which crops up here is I think here it was very interestingly handled by marx and engels
+
+527
+01:49:34,750 --> 01:49:48,216
+Initially they position was that the the importation of Irish labor was actually undermining and undercutting
+
+528
+01:49:48,216 --> 01:50:09,136
+the conditions of work of the British working class and that there in some ways they were echoing a certain kind of hostility towards Irish labor which was sort of commonplace in in Britain at the time
+
+529
+01:50:09,136 --> 01:50:33,729
+but they then switched before capital was written to rather different position which was that the condition of labor in Ireland was there was a very important issue to militate about and and become involved with
+
+530
+01:50:33,729 --> 01:50:39,790
+and I actually rather like the very final Part of this chapter where marx engels marx kind of says
+
+531
+01:50:39,790 --> 01:50:59,500
+Well you know to the degree that ireland became a past year for to raise you know cattle and all the rest of it for English English landlords and and the Irish themselves go to go to Ireland
+
+532
+01:50:59,500 --> 01:51:07,480
+They there become there were you know good Republicans and start to form become part of a republic
+
+533
+01:51:07,480 --> 01:51:30,880
+That'S going to you know really threaten British hegemony and I thought it was a little interesting twist at the end where where the movement of the Irish populations the United States the republicanism of the United States that Marx had some faith in you know critical faith in
+
+534
+01:51:30,880 --> 01:51:46,939
+If we're going to put it that way and that you know the US might then be a real challenge to for the British royalty and aristocracy and all the rest of it
+
+535
+01:51:46,939 --> 01:51:55,399
+So I think that that was an interesting interesting kind of twist but but some of the some of the issues that are being raised here
+
+536
+01:51:55,399 --> 01:52:22,269
+If for anybody who's interested about conditions of life of course Marx partly draw draws upon angles conditional working-class in England in 1944 and and but also there is angles little tract on the housing question which talks a lot about
+
+537
+01:52:22,269 --> 01:52:29,539
+You know land rents and the rising land rents and it's interesting when he starts talking about rising land rents in London
+
+538
+01:52:29,539 --> 01:52:31,939
+It'S like oh this is like really in tomorrow's
+
+539
+01:52:31,939 --> 01:52:51,139
+You know yesterday is Financial Times and and see so many of these things which which have echoes today - and I mean okay there's the different frameworks and different institutions and so on and - and I think this this this question of the labor reserve
+
+540
+01:52:51,139 --> 01:52:54,169
+Where is the global labor reserved these days
+
+541
+01:52:54,169 --> 01:53:14,510
+Well as Africa are still the big labor reserve in Africa that's not being mobilized but when you think about the fact that the wage labor force in 1980 was something like two billion it's it's now close to three billion
+
+542
+01:53:14,510 --> 01:53:19,659
+So it didn't is increased by 1 billion over the last thirty years
+
+543
+01:53:19,659 --> 01:53:26,079
+That'S a huge mobilisation of a reserve army into the wage labor force
+
+544
+01:53:26,079 --> 01:53:46,580
+Much of it of course is living under the conditions under really really miserable conditions and and and there's a very strange thing that goes on in the financial press which is everybody is so surprised that inflation has not taken off and everybody's so surprised
+
+545
+01:53:46,580 --> 01:53:58,400
+No not only of inflation has not taken off but wage levels haven't risen and - and it seems to me that the analysis here would gives you a very good idea as to why wage levels haven't risen
+
+546
+01:53:58,400 --> 01:54:04,970
+There'S such a huge labor reserve that's been mobilized and is sitting out there a lot of it
+
+547
+01:54:04,970 --> 01:54:25,160
+Given the technologies which are you know creating unemployment and the artificial intelligence that's coming in and all the rest of it you've got a huge disposable population there and and of course even in you know even in the United States when you're relatively full employment
+
+548
+01:54:25,160 --> 01:54:35,540
+This could be hardly any pressure on wages because that is the situation and if there's no pressure on wages there's not going to be a pressure on inflation
+
+549
+01:54:35,540 --> 01:54:44,930
+I don't understand why people don't understand that and if this is near and if there's no pressure on inflation then then interest rates can stay very low
+
+550
+01:54:44,930 --> 01:54:48,410
+You know so you've got this being the kind of economy
+
+551
+01:54:48,410 --> 01:55:04,340
+We got right now: low interest rates low inflation very very poor wage levels and and - and that is that is the kind of the nature of the capitalist economy
+
+552
+01:55:04,340 --> 01:55:15,700
+Right now and it's hard to see anything major occurring which is going to gon na transform that and I think we're gon na be stuck in this for some time
+
+553
+01:55:15,700 --> 01:55:20,110
+The big problem is of course is the effective demand
+
+554
+01:55:20,110 --> 01:55:27,680
+Where'S the effective demand well part of it - is supplied by the credit system which is why I think Marx
+
+555
+01:55:27,680 --> 01:56:01,489
+His introduction of the credit system even in here is interesting and and the monetization of a lot of what this is about and you know some of the other so this is this is this is the situation we are in and I think Marx just give us The sorts of tools to think about this and to understand you know what what the future might might might look like given the constellation of forces
+
+556
+01:56:01,489 --> 01:56:07,489
+Right now I mean if wages started to go up significantly and they'd have to do it globally
+
+557
+01:56:07,489 --> 01:56:09,440
+You see you know you just can't do it here
+
+558
+01:56:09,440 --> 01:56:12,199
+It has to be a global increase in wage in wage levels
+
+559
+01:56:12,199 --> 01:56:16,659
+Well in China is the wages have gone up significantly in the last
+
+560
+01:56:16,659 --> 01:56:36,550
+You know two or three years well one of the responses of Chinese capital is to go off to Bangladesh and Laos and Cambodia and rest of it because and actually there are some songs there maybe even setting up production activity in Africa
+
+561
+01:56:36,550 --> 01:56:54,260
+So so the question of the labor reserve is: is there and and and of course it's it's been mobilized and it's sitting there and it is disposable and it's living at very precarious living I mean
+
+562
+01:56:54,260 --> 01:56:56,590
+How would we write this chapter now
+
+563
+01:56:56,590 --> 01:56:58,550
+It'S an interesting kind of thing
+
+564
+01:56:58,550 --> 01:57:06,190
+You know sit down just to rewrite this chapter and by all agree and what would be the examples we were put in
+
+565
+01:57:06,190 --> 01:57:16,969
+That'S your final exam by the way we write rewrite rewrite this chapter Thank You professor
+
+566
+01:57:16,969 --> 01:57:25,790
+Could you let us know what the reading is for next week: yeah the primitive accumulation the last so last part so that will be next week
+
+567
+01:57:25,790 --> 01:57:32,012
+That'S the last session okay good Thank you
+

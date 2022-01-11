@@ -1,0 +1,2340 @@
+1
+00:01:19,060 --> 00:01:32,560
+I try to just do a sort of a speed-reader the whole chapter very soon as fast as I can without too much detail pointing out some issues and some topics for discussion
+
+2
+00:01:32,560 --> 00:01:49,810
+So we can have a longer period of discussion because I think there are some major issues which were set up in this chapter but I do want to begin by kind of pointing out something which is I think very significant
+
+3
+00:01:49,810 --> 00:02:05,640
+As I said in the discussion last week you have to think about the totality and one of the part of the totality that Marx doesn't mention in his footnote but which is obviously crucial
+
+4
+00:02:05,640 --> 00:02:11,590
+The institutional arrangements and institutional conditions which prevail
+
+5
+00:02:11,590 --> 00:02:23,610
+And if I ask you the question: how much of this chapter depends on the factory inspectors reports
+
+6
+00:02:23,610 --> 00:02:44,560
+It'S huge and there's an interesting question which arose in the working-day chapter as well was: why would a state which is dominated by capital and landlords actually produce this vast amount of information about what is going on in the factories
+
+7
+00:02:44,560 --> 00:02:47,080
+And it's not only the factory inspectors
+
+8
+00:02:47,080 --> 00:02:49,329
+It'S the public health officials everything else
+
+9
+00:02:49,329 --> 00:03:00,100
+There was something going on in the British state right which was really very special and one of the reasons that Marx could use
+
+10
+00:03:00,100 --> 00:03:17,410
+The British case was not only because industrial capitalism was more advanced in Britain than it was anywhere else and therefore Marx could say basically to people in Europe and so on that when we're doing when you're
+
+11
+00:03:17,410 --> 00:03:19,630
+Looking at the English case it's not you're
+
+12
+00:03:19,630 --> 00:03:47,430
+Looking at your future so it's not only that but also that it has this immense amount of information and the state apparatus that is collecting this information and by and large one of the themes in the chapter and Marx says at one point: is that you know The British state was collecting information and passing laws at a pretty frantic rate
+
+13
+00:03:47,430 --> 00:03:58,210
+The problem was the laws were never enforced and this is again something that's rather rather special rather unique
+
+14
+00:03:58,210 --> 00:04:02,860
+I mean if you took out all of the materials from the factory inspectors report
+
+15
+00:04:02,860 --> 00:04:08,050
+You should have a much shorter chapter right and a lot of the insights Marx relies upon
+
+16
+00:04:08,050 --> 00:04:14,230
+Is it's from that Marx himself doesn't get into factories
+
+17
+00:04:14,230 --> 00:04:16,390
+As far as I know he never really went into one
+
+18
+00:04:16,390 --> 00:04:17,860
+Of course he had an advantage
+
+19
+00:04:17,860 --> 00:04:25,150
+He could talk to angles and did obviously talked to angles a great deal about what was going on in the factory system in Manchester and so on
+
+20
+00:04:25,150 --> 00:04:36,510
+So he was well informed about it but personally most of his information is coming from the factory inspectors
+
+21
+00:04:36,510 --> 00:04:41,100
+So this long chapter then has a number of important headings
+
+22
+00:04:41,100 --> 00:04:52,180
+The first one we dealt with last time which is about the general development of a single machine into a system of machines which creates the factory and mouse gives this graphic description
+
+23
+00:04:52,180 --> 00:05:13,530
+That innovations in one sector call for innovations and another even the indirect innovations which are necessary in transport and communications and systems of ocean liners and things like that so that innovation has to be across the board
+
+24
+00:05:13,530 --> 00:05:19,600
+But the main theme here - and I think this is something we ought to really pay attention to too
+
+25
+00:05:19,600 --> 00:05:35,070
+Throughout its now capital came as he puts it to develop a technological and organizational framework that was suited to its own distinctive maid mode of production
+
+26
+00:05:35,070 --> 00:05:55,979
+But up until this point it had relied upon a technology an organizational framework drawn from a preceding period but this is as he says the way in which capital came to create
+
+27
+00:05:55,979 --> 00:06:18,659
+Now if that is the case and any mode of production is at some point obligated to come up with its distinctive technology appropriate to its own system of production then this actually says something about the task of socialism
+
+28
+00:06:18,659 --> 00:06:39,635
+and one of the themes that is in within This chapter is: to what extent is the technological and organizational form that is arisen under capitalism appropriate for building an alternative kind of society ie a socialist society
+
+29
+00:06:39,635 --> 00:07:11,561
+after all Lenin when he was faced with the problem of what you know what to do after the Revolution Was keenly aware that you needed a high productivity labor process in order to get the materials to be able to fight the war and all of that kind of thing and he said what form of organization is it that can do that and his answer was the Fordist factory
+
+30
+00:07:11,561 --> 00:07:28,800
+so actually he was a proponent of a kind of a socialist version of Fordism because I was only in that way that you could get the productivity that might be needed to to create the possibility for a socialist society
+
+31
+00:07:28,800 --> 00:07:31,870
+Tenshou pinguin went into the market
+
+32
+00:07:31,870 --> 00:07:37,930
+Basically said we got a productivity problem we can only solve it by in effect going
+
+33
+00:07:37,930 --> 00:07:45,210
+You know developing the technologies and the organizational forms which are typical of a capitalist society
+
+34
+00:07:45,210 --> 00:07:53,140
+So there's an interesting kind of question here about any transition in the mode of production
+
+35
+00:07:53,140 --> 00:08:06,130
+If as mark says capital at some point had to undergo had to create the transitions and the factory system was if you like the form of the mode of production then what can we
+
+36
+00:08:06,130 --> 00:08:11,220
+What what will happen in terms of a socialist perspective
+
+37
+00:08:11,220 --> 00:08:18,340
+This is coupled also with the with the other question which is Marx is kind of saying
+
+38
+00:08:18,340 --> 00:08:27,160
+Okay Capital has uncovered its distinctive mode of production right now
+
+39
+00:08:27,160 --> 00:08:42,430
+What Marx describes in here would be a very good description of factory labor conditions in Bangladesh in China but it's not such a good description of labor processes in this country
+
+40
+00:08:42,430 --> 00:09:01,260
+Right now there is in this chapter a kind of tendency on Marx's part to be a bit till illogical that is to say that ultimately the factory system is going to dry about everything else
+
+41
+00:09:01,260 --> 00:09:15,790
+When he was writing he said it clearly hasn't happened because this hybrid forms as mixed forms and the rest of it and there are areas of the economy that can't be organized along the factories line and there's a also the question of
+
+42
+00:09:15,790 --> 00:09:27,390
+Can you industrialize and and turn agriculture and into factories and at that time Marx is skeptical about the possibility of being able to do that
+
+43
+00:09:27,390 --> 00:09:50,182
+But if the labor processes have changed and if the mode of production in the sense that Marx is describing it here is no longer dominant or is actually much more mixed than Marx describes then what kind of society are we living in
+
+44
+00:09:50,182 --> 00:10:08,230
+Are we living under capitalism Or what ?you know see what I'm saying that if the technological changes have gone in a certain direction - and there have been times when you get a certain kind of technological utopianism the early years of the intern had the idea
+
+45
+00:10:08,230 --> 00:10:11,559
+Oh we're gon na build a completely different society different social relations
+
+46
+00:10:11,559 --> 00:10:16,420
+This kind of thing technology is gon na actually create an alternative
+
+47
+00:10:16,420 --> 00:10:24,959
+We don't even have to think about socialism or because it's going to be an alternative society which is going to be built on this alternative technology
+
+48
+00:10:24,959 --> 00:10:32,290
+You know 20 years ago 15 years ago people really seriously thought that was a possibility
+
+49
+00:10:32,290 --> 00:10:40,919
+I don't think people thinks much of a possibility now given you know the way in which that area of the economy has evolved
+
+50
+00:10:40,919 --> 00:11:01,470
+In fact it's exactly the opposite but these are the some of the questions which I think get-get-get posed by this insistence that any mode of production has to come up with a technological and organizational form which is appropriate to its specific conditions
+
+51
+00:11:01,470 --> 00:11:13,899
+Marx then talks in the second section about the transfer of value to the Machine and that brings up the issue of moral depreciation of fixed capital
+
+52
+00:11:13,899 --> 00:11:16,449
+That is the fixed capital which you know
+
+53
+00:11:16,449 --> 00:11:23,100
+How do you account for the value of going into the machine that the machine imparts to the commodities
+
+54
+00:11:23,100 --> 00:11:31,720
+What about the situation in which new technological innovations come along and render older machines obsolete
+
+55
+00:11:31,720 --> 00:11:33,879
+What do you do about that
+
+56
+00:11:33,879 --> 00:12:03,339
+Well one of the things you do is you make sure that the mill the value of the machine is recuperated as soon as possible and the way you do that is means is in many instances to try to employ the Machine 24 hours a day which means That this is a completely different labor demand which is 24 hours labor which leads to a shift system and the like but which also presses capital to extend the length of the working-day
+
+57
+00:12:03,339 --> 00:12:25,807
+So Marx is kind of position about John Stuart Mill's question where he starts The chapter saying you know John Stuart Mill kind of kept on wondering why it was the technology was supposed to light in the later of Labor always ended up I'm making the labor conditions worse
+
+58
+00:12:25,807 --> 00:12:42,262
+and Marx's answer is well it's obvious because the the aim of the Technology is not to lighten the load of laborious to produce more surplus value and if you can produce surplus value out of it then of course it's going to be mobilized in such a way as to make the lot of the laborer worse
+
+59
+00:12:42,262 --> 00:12:57,006
+and the example of What happened to the Internet and I information technology and all the rest of it I think is a very good example also of a situation which starts out where the question is Why can't this liberate us
+
+60
+00:12:57,006 --> 00:13:08,529
+and gets turns into something else Is because the aim of capital in deploying all of that was to squeeze out more surplus value somehow or other and to the degree that it's managed to do so
+
+61
+00:13:08,529 --> 00:13:15,420
+It has perverted particular technology to capitals ends capitalist purposes
+
+62
+00:13:15,420 --> 00:13:31,806
+Then Marx goes on to talk about the effects on the worker and the worker is first off it's possible to employ women and children so family labor couldn't substitute for individual labor which is actually a very important process
+
+63
+00:13:31,831 --> 00:13:46,709
+that leads to the creation of all sorts of Structures of labor supply a gang system a family labor system all the rest of it with exploitation of women and children being being accelerated
+
+64
+00:13:46,709 --> 00:13:57,410
+We also get the prolongation of the working day which is partly about the the moral depreciation problem
+
+65
+00:13:57,410 --> 00:14:24,130
+but there is I think a very very important dichotomy which I want to mark which is but when Mark starts off he is very clear that machines do not produce Value I forgot exactly where he said that
+
+66
+00:14:24,130 --> 00:14:44,970
+but it's in the beginnings beginning of his argument He he says machine The machine is a form of constant capital Therefore it does
+
+67
+00:14:44,970 --> 00:14:49,902
+This always happens to me I kind of know he says it's somewhere Where do you say it You know exactly
+
+68
+00:14:49,902 --> 00:14:52,307
+509
+
+69
+00:14:52,307 --> 00:15:03,279
+okay, so 509, He says yeah okay 509 He says machinery like every other component of constant capital creates no new value
+
+70
+00:15:03,279 --> 00:15:12,629
+Okay underlying that but then put it next to what he says on page 530 which is machinery produces relative surplus-value
+
+71
+00:15:12,629 --> 00:15:14,730
+We mentioned this last time
+
+72
+00:15:14,730 --> 00:15:26,319
+That is a contradiction in a sense but you can see how it arises but it's a very important one and and just always keep it in mind
+
+73
+00:15:26,319 --> 00:15:37,689
+Now one of the things that's going to happen because of this: it's because machines produce relative surplus-value capitalists think machines produce value and capitalists
+
+74
+00:15:37,689 --> 00:15:54,569
+Therefore fetishize the machine as a source of value and surplus value when in fact to fetishize it as a sports source of value is a profound error but it's understandable given that it can be a source of relative surplus-value
+
+75
+00:15:54,569 --> 00:15:58,209
+So there are this
+
+76
+00:15:58,209 --> 00:15:59,860
+This then produces something
+
+77
+00:15:59,860 --> 00:16:03,569
+Then the third part is the intensification of labor
+
+78
+00:16:03,569 --> 00:16:24,519
+Marx hasn't talked about intensification of labor up until this point but it's very important because you can increase surplus value not by extending the length of working day by but by increasing the intensity of labor and to the degree that machinery gives you power over the intensity
+
+79
+00:16:24,519 --> 00:16:39,720
+It becomes a very important vehicle for producing relative surplus-value via its capacity to create more in the way of intensity and the intensity comes about in a number of ways
+
+80
+00:16:39,720 --> 00:16:44,190
+One is the question of the porosity of the working day
+
+81
+00:16:44,190 --> 00:16:56,490
+How much downtime is taken by laborers with their implements versus how much downtime is possible when a machine is working at a certain speed in a certain rhythm and the and worker set
+
+82
+00:16:56,490 --> 00:17:15,180
+So you can control the intensity via the machine technology and the worker is forced to greater and greater levels of intensity and at some point marks then that kind of points out that if you shorten the workload working day you can actually compensate for that
+
+83
+00:17:15,180 --> 00:17:32,990
+Shortening of the working day by increasing the intensity so there is an interesting question as to what the relationship is between absolute surplus-value extension of the working day and increasing intensity
+
+84
+00:17:32,990 --> 00:17:41,720
+This then leads him into the consideration of the factory in the factory system
+
+85
+00:17:41,720 --> 00:17:58,010
+This one of the things that happens with the factory system - and this is where there's a crucial kind of transformation takes place in the positionality of the labor laborer within the production process
+
+86
+00:17:58,010 --> 00:18:11,540
+The lifelong speciality says on page 547 a lifelong speciality of handling the same tool
+
+87
+00:18:11,540 --> 00:18:21,500
+Now becomes the lifelong speciality of serving the same machine now I want to emphasize this because this is contradicted later in the text
+
+88
+00:18:21,500 --> 00:18:32,310
+Machinery is misused in order to transform the worker from his very childhood into a part of a specialized machine and then Marx talks about that
+
+89
+00:18:32,310 --> 00:18:40,262
+The same time he's helpless dependence upon the factory as a whole and therefore an upon the capitalist is rendered complete
+
+90
+00:18:40,262 --> 00:18:53,141
+here as everywhere else we must distinguish between the increased productivity which is due to the development of the social process of production and that which is due To the exploitation by the capitalists of that development
+
+91
+00:18:53,141 --> 00:18:57,672
+in handicrafts and manufacture of the worker makes use of a tool
+
+92
+00:18:57,672 --> 00:19:01,157
+in the factory the machine makes use of him
+
+93
+00:19:01,157 --> 00:19:04,770
+there The movements of the instrument of labour proceeded from him here
+
+94
+00:19:04,770 --> 00:19:08,520
+It is the movements of the machine that he must follow in manufacture
+
+95
+00:19:08,520 --> 00:19:36,030
+The workers are parts of a living mechanism in the factory we have a lifeless mechanism which is independent of the workers who are incorporated into it as its living appendages so the worker goes from or having autonomy and independence to in effect being an appendage of the Machine technology and then Mars continues factory work exhausts the nervous system to the uttermost
+
+96
+00:19:36,030 --> 00:19:45,590
+At the same time it does away with the many-sided play of the muscles and confiscates every atom of freedom both in bodily and intellectual activity
+
+97
+00:19:45,590 --> 00:19:55,400
+Even the lightening of the labor becomes an instrument of torture since the machine does not free the worker from the work but rather deprives the work itself of all content
+
+98
+00:19:55,400 --> 00:20:02,580
+This is in the reintroduction of the theme of alienation which Marx doesn't call alienation but it's clearly
+
+99
+00:20:02,580 --> 00:20:13,320
+That'S what he's talking about every kind of capitalist production insofar as it is not only a labor process but also capitalist process of valorisation has this in common
+
+100
+00:20:13,320 --> 00:20:17,520
+But it is not the worker who employs the conditions of his work but rather the reverse
+
+101
+00:20:17,520 --> 00:20:20,150
+The conditions of work employed the worker
+
+102
+00:20:20,150 --> 00:20:30,180
+However it is only with the coming of machinery that this inversion first acquires a technical and palpable reality owing to its conversion into an all ultimatum
+
+103
+00:20:30,180 --> 00:20:35,394
+The instrument of labor confronts the worker during the labor process in the shape of capital
+
+104
+00:20:35,394 --> 00:20:41,074
+deadly labour which dominates and soaks up living labor power
+
+105
+00:20:41,074 --> 00:21:06,571
+Furthermore - and this is the also important - the separation of the intellectual faculties of the production process from manual labor and the transformation of those faculties into powers exercised by capital over labor is as we have already shown finally completed by large-scale in industry erected on the foundation Of a foundation of machinery
+
+106
+00:21:06,571 --> 00:21:10,289
+so the worker becomes an appendage of the machine
+
+107
+00:21:10,289 --> 00:21:25,679
+The worker has not only turned it physically into an automaton who that does what this machine commands and demands mental capacities which were once very important in the life of the worker
+
+108
+00:21:25,679 --> 00:21:34,999
+In terms of knowledge of the production system are taken away from the lab worker and mental capacities become a power of capital over labor
+
+109
+00:21:34,999 --> 00:21:57,109
+This is very important because what Marx is saying is that this reconfiguration gives the power of mental capacities to the capitalist and the labourer is supposed to not to think that's how Marx is putting it right here
+
+110
+00:21:57,109 --> 00:22:17,570
+The special skill he says of each individual machine operator who has now been deprived of all significance vanishes in an infinitesimal quantity in the face of the science the gigantic natural forces in the mass of social labour embodied in the system machinery which together with these three Forces constitutes the power of the master
+
+111
+00:22:17,570 --> 00:22:34,909
+This master therefore in whose mind the machinery and his monopoly of it are inseparably United contemptuously tells his hands whenever he comes into conflict with them and then there's what it what the owner says to the factory operatives
+
+112
+00:22:34,909 --> 00:22:40,190
+It'S interesting about the term hands
+
+113
+00:22:40,190 --> 00:22:50,369
+Charles Dickens wrote this fantastic thing about there when he were finally wrote a book about industrial labor about coketown and all the rest of it
+
+114
+00:22:50,369 --> 00:22:51,509
+He seek a kind of says
+
+115
+00:22:51,509 --> 00:23:02,820
+You know the owners called the people hands because he wishes they didn't have heads and stomachs but actually it's a very important thing
+
+116
+00:23:02,820 --> 00:23:09,060
+I mean this is what Marx in effect is saying and he's using this word hands in birdied commerce
+
+117
+00:23:09,060 --> 00:23:19,020
+The signal that there's something awful about about this configuration now all of this leads into the fifth section which is I think a very interesting one
+
+118
+00:23:19,020 --> 00:23:37,920
+The struggle between worker and machine where Marx takes on the question of the Luddite movement which is machine breaking movement and when workers were so pissed off at the sort of the labor conditions which they were encountering through machine technology that in the middle of the night They were try and get somewhere and they'd smashed the machines
+
+119
+00:23:37,920 --> 00:23:50,540
+And so there was this machine breaking going on because machines were seen as the enemy of the autonomy of working class and and the bail the bane of working class life
+
+120
+00:23:50,540 --> 00:23:54,210
+But mark starts off by pointing out and here's the word
+
+121
+00:23:54,210 --> 00:24:05,490
+We start to get the ambiguity where he says he says that the ow that of course workers were revolting against the machine but he says on 5:54
+
+122
+00:24:05,490 --> 00:24:26,640
+It took both time and experience before the workers learned to distinguish between machinery and its employment by capital and therefore to transfer their attacks from the material instruments of production to the foreign society which utilizes those instruments who's the enemy here the machine or the capitalist
+
+123
+00:24:26,640 --> 00:24:44,070
+That is using the machine in a certain kind of way and there is by the way some evidence now by economic historians that throughout this whole period when machine breaking was became quite a significant movement but workers initially just smashed machines
+
+124
+00:24:44,070 --> 00:25:03,750
+But after a bit started to smash only those machines in those factories where the owner was being particularly piggish about their deployment and so there was it turns out an actual shift in in in consciousness as to what the enemy was throughout throughout this period
+
+125
+00:25:03,750 --> 00:25:14,540
+Now of course what this does is to project the whole kind of question of technological change into the cauldron of class struggle
+
+126
+00:25:14,540 --> 00:25:31,179
+How is technological change actually being used as a vehicle if class struggle and Marx takes this up and and and so on 562
+
+127
+00:25:31,179 --> 00:25:38,309
+He says I think a very important thing machinery he says does not just act as a superior competitor to the worker
+
+128
+00:25:38,309 --> 00:25:45,550
+Always on the point of making him superfluous it is a power inimical to him and capital proclaims
+
+129
+00:25:45,550 --> 00:25:58,440
+This fact loudly and deliberately as well as making use of it it is the most powerful weapon for suppressing strikes those periodic revolts of the working class against the autocracy of capital
+
+130
+00:25:58,440 --> 00:26:07,420
+According to gas coal the steam engine was from the very first and antagonist of human power an antagonist that enabled the capitalists to tread underfoot
+
+131
+00:26:07,420 --> 00:26:13,800
+The growing demands of the workers which threatened to drive the infant factory system into crisis
+
+132
+00:26:13,800 --> 00:26:25,980
+It will be possible to write a whole history of the inventions made since 1830 for the sole purpose of providing capital with weapons against working-class revolt
+
+133
+00:26:25,980 --> 00:26:31,830
+We would mention Bob all the self-acting mule now
+
+134
+00:26:31,830 --> 00:26:34,510
+This is an interesting thing
+
+135
+00:26:34,510 --> 00:26:38,400
+What is technological change about and why
+
+136
+00:26:38,400 --> 00:26:43,620
+It'S about increasing labor productivity under capitalism
+
+137
+00:26:43,620 --> 00:27:01,000
+It'S not about improving human well-being although but the technology people always say it is it is it's about increasing productivity and it's also about disempowering the worker and it's interesting
+
+138
+00:27:01,000 --> 00:27:05,830
+There was a rather well-known figure in second empire Paris
+
+139
+00:27:05,830 --> 00:27:13,270
+It was an industrialist who wrote copiously about the working class and what the workers were about and in the course of writing about this
+
+140
+00:27:13,270 --> 00:27:24,730
+He talked about his ambitions in innovation and he had a number of principles guiding what he was going to do in terms of innovation
+
+141
+00:27:24,730 --> 00:27:37,460
+One of them was to open up the production process to disaggregation in the way that Marx talks about so that you could get more scientific and technological about it
+
+142
+00:27:37,460 --> 00:27:50,929
+The second was he wanted to improve obviously the productivity of labour that was associated with the machine but his third principle was that he wanted to have machinery that helped us empower labour
+
+143
+00:27:50,929 --> 00:27:55,190
+I mean he was very explicit about it yeah that's what I'm trying to do
+
+144
+00:27:55,190 --> 00:28:12,610
+I wanted a kind of machine technology which which means that the power that the labour has less power now we've actually been through a whole era of technological innovation in manufacturing
+
+145
+00:28:12,610 --> 00:28:28,390
+What is it done to the power of labour both on in the labour process but also in the market Marx earlier has talked about one of things that machine does is throw people out of work
+
+146
+00:28:28,390 --> 00:28:43,669
+So if yeah the labor movements getting ballsy you kind of say okay we'll have unemployment and we'll throw you out of work so machine technology that throws lots of people out of work deals with that and actually yeah
+
+147
+00:28:43,669 --> 00:28:53,210
+Historically if you look at the kind of way in which deindustrialization occurred in the united states and europe what was it doing
+
+148
+00:28:53,210 --> 00:28:59,270
+It was driving people out of work and as they were out of work you get a high level of unemployment
+
+149
+00:28:59,270 --> 00:29:20,480
+So in this country the Reagan recession of 1982 when unemployment went up to around ten fifteen percent and at that point you were going to break the power of labor as Reagan did by breaking the pat code the air traffic controllers Union and and fighting against labor And basically disempowering labor
+
+150
+00:29:20,480 --> 00:29:45,890
+So there's a technological kind of line to this that the industrialization has actually disempowered labor in crucial ways and the introduction of flexible specialization which actually some leftists back in the 1980s thought was going to be a Liberatore technology because everybody likes greater flexibility of employment possibilities
+
+151
+00:29:45,890 --> 00:30:00,960
+But that flexibility was used to actually manipulate and destroy union power and and lead into precarious temporary labor structures and you know the gig economy and all the rest of it
+
+152
+00:30:00,960 --> 00:30:22,557
+So the technological change as far as Marx is concerned cannot be divorced from conditions of class struggle because it's that it's it's disempowerment of the labor movement and the laboring classes both in the labor process but also in the market which it becomes part and parcel of What this technological dynamism is all about
+
+153
+00:30:22,557 --> 00:30:46,018
+so that this section which is dealing with the Luddites directly also has within it the whole kind of question of the role of technological innovation being weaponized by capital as a serious weapon of class struggle and Marxist is is opening Up that that that kind of question
+
+154
+00:30:46,018 --> 00:31:02,899
+now chapter six is a longest chapter about the compensation theory and capitalists kind of often said machine technology doesn't well it might throw people out of work here
+
+155
+00:31:02,899 --> 00:31:16,129
+It actually has compensating effects such that then the aggregate unemployment is zero or the effects on a per employee unemployment is zero This was the compensation theory
+
+156
+00:31:16,129 --> 00:31:30,128
+that we introduced technological change: yes people are thrown out of work but on being thrown out of work you liberate means of subsistence for another segment of the work of workers to take it up
+
+157
+00:31:30,128 --> 00:31:43,768
+at the same time because of the Technological change there's going to be a greater demand for raw materials and so he starts to look about some of the questions of where the what materials are coming from
+
+158
+00:31:43,768 --> 00:32:07,483
+and that then leads into some considerations of you know what but the the impact of all of This is and the theory of compensation then guy said well: okay you need people to build the machines so you've got extra employment in the machine tool Industry
+
+159
+00:32:07,483 --> 00:32:13,019
+ you've got extra employment people produce producing the raw materials and extractivism
+
+160
+00:32:13,019 --> 00:32:17,659
+So all of this compensates in such a way that was the theory mask and that's rubbish
+
+161
+00:32:17,659 --> 00:32:30,149
+What in effect you get is that there's a throwing out of people of production they sit upon the market it depresses the labor of the price of labour or rest of it and then maybe they're brought back in as the system expands
+
+162
+00:32:30,149 --> 00:32:51,124
+So he doesn't say that there's no expansion possibility and the new expansions are not important but he does say that the theory of compensation is you know just nonsense but the increased demand for raw materials means something
+
+163
+00:32:51,124 --> 00:33:19,889
+and he here introduces a kind of a thing on The side which is 578 579 - and he says that you know through the deployment of machinery and the increasing productivity you're going to need an extra supply of raw materials and then he kind of says this produces large-scale the general conditions of production appropriate to large-scale industry
+
+164
+00:33:19,889 --> 00:33:23,549
+This is on 579 have been established
+
+165
+00:33:23,549 --> 00:33:38,269
+This mode of production acquires an elasticity a capacity for sudden extension by leaps and bounds which comes up against no barriers but those presented by the availability of raw materials and the extent of sales outlets
+
+166
+00:33:38,269 --> 00:33:45,000
+So there's problems if you like both in terms of supplying this but also finding markets for the increased output
+
+167
+00:33:45,000 --> 00:33:50,220
+On the one hand the immediate effect of machinery is to increase the supply of raw material
+
+168
+00:33:50,220 --> 00:33:55,389
+Thus for example the intent invention of the cotton gin increase the production of cotton
+
+169
+00:33:55,389 --> 00:34:12,099
+On the other hand the cheapness of the articles produced by machinery in the revolution in the means of transport and communication provide the weapons for the conquest of foreign markets so suddenly we're getting foreign markets by ruining handicraft of finished articles in other countries
+
+170
+00:34:12,099 --> 00:34:19,990
+Marx is referring here mainly to India machinery forcibly converts them into fields for the production of its raw material
+
+171
+00:34:19,990 --> 00:34:41,559
+Thus India was compelled to produce cotton war hemp jute and indigo for Great Britain by constantly turning workers into supernumeraries large-scale industry in all countries where it has taken root spurs on rapid increases in immigration and the colonisation of foreign lands which are thereby converted into settlements
+
+172
+00:34:41,559 --> 00:34:48,339
+For growing the raw material of the mother country just as Australia for example was converted into a colony for growing wool
+
+173
+00:34:48,339 --> 00:35:05,549
+A new international division of labour springs up once suited to the requirements of the main industrial countries and it converts one part of the globe into a chiefly agricultural field of production for supplying the other part which remains a pre-eminently industrial field
+
+174
+00:35:05,549 --> 00:35:18,930
+This revolution is linked with far changing far-reaching changes in agriculture which we need not discuss further at this point Marx is basically talking here about you know the expansion of this system
+
+175
+00:35:18,930 --> 00:35:33,898
+It'S going to lead to a new international division of labour colonialism imperialism an increase of extractivism what we now call extractivism from many parts of the world
+
+176
+00:35:33,898 --> 00:35:48,517
+and that therefore the theory of compensation inadequately attacks and deals with the the dynamics of expansion of a highly productive System
+
+177
+00:35:48,517 --> 00:36:07,890
+so the the act the industrial industrialization that Marx was seeing in Britain produced the requirement that new sources of raw materials must be must be set up and plundered at the same time as new markets must be found
+
+178
+00:36:07,890 --> 00:36:18,500
+so that therefore - and what's interesting about this is There is a perpetual force if you like making for globalization what we now call globalization
+
+179
+00:36:18,500 --> 00:36:31,863
+and actually if you want a good theory of globalization you go to the Communist Manifesto and some parts of capital because marx says Basically the creation of the world market is inherent in the dynamics of capitalism
+
+180
+00:36:31,888 --> 00:36:47,609
+and everybody kind of thought Globalization occur started to occur in 1972 or something like that What Marx is saying said: no it was there in 1840s who was there in the 1850s and and and the British conquest of India had everything to do with finding new markets
+
+181
+00:36:47,609 --> 00:36:57,549
+So you destroyed the handicraft industry and you marketed all your cotton goods into into India at the same time as India had to pay for all of those goods How did it pay for it
+
+182
+00:36:57,549 --> 00:37:02,289
+Well cotton do you know all the rest of it
+
+183
+00:37:02,289 --> 00:37:23,250
+So so this is if there is a theory of of translation of the dynamics of this system is it cannot be covered with some simple theory of compensation has to be looked at in terms of this dynamic explosion
+
+184
+00:37:23,250 --> 00:37:41,380
+This then leads into a sort of a series of discussions of exactly what happens with within
+
+185
+00:37:41,380 --> 00:38:19,520
+This is we're in this seventh section which is about really a crises in the cotton industry where Marx goes over in seven in considerable detail to the way in which the cotton industry was up and down and it was in a sense he's kind of saying it's Almost invariably the case that capitalist production is not going to expand in a kind of expansion it's likely to be cyclical and that there will be phases of very rapid expansion follow the sense talking about the formation of business cycles
+
+186
+00:38:19,520 --> 00:38:39,304
+But it's interesting this this section on seven on repulsion and attraction of workers that you're talking about business cycles in time but you're also talking about geographical spread in terms of the colonization of the Indian market in they're very specific very specific way and the creation of A new international division of labor
+
+187
+00:38:39,304 --> 00:39:01,430
+so the factory system cannot sort of simply serve its locality and it has this dynamism of phases of expansion but also it's a geographical expansion to earlier
+
+188
+00:39:01,430 --> 00:39:17,210
+He had missed out on something which is rather important earlier in the theory of compensation which is the the expansions entail
+
+189
+00:39:17,210 --> 00:39:29,390
+Not only a possible expansion of the proletariat but also an expansion of the capitalist class and and the requirement which is a very very important theme
+
+190
+00:39:29,390 --> 00:39:37,580
+In Volume three of capital which is that you're creating surplus your need to find a way to invest it
+
+191
+00:39:37,580 --> 00:39:41,630
+The Machine and factory system is creating surplus hand-over-fist
+
+192
+00:39:41,630 --> 00:39:46,000
+Where is the surplus going to be reinvested and how is it going to be reinvested
+
+193
+00:39:46,000 --> 00:40:12,770
+Well some of the surplus is going to go to increasing the standard of living of the bourgeoisie which in itself creates a new market and so you you can realize more value by marketing to them then you need the where where the world market but you can't Get to the world market unless you invest in the construction of canals docks tunnels bridges and so on so entirely
+
+194
+00:40:12,770 --> 00:40:21,460
+New branches of production creating new fields of labour are also formed and this is not mark saying this is not a theory of compensation but it's an impact
+
+195
+00:40:21,460 --> 00:40:28,450
+This dynamism of the of industrial capitalism and then Marx talks about the formation of new industries
+
+196
+00:40:28,450 --> 00:40:31,420
+The chief industries of this kind are present
+
+197
+00:40:31,420 --> 00:40:36,270
+Gas works telegraphy photography steam navigation and railways
+
+198
+00:40:36,270 --> 00:41:02,849
+So you know the the expansion of the the factory system cannot continue without an expansion of infrastructural investments which creates entirely new fields for investment which then actually creates new new structures new social structures within society
+
+199
+00:41:02,849 --> 00:41:14,980
+So this is Marx then and in section 8 says well let's look at the revolutionary impact of large-scale industry on manufacture handicrafts and domestic industry
+
+200
+00:41:14,980 --> 00:41:26,462
+Now here he realizes that this machine technology is not going to take over everywhere simultaneously and that they're lagging areas
+
+201
+00:41:26,462 --> 00:41:50,530
+and that in those lagging areas however competition from machine sector tends to put intense pressure on manufacturing structures to engage in practices of exploitation which are kind Of really savage but it is possible for alternative forms of organization to persist
+
+202
+00:41:50,530 --> 00:41:52,390
+So a five number one
+
+203
+00:41:52,390 --> 00:42:11,400
+He talks about the factory worker the workers engaged in manufacturer and the handicrafts one whom he concentrates in large mattresses at one spot and directly commands capital also sets another army in motion by means of invisible threads
+
+204
+00:42:11,400 --> 00:42:25,240
+The out workers in the domestic industries who live in the large towns as well as being scattered over the countryside and he then talks about workers the dispersal of the workers but how
+
+205
+00:42:25,240 --> 00:42:28,359
+This is to some degree advantageous for capital
+
+206
+00:42:28,359 --> 00:42:44,840
+As he says in the so-called domestic industries which is the putting out system where you put you've got the peasant Hut's people working in peasant huts to do the weaving and then you collected the woven materials at the end of the month
+
+207
+00:42:44,840 --> 00:42:58,350
+It says in the so-called domestic industries exploitation is still more shameless than in modern manufacture because the workers power of resistance declines with their dispersal Now
+
+208
+00:42:58,350 --> 00:43:33,320
+This is an interesting kind of comment because there have been in times when capital in order to prevent worker organization has engaged in tactics of geographical dispersal and actually one of the things that tended to happen after 1980 or so was the dispersal of a lot of Activity geographically so that organization of labor became much difficult more difficult
+
+209
+00:43:33,320 --> 00:43:45,620
+He says the workers power of resistance declines with their dispersal because the whole series of plundering parasites insinuate themselves between the actual employer and the worker he employs
+
+210
+00:43:45,620 --> 00:43:49,985
+So this is about what happens within domestic industries
+
+211
+00:43:49,985 --> 00:44:11,577
+and he then talks about the perpetuation of the modern of manufacturing of the sort he described in the previous chapter and what happens and he then talks about modern domestic industry which in his case he talks about lace-making And and the like
+
+212
+00:44:11,577 --> 00:44:22,900
+and then he talks about the transitions which are occurring in modern manufacture and and how the transitions are orchestrated and he introduces the technology of the sweater
+
+213
+00:44:22,900 --> 00:44:28,930
+The sewing machine which is a very interesting I mean you can either set up sewing machines in vast PAC factories
+
+214
+00:44:28,930 --> 00:44:39,580
+So you have just a vast factory of sewing machines and people selling or you can actually subcontract out to a sort of family labor and say get to work on your selling machine in the basement
+
+215
+00:44:39,580 --> 00:44:41,170
+And you know this kind of thing
+
+216
+00:44:41,170 --> 00:45:13,350
+So the sewing machine has been a very very important uh vehicle for both concentrated and dispersed systems of manufacturing Marx then finally talks about the after the transition
+
+217
+00:45:13,350 --> 00:45:32,560
+It starts to talk about the various transitional forms and this brings him to talk a little bit more about the nature of the of the factory factory sister general nature of the factory system
+
+218
+00:45:32,560 --> 00:45:36,570
+So there's an interesting sort of passage on 6007
+
+219
+00:45:36,570 --> 00:45:44,260
+He says but though the factory acts ripen the material elements necessary to the conversion manufacturing system into the factory system
+
+220
+00:45:44,260 --> 00:45:53,820
+Yet at the same time because they make it necessary to lay out a greater amount of capital they hasten the decline of the small masters in the concentration of capital
+
+221
+00:45:53,820 --> 00:46:11,910
+Now this is an interesting observation because it's very often the case that large heavy intervention and regulatory reform often has an adverse impact upon the small producers
+
+222
+00:46:11,910 --> 00:46:49,770
+Only the big producers are really positioned to be able to deal with the regulatory system and the result is that the input addition of more and more state regulation often has the effect of centralizing production and actually producing monopoly power as he says apart from the purely Technical impediments which can be removed by technical means the irregular habits of the workers themselves obstruct the regulation of the hours of labor
+
+223
+00:46:49,770 --> 00:47:06,060
+This is especially the case where peace wages predominate and where loss of time in one part of the day or week can be made good by subsequent overtime or by night work a process which brutalizes the adult worker and ruins his wife and children
+
+224
+00:47:06,060 --> 00:47:33,780
+He then talks about the whole kind of question of seasonal labor but then there comes another interesting observation when he kind of says that when you go to situation where there is a periodicity of favourable seasons of the year for navigation or favorable seasons of fashion when New fashions are going to be demanded and the sudden placing of large orders that have to be executed in the shortest possible time
+
+225
+00:47:33,780 --> 00:47:57,836
+The habit of giving such orders becomes more frequent with the extension of Railways and Telegraph's and he then talks in effect about the creation of what we now call a just-in-time system back to the degree that communication structures are set up it becomes possible to jump more Rapidly to deal with immediate demands
+
+226
+00:47:57,836 --> 00:48:25,190
+so if there's an immediate demand for something you can send it by the telegraph and say I need more of this equipment or more more of this raw material and the raw material can be at your disposal within a within a Few days instead of you know months or something of that kind so but in effect what this does is it allows producers to actually economize on on the inventories they hold
+
+227
+00:48:25,190 --> 00:48:41,730
+That is you don't have to sit there with a vast stock of cotton over a long period of time you can in order to engage in sort of powder and weaving you can simply sort of say
+
+228
+00:48:41,730 --> 00:48:48,119
+Okay we need this amount of power loom weaving now the cotton can come from somewhere else and we ordered the cotton as we need it
+
+229
+00:48:48,119 --> 00:49:01,880
+So you start to get this that the organization of a primitive kind of logistics system within the industry and Marx is talking about that
+
+230
+00:49:01,880 --> 00:49:15,600
+But one of the the important aspects of this is again the greater coordination which is existing in society
+
+231
+00:49:15,600 --> 00:49:35,359
+The communication structure the the commodity chain which is we now talk about or the value chain and then kind of the ability to be very flexible in relationship to the core demands the fluctuating and often fickle demands of the market
+
+232
+00:49:35,359 --> 00:49:43,190
+So section 9 is on the health and education causes of the factory acts
+
+233
+00:49:43,190 --> 00:49:54,060
+It'S clear says Marx that the free trade dogma and he's going to be ironic when he says on six eight eleven
+
+234
+00:49:54,060 --> 00:50:07,950
+He says here's yet another dazzling vindication of the free trade dogma that in a society mutually antagonistic in a society of mutually antagonistic interests each individual furthers the common welfare
+
+235
+00:50:07,950 --> 00:50:11,119
+By seeking his own personal advantage
+
+236
+00:50:11,119 --> 00:50:24,750
+Part of what Marx is talking about is individual capitalist working in their own self-interest actually do a tremendous job of screwing up the whole system and the aggregate effects are disastrous
+
+237
+00:50:24,750 --> 00:50:29,190
+The aggregate effects in the working day you recall are disastrous
+
+238
+00:50:29,190 --> 00:50:45,109
+The aggregate effects of individual maximizing behavior in the fact in the world the factory labor is also disastrous not simply socially and politically but even technically from the standpoint of the dynamics of capital accumulation
+
+239
+00:50:45,109 --> 00:51:07,309
+So he's going to talk here about the the the factory act and the education clauses and things of that kind and on 6:14 he mentions Robert Owen where he suddenly realizes or introduces the idea that Robert Owen was a factory owner
+
+240
+00:51:07,309 --> 00:51:20,690
+Robert Owen however started to try to create a benevolent form of factory labor and Marx comments that Robert Owen has shown us in detail
+
+241
+00:51:20,690 --> 00:51:34,920
+The germ of the education of the future is present in the factory system so I've been dealing with this awful incoherent system and here's Marx saying the germ of the education of the future is present in this factory system
+
+242
+00:51:34,920 --> 00:51:44,180
+This education will in the case of every child over a given age combine productive labor with instruction and gymnastics
+
+243
+00:51:44,180 --> 00:51:53,420
+Not only is one of the methods of adding to the efficiency of production but as the only method of producing fully developed human beings
+
+244
+00:51:53,420 --> 00:52:10,759
+So we certainly got this concept coming up in this of the possibility within the industrial system of transforming it into a system which would become a method of producing fully developed human beings
+
+245
+00:52:10,759 --> 00:52:25,910
+As he says as we have seen large-scale industry sweeps away by technical means the division of labor characteristic of manufacture under which each man is bound hand and foot for life to a single specialized operation
+
+246
+00:52:25,910 --> 00:52:39,089
+At the same time the capitalist form of large-scale industry reproduces the same division of labor in a still more monstrous shape in the factory proper by converting the worker into a living appendage of the machine
+
+247
+00:52:39,089 --> 00:53:07,090
+Now we've seen this back before and everywhere outside the factory by the sporadic use of machinery and machine workers or by the introduction of the labor of women children now skilled men as a new foundation for the division of labor the contradiction he says between the division Of labor under manufacture and the essential character of large-scale industry makes itself forcibly felt
+
+248
+00:53:07,090 --> 00:53:30,358
+It appears for example in the frightful fact but a great part of the children employed in modern factories and manufactures are from their earliest years riveted to the most simple manipulations and exploited for years without being taught a single kind of skill that would afterwards make them Abuse even in the same factory so this is his complaint
+
+249
+00:53:30,358 --> 00:53:51,410
+ but at the same time what we start to see is the disaggregation of the industrial labour process into something different and he talks on the next page of 6:16 about the situation in which right down to The 18th century the different trades were called mysteries
+
+250
+00:53:51,410 --> 00:53:59,950
+You stare into his secrets numbered those initiated by a profession and their practical experience could penetrate
+
+251
+00:53:59,950 --> 00:54:03,340
+So it was an art
+
+252
+00:54:03,340 --> 00:54:11,877
+Production was an art a mystery If people were successful in productions because of their intelligence and their capacities
+
+253
+00:54:11,877 --> 00:54:35,000
+but large-scale industry he said tore aside the viola concealed from men their own social process of production and turned the various spontaneously divided branches of productions into riddles not only to outsiders but even to The initiated its principle which is to view each process of production in and for itself and to resolve it into its constituent elements without looking
+
+254
+00:54:35,000 --> 00:54:43,810
+First at the ability of the human hand to perform the new processes brought into existence the whole of the modern science of technology
+
+255
+00:54:43,810 --> 00:54:48,350
+Again this is a knowledge structure which is now being converted
+
+256
+00:54:48,350 --> 00:54:57,290
+This is a conversion of mental conceptions of the world and mental understandings of the world
+
+257
+00:54:57,290 --> 00:55:05,300
+The various unconnected and petrified forms of the social production process were now dissolved into conscious and planned
+
+258
+00:55:05,300 --> 00:55:14,200
+Applications of Natural Science divided up systematically in accordance with a particular useful effect aimed at in each case
+
+259
+00:55:14,200 --> 00:55:25,520
+Similarly technology discovered the few grand fundamental forms of motion which despite all the diversity of the instruments used applying necessarily to every productive action of the human body
+
+260
+00:55:25,520 --> 00:55:38,646
+Just as the science of mechanics is not misled by the immense complication of modern machinery interviewing this is anything other than the constant reappearance of the same simple mechanical processes
+
+261
+00:55:38,646 --> 00:55:46,416
+and he then goes on to say modern industry never views or treats the existing forms of a Production process as the definitive one
+
+262
+00:55:46,416 --> 00:55:54,208
+its technical basis is therefore revolutionary whereas all earlier modes of production were essentially conservative
+
+263
+00:55:54,208 --> 00:56:07,073
+by means of machinery chemical processes and other methods it is continually transforming at only the technical basis of production but also the functions of the worker and The social combinations the labor process
+
+264
+00:56:07,073 --> 00:56:17,380
+at the same time it thereby also revolutionizes the division of labor within society and incessantly throws masses of capital and of workers from one branch of production to another
+
+265
+00:56:17,380 --> 00:56:36,770
+Thus large-scale industry by its very nature necessitates variation of labor fluidity of functions and the mobility of the worker in all directions but on the other hand in its capitalist form it reproduces the old division of labor with ossified particularity x'
+
+266
+00:56:36,770 --> 00:56:43,400
+We have seen how this absolute contradiction does away with all repose all fixity and all security
+
+267
+00:56:43,400 --> 00:57:00,110
+As far as the workers life security is concerned how it constantly threatens by taking away the instruments of labor to snatch from his hands the means of subsistence and surprise and by suppressing his specialized function to make him superfluous and he talks about this
+
+268
+00:57:00,110 --> 00:57:07,370
+The reckless squandering of labour powers and in the devastating effects of social anity and then he goes on and says this
+
+269
+00:57:07,370 --> 00:57:12,829
+This is on 618 interesting This he said is the negative side
+
+270
+00:57:12,829 --> 00:57:20,661
+it's very unlike Marx to say: there's only one side to any question as you probably by now have already realized
+
+271
+00:57:20,661 --> 00:57:44,730
+but if at present variation of Labor imposes itself after the manner of an overpowering natural law with the blindly destructive Action of a natural law that meets with obstacles everywhere large-scale industry through it's very catastrophes makes a recognition of variation of Labor and hence of the fitness of the worker for the maximum number of different kinds of labor into a question of life and death
+
+272
+00:57:44,730 --> 00:57:48,630
+There'S a completely different story from the one that we started out
+
+273
+00:57:48,630 --> 00:58:01,780
+This possibility of varying labor must become a general law of social production and the existing relations must be adapted to permit permit its realization and practice that monstrosity
+
+274
+00:58:01,780 --> 00:58:17,290
+The disposable working population held in reserve in misery for the changing requirements of capitalist exploitation must be replaced by the individual man who is absolutely available for the different kinds of labor required of him
+
+275
+00:58:17,290 --> 00:58:30,370
+The partially developed individual who is merely the bearer of one specialized social function must be replaced by the totally developed individual for whom the different social functions are different modes of activity
+
+276
+00:58:30,370 --> 00:58:35,440
+He takes up in turn I said there's a pretty extraordinary kind of conception
+
+277
+00:58:35,440 --> 00:58:49,780
+He says industrial capitalism produces a situation which imprisons labor and you know the division of labor and so to a lifelong task to harnesses children in such a way that they could never be anything other than what yeah
+
+278
+00:58:49,780 --> 00:59:07,093
+But at the same time this industrial system is so unstable and is so dynamic and is so pressing always for something different that it cannot actually survive on the basis of a labor force That only could do one thing
+
+279
+00:59:07,093 --> 00:59:25,557
+it wants a labor force that can switch from one thing or another or has a talent or a capacity in which they can move very easily from this branch of industry to that branch of industry or from that particular kind of Task to another task
+
+280
+00:59:25,557 --> 00:59:49,890
+both that switching around is very difficult to imagine if the labor force is not literate if it is not to some degree trained and knowledgeable in terms of simple mechanical principles and can therefore adapt itself rapidly to alternative tasks
+
+281
+00:59:49,890 --> 00:59:59,009
+And this is as Marx's concern is he doesn't call it the positive side but it is the positive side
+
+282
+00:59:59,009 --> 01:00:24,719
+So it has this negative side in terms of its industrial organization and its social relations and its mental conceptions and then it puts demands on the labor force which mean that labor force has to actually take on a different character
+
+283
+01:00:24,719 --> 01:00:43,949
+This carries over then to some other observations that the children of the workers must receive a certain amount of instruction in technology and in the practical handling of the various implements of labor
+
+284
+01:00:43,949 --> 01:00:50,019
+Though the factory acts that first and meager concession rung from capital is limited to
+
+285
+01:00:50,019 --> 01:01:06,630
+Combining elementary education with work in the factory there can be no doubt that with the inevitable conquest of political power by the working class technological education both theoretical and practical will take its proper place in the schools of the workers
+
+286
+01:01:06,630 --> 01:01:21,839
+There is also no doubt that those revolutionary ferments whose goal is the abolition of the old division of labor turned in diametrical contradiction with the capitalist form of production and the economic situation of the workers which corresponds to that form
+
+287
+01:01:21,839 --> 01:01:32,219
+However the developed of the contradictions of a given historical form of production is the only historical way in which it can be dissolved and then reconstructed on a new basis
+
+288
+01:01:32,219 --> 01:01:38,890
+The phrase which is the absolute summit of handicraft wisdom became sheer nonsense from the moment the watchmaker
+
+289
+01:01:38,890 --> 01:02:02,609
+What invented the steam engine the barber Arkwright the throstle that and the jewel of Fulton a steamship so he then talks about the factory legislation but this has something else attached to it which is an interesting sort of passage on 626 21
+
+290
+01:02:02,609 --> 01:02:07,390
+Well he starts to talk about the question of social reproduction and I've mentioned you know
+
+291
+01:02:07,390 --> 01:02:27,101
+Social reproduction is not Marx's Fourth day's doesn't always you know pay attention to it but he certainly pays great attention to it about what's going on in in in terms of social relations within the household because education and the like is also partly located in the household
+
+292
+01:02:27,101 --> 01:02:36,927
+and we have to deal With the question of parental power and what's going on here and so there's a discussion about this
+
+293
+01:02:36,927 --> 01:03:04,741
+coming to the conclusion however disgusting however terrible are disgusting the dissolution of the old family ties within the capitalist system may appear ,because remember when women and children are now Into the workforce ,large-scale industry by assigning an important part in socially organized processes of production outside the sphere of the domestic economy
+
+294
+01:03:04,766 --> 01:03:20,002
+ to women Young persons and children of both sexes does nevertheless krei I create a new economic foundation for a higher form of the family and if relations between the sexes
+
+295
+01:03:20,002 --> 01:03:43,499
+again Marx is kind of hypothesizing that the transformations occurring within the industrial system and the spread of different forms of factory labor and the perpetual revolutionary practices are going To have an in fact a very powerful relation to the nature of family life and of relations between the sexes
+
+296
+01:03:43,499 --> 01:04:05,510
+Again whether this is reasonable assertion or not you know is open to be debated but Marx is clearly saying we have to see this relationally that there's a relationship between you know the production system and issues of social reproduction of what that relation is he's fairly
+
+297
+01:04:05,510 --> 01:04:20,800
+Has a very simple simplistic view of it but this also carries over to the question of how a collective working group is setting up and we begin now to start to talk about collective labor as opposed to individual labor
+
+298
+01:04:20,800 --> 01:04:32,630
+It is also obviously says that the collective working group is composed of individuals of both sexes and all ages must under the appropriate conditions turn into a source of humane development
+
+299
+01:04:32,630 --> 01:04:48,178
+Although in its spontaneously developed brutal capitalist form the system works in the opposite direction and becomes a pestiferous source of corruption and slavery Since here the worker exists for the process of production and not the process of production for the worker
+
+300
+01:04:48,178 --> 01:05:23,500
+ so he sees glimmers of possibility within this for some sort of redemptive transformation both in the labor process but also in social world of social reproduction which is going To have some importance for how state interventions are eventually going to be captured if you like by workers so that they themselves start to become educated into the technologies which are required for a sophisticated form of production
+
+301
+01:05:23,500 --> 01:05:27,230
+There then follows a lot of quotations from the factory
+
+302
+01:05:27,230 --> 01:05:59,360
+Acts goes on to pages and pages and pages so I'm not going to go through which is very much about the you know for instance the employment of women and children and all the rest of it and this is a my original comment of Marx - wouldn't be Overwritten all of this if the factory a respecters hadn't produced this vast archive of information
+
+303
+01:05:59,360 --> 01:06:15,180
+So the end of this section I think is worthwhile paying a little attention to our 6:35 where he says if the general extension of factory legislation to all trades for the purpose of protecting the working class both in mind and body has become inevitable
+
+304
+01:06:15,180 --> 01:06:47,670
+On the other hand as we already pointed out that extension hastens on the general conversion of numerous isolated small industries into a few combined industries carried on upon a large scale if therefore accelerates the concentration of capital and the exclusive predominance of the factory system it destroys Both both the ancient and traditional forms behind which the Dominion of capital is still partially hidden and replaces them with a Dominion which is directed and concealed by doing that
+
+305
+01:06:47,670 --> 01:06:59,280
+By doing this it also generalizes the direct struggle against its rule while in each individual workshop informants it enforces uniformity regularity order and economy
+
+306
+01:06:59,280 --> 01:07:10,770
+The result of the immense impetus given to technical improvements by the limitation and regulation of the working-day is to increase the anarchy and proneness of catastrophe of capitalist production as a whole
+
+307
+01:07:10,770 --> 01:07:18,540
+The intensity of labor competition of machinery with the worker by the destruction of small-scale and domestic industries
+
+308
+01:07:18,540 --> 01:07:32,400
+It destroys the last resorts of the redundant population thereby removing what was previously a safety valve for the whole social mechanism by maturing the material conditions and the social combination of the process of production
+
+309
+01:07:32,400 --> 01:07:44,640
+It matures the contradictions and antagonisms of the capitalist form of that process and thereby ripens both the elements of forming a new society and the forces tending towards the overthrow of the old one
+
+310
+01:07:44,640 --> 01:07:46,830
+So this is Marx
+
+311
+01:07:46,830 --> 01:08:03,420
+Talking about you know how to come out and coming out of this what the prospects might be for utilizing some of the elements which should be to be necessarily created within this capitalist dynamic to be using them for progressive purpose
+
+312
+01:08:03,420 --> 01:08:06,280
+The last section is about large-scale industry
+
+313
+01:08:06,280 --> 01:08:17,560
+In agriculture in which agriculture in Marx's time was sort of set aside it was of course the largest employer of labor and merit
+
+314
+01:08:17,560 --> 01:08:37,440
+Much of society was organized on terms of peasant based production and and and the like and Marx is talking about that situation and recognises here too that there's a transition in process but it hasn't gone too far as he says
+
+315
+01:08:37,440 --> 01:08:53,130
+At the same time capital creates the material conditions for a new and higher synthesis a union of agriculture and Industry on the basis of the forms that have developed during the period of their antagonistic isolation
+
+316
+01:08:53,130 --> 01:09:01,480
+Capless production collects the population together in great centers and causes the urban population to achieve an ever-growing preponderance
+
+317
+01:09:01,480 --> 01:09:07,720
+This has two results and the one had it concentrates the historical motive power of society
+
+318
+01:09:07,720 --> 01:09:17,190
+On the other hand it disturbs the metabolic interaction between man and the earth so suddenly we're back to the metabolic relation to nature
+
+319
+01:09:17,190 --> 01:09:23,319
+It prevents the return to the soil of its constituent elements consumed by men in the form of food and clothing
+
+320
+01:09:23,319 --> 01:09:30,490
+Hence it hinders the operation of the eternal natural condition for the lasting fertility of the soil lasts
+
+321
+01:09:30,490 --> 01:09:43,390
+It destroys at the same time the physical health of the urban worker and the intellectual life of the rural worker thereby destroying the circumstances surrounding that metabolism which originated in a merely natural and spontaneous fashion
+
+322
+01:09:43,390 --> 01:09:52,109
+It compels its systemic restoration as a regulative law of social production and in a form adequate to the full development of the human race
+
+323
+01:09:52,109 --> 01:10:12,070
+The dispersal of the rural workers over large areas breaks their power of resistance while concentration increases that of the urban workers in modern M agriculture as in urban industry the increase in the productivity and the mobility of labour is purchased at the cost of laying and debilitating Labor power itself
+
+324
+01:10:12,070 --> 01:10:19,810
+Moreover all progress in capitalist agriculture is a progress in the art not only of robbing the worker but of robbing the soil
+
+325
+01:10:19,810 --> 01:10:28,870
+All progress in increasing the fertility of the soil for a given time is a progress towards ruining the more long-lasting sources of that fertility
+
+326
+01:10:28,870 --> 01:10:39,430
+The moral country proceeds from the scale industry as the background of its development as in the case of the United States the more rapid is this process of destruction
+
+327
+01:10:39,430 --> 01:10:53,800
+Capitalist production therefore only develops the techniques and degree of combination of the social process of production by simultaneously undermining the original sources of all wealth the soil and the worker
+
+328
+01:10:53,800 --> 01:11:40,300
+So Marx is saying that the depletion by capital of natural resources is equivalent a depletion of the productive capacities of the working class through the processes of industrial production extensions of the working-day increasing intensity loss of autonomy and that at the same time as there are these Glimmers of Hope through education technological change the fact that capital at certain point is going to require a massive mass educated workforce and what is fluid and capable of moving from one place to another In order to meet the needs of industrial production
+
+329
+01:11:40,300 --> 01:11:57,700
+Ok took rather longer than I wanted but I wanted to emphasize the thing there are these many issues that crop up in this chapter which are very much about what how we're going to respond today to artificial intelligence
+
+330
+01:11:57,700 --> 01:12:04,130
+In what ways artificial intelligence is going to have a transformative effect on our mental conceptions of the world
+
+331
+01:12:04,130 --> 01:12:11,410
+What'S it going to do the Labour process how's it going to be integrated into processes of social reproduction
+
+332
+01:12:11,410 --> 01:12:13,790
+What'S the metabolic relation to nature
+
+333
+01:12:13,790 --> 01:12:14,870
+Look like you know
+
+334
+01:12:14,870 --> 01:12:18,110
+There are all these kinds of questions which it seems to me
+
+335
+01:12:18,110 --> 01:12:29,369
+Marx is getting at in this chapter so we even though some of it feels a bit dated and particular to DES Marx's own perspective
+
+336
+01:12:29,369 --> 01:12:38,369
+The general question he's raising and trying to deal with general questions which is still with us and still need to be thought about
+
+337
+01:12:38,369 --> 01:12:41,340
+I think fairly seriously
+
+338
+01:12:41,340 --> 01:12:56,130
+It'S not the Marx has the answers but that I think Marx is asking the right set of questions and once we consider those questions and ask about you know for instance the depletion of the soil and Exxon
+
+339
+01:12:56,130 --> 01:13:09,079
+We find a whole series of very important issues which can be the center of considerable debate and behind it list is is this kind of question
+
+340
+01:13:09,079 --> 01:13:13,550
+What kind of technology would we want to see developed
+
+341
+01:13:13,550 --> 01:13:21,380
+What what is it that is actually giving us the trajectory of certain technologies
+
+342
+01:13:21,380 --> 01:14:05,969
+We know I mean just in terms of the history of medicine that medical technologies were you know way way ahead for white working-class yeah white working-class but why you know push people and so you know the technology of dealing with heart attacks is kind of way way Ahead but the technology of dealing with sickle cell anemia or something like that or distinctively proletarian problems is very defective
+
+343
+01:14:05,969 --> 01:14:16,019
+So the there's always this class element and there's always within this realm of technological production which we kind of tend to view as being kind of well It'S just out
+
+344
+01:14:16,019 --> 01:14:26,429
+There is happening all over the place but behind it that there is a class project and and there or there may be a class project
+
+345
+01:14:26,429 --> 01:14:44,640
+Let me put like that which deserves to be investigated and interrogated are the new technologies coming on new technologies which are beneficial to everyone or do they have a class bias or as in the case of the machines where Marx is talking about Luddite
+
+346
+01:14:44,640 --> 01:14:58,620
+Is it a case that the technology is potentially valuable from the standpoint of a socialist future but it gets perverted by a capitalist social relations and capital mentor and did something completely different
+
+347
+01:14:58,620 --> 01:15:00,270
+Is that the problem
+
+348
+01:15:00,270 --> 01:15:01,260
+What so what is the
+
+349
+01:15:01,260 --> 01:15:14,670
+What is the nature of the technological problem right now and and what are the consequences of the pursuit of technological fixes which are constantly focused on increasing the productivity of labour
+
+350
+01:15:14,670 --> 01:15:30,620
+Because if you increase the productivity of labour you are as Marx pointed out systematically committed to the expansion of the market and the expansion of the terrain from which you're going to draw your raw materials
+
+351
+01:15:30,620 --> 01:15:42,630
+That is if as has been argued in recent years there's been an incredible burst of extractivism around the world extractivism of raw materials around the world
+
+352
+01:15:42,630 --> 01:15:47,750
+The amount of copper being taken out of the ground has doubled since 2007
+
+353
+01:15:47,750 --> 01:15:56,190
+If that is the case then then you know is that good and and and and that
+
+354
+01:15:56,190 --> 01:16:01,850
+Why is why is that occurring and is that the nature of the capitalist dynamic
+
+355
+01:16:01,850 --> 01:16:09,660
+So Marx is I think setting up a framework in which to think about these things so she you could write an even longer chapter in the Marx
+
+356
+01:16:09,660 --> 01:16:20,970
+Rather so if anybody's looking for a good dissertation topic it would be what would Marx right now if given the information that's available you know so this is this
+
+357
+01:16:20,970 --> 01:16:23,580
+There'S that I think there's something fascinating about this
+
+358
+01:16:23,580 --> 01:16:33,380
+Is this chapter and it's a kind of a a probing it's probing of all of these different different different questions
+
+359
+01:16:33,380 --> 01:16:38,940
+Let me so let me throw it open to sort of you know get some of your reactions and what
+
+360
+01:16:38,940 --> 01:16:59,579
+What do you think about some of these things and what you came up with in terms of thinking about the materials in this chapter who wants to go first yeah thanks again David for a fantastic talk I'd like to take up that invitation
+
+361
+01:16:59,579 --> 01:17:14,909
+Also what you said at the start and ask something: that's been pondering me driving planning about the concepts that all value is created by labor and not by machines
+
+362
+01:17:14,909 --> 01:17:19,130
+I understand the logic of that and it has a great logic to it
+
+363
+01:17:19,130 --> 01:17:43,110
+But then when I look at some of the new technology firms Facebook Google and so on which creating massive profits and we're not basically heading towards fresher monopoly profits and it's it's hard to look at that and see the value in there
+
+364
+01:17:43,110 --> 01:17:50,250
+That'S been you know it's a function of Labor of the employees or the contractors of the organization
+
+365
+01:17:50,250 --> 01:17:57,960
+I understand you know you can sort of think of it in terms of all the dead labor involved in the technology the software and the hardware and so on
+
+366
+01:17:57,960 --> 01:18:13,800
+But I'm not sure whether I don't find that entirely convincing as to theorizing about this new form of capital and I'm wondering whether you've thought about that is it
+
+367
+01:18:13,800 --> 01:18:16,380
+Is it more like finance capital
+
+368
+01:18:16,380 --> 01:18:18,119
+Is it something totally different
+
+369
+01:18:18,119 --> 01:18:20,790
+We need if Marx were writing a dissertation
+
+370
+01:18:20,790 --> 01:18:28,130
+These days how would he write about something often think about that
+
+371
+01:18:28,130 --> 01:18:36,920
+Well let me say two preliminary things: okay what Marx argues in capital by the time you get to the end of volume 3
+
+372
+01:18:36,920 --> 01:18:52,440
+Is this you're not looking at a situation where you have to discuss the the individual production of value in a firm or anything else that in effect all productive labor produces value and image
+
+373
+01:18:52,440 --> 01:19:07,950
+You can use it and it all goes into one big pot and then people draw from the appropriate from that part according to the capital air bounce and it's a kind of interesting thing: you contribute to the total value of society
+
+374
+01:19:07,950 --> 01:19:09,560
+According to the labor you employ
+
+375
+01:19:09,560 --> 01:19:18,980
+You take from society according to the capital you advanced now on that principle
+
+376
+01:19:18,980 --> 01:19:26,490
+Anybody who advances a lot of capital but employs no labor can actually withdraw a great deal of the value
+
+377
+01:19:26,490 --> 01:19:36,980
+So the fact that you will find industrials and parts of the segments of the division of labor where very little labor is deployed but you see a high rate of profit and all rest of it
+
+378
+01:19:36,980 --> 01:19:38,670
+That is being done
+
+379
+01:19:38,670 --> 01:19:42,690
+That has been achieved through this other mechanism which is the equalization of the rate of profit
+
+380
+01:19:42,690 --> 01:19:45,080
+So that's the first thing I want to say
+
+381
+01:19:45,080 --> 01:19:49,740
+I don't think it covers entirely what you're talking about the second thing is
+
+382
+01:19:49,740 --> 01:20:00,300
+Okay I think it's important to say something like Google how where's the labor coming from and and of course the point about Google
+
+383
+01:20:00,300 --> 01:20:14,760
+Is it's actually going back to a almost a putting out system we're actually providing the labor right and we're pride
+
+384
+01:20:14,760 --> 01:20:21,060
+It there's a massive amount of value which is which you and I and everybody else is creating by our use of Google
+
+385
+01:20:21,060 --> 01:20:22,770
+I mean two things go on
+
+386
+01:20:22,770 --> 01:20:30,560
+We are in the condition of what Alvin Toffler called we reactors and prosumers
+
+387
+01:20:30,560 --> 01:20:34,590
+That is we are both consuming and producing it
+
+388
+01:20:34,590 --> 01:20:51,060
+At the same moment when we get on Google - and we are actually you know - we're providing Google with some information which is vital so there's the amount of the amount of value so so be careful about these
+
+389
+01:20:51,060 --> 01:21:00,840
+Of these firms that appear as if you know Nova there's no no not much labour employed but they're getting fast amount of profits
+
+390
+01:21:00,840 --> 01:21:05,070
+Therefore they they can't be producing that much value well
+
+391
+01:21:05,070 --> 01:21:26,020
+Actually if every user of Google is producing something for Google then that value needs to be taken into account and I think actually Google is a massive source of value creation right now through through the fact that there are so many people are using it
+
+392
+01:21:26,020 --> 01:21:30,610
+All of the time the same thing about Facebook and all the rest of it that you create the information
+
+393
+01:21:30,610 --> 01:21:33,070
+So that's the second thing
+
+394
+01:21:33,070 --> 01:22:09,400
+The third thing is I think where I you know you are headed and I think this is this is this is right to ask the question: it's not easy to look at some of these contemporary forms of organizations like Google and Facebook and Amazon and it's not Easy to look at them and say: well you could simply plug them into the Marxist formulation and and everything is going to be ok because I just don't think that's correct
+
+395
+01:22:09,400 --> 01:22:13,030
+I don't my first two comments
+
+396
+01:22:13,030 --> 01:22:22,450
+Make it probably make it sound like I'm trying to defend Marx nope you don't have to change anything cuz he's right and so I don't want to go go there but I do want to say that there is
+
+397
+01:22:22,450 --> 01:22:38,190
+There are those elements which I think it's important to take into account but at the same time there is there are some very important issues right now about you know what is value how to understand value in the contemporary situation
+
+398
+01:22:38,190 --> 01:22:49,620
+For instance what do we produce when we're producing value for for Google we're producing information Is information value
+
+399
+01:22:49,620 --> 01:22:51,340
+Is it reasonably
+
+400
+01:22:51,340 --> 01:23:21,360
+If information is value then you know we have to start talking about all kinds of information being value and what kind of information is value and what is not but Google's operation you see is taking all of that information and then valorising it I mean mark says He has this interesting kind of language where he talks about the valorisation moment
+
+401
+01:23:21,360 --> 01:23:51,460
+If Google simply took the information and spread it out and said you caught you all can use it it would not be valorized because it would not be part of the circulation of capital but what Google is especially specializing in is taking information and valorising it and Turning it into but that means that you take the information and you turn it into a proprietary form
+
+402
+01:23:51,460 --> 01:24:07,350
+You can modify it which I it into a commodity because we when we're making the information are not actually making a commodity we're just we're just using it and we're prosumers
+
+403
+01:24:07,350 --> 01:24:49,720
+So it has to be commodified at a certain point and it's that commodification of commodification which allows for Google to say they own this information and I think it's the ownership of the information becomes very important and of course this is this is the ownership of something Starts to become very significant like this this controversy over the opening of Hudson Yards and what's that crazy thing called the vessel what is it called the vessel Is it anyway
+
+404
+01:24:49,720 --> 01:24:56,460
+I mean the designers of it say: no no not the shed the crazy walk thing
+
+405
+01:24:56,460 --> 01:25:00,430
+The vessel yeah well well the designers kind of said
+
+406
+01:25:00,430 --> 01:25:14,410
+You know everybody could go on it and do what they want and they can take as many photos of the like but they had a proprietary right for commercial use of any image of it that anybody put on Facebook
+
+407
+01:25:14,410 --> 01:25:24,940
+So if you took an image - and you put it on Facebook the designers are the things that they could use it and and you couldn't charge them for use it
+
+408
+01:25:24,940 --> 01:25:41,370
+In other words this is a very interesting concept right I mean if let's suppose let's suppose somebody takes a brilliant kind of image and puts it on Facebook then the company could come along and take it and turn it into postcards and sell
+
+409
+01:25:41,370 --> 01:25:44,940
+It was postcards or something like that or sell it on the internet or something like that
+
+410
+01:25:44,940 --> 01:26:00,738
+In other words this is the valorisation is not in the ax marks primarily looks upon about the operation of valorisation as being the application of labor in the production of a commodity
+
+411
+01:26:00,738 --> 01:26:35,870
+but it is but I think there's more to valorization than simply That there's also the valorisation that comes with actually exercising a proprietary right but that's something that's different and Marx doesn't deal with and it seems to me that this then redefines and the value stream and it says that anything that is turned into a proprietary right information Knowledge or something of that kind is and is commodified then enters into what value is about
+
+412
+01:26:35,870 --> 01:26:39,600
+So I think that there is there
+
+413
+01:26:39,600 --> 01:26:41,040
+There are some serious modifications
+
+414
+01:26:41,040 --> 01:27:00,780
+This is the way I would start to to look at the problem but I'm but I'm not I'm not sure this is far enough or that it deals with what the consequences are saying
+
+415
+01:27:00,780 --> 01:27:09,290
+Well the exercise of any proprietary right over anything and commodification actually then introduces a value element into
+
+416
+01:27:09,290 --> 01:27:15,540
+But then the question is well: how much value is there in the original element that gets commodified this way
+
+417
+01:27:15,540 --> 01:27:53,660
+So there's a lot of problems with with what I'm saying - and I know that but but you know yeah I I think that we need to rethink to some degree what the value theory is about and what the role of labor is in in that and recognize That these indirect forms of labour are potentially significant in within within this complex structure
+
+418
+01:27:53,660 --> 01:28:04,760
+So my question is related with the last part that you were mentioning about the labor forms and basically I was thinking about which is the place of this chapter in the capital
+
+419
+01:28:04,760 --> 01:28:19,640
+As a whole and basically one of the questions that I have is how to think the conceptual and categories that he is using to demonstrate certain development a certain argument
+
+420
+01:28:19,640 --> 01:28:28,610
+So if machine is like the capital capital is formed by excellence to think why is he he's
+
+421
+01:28:28,610 --> 01:29:04,330
+Not using categories such as a abstract labor for instance I think that will be interesting to notice that the dialectics of the negative and the positive would change radically if we think in terms of how machine is reproducing or not abstract labor and in that sense it Would also change the idea of what is socialism because if we read this this chapter through a Leninist a perspective I think we can find many of his state and revolution arguments of using even like Taylor East
+
+422
+01:29:04,330 --> 01:29:10,160
+So how to think a machinery and even state status
+
+423
+01:29:10,160 --> 01:29:27,640
+Such as within that logic that we should criticize from the previous categories that he's using in the first part of the book I I think this chapter is based in very much on the idea of abstract labor
+
+424
+01:29:27,640 --> 01:29:34,540
+So I think that that that would not bother me what what is interesting
+
+425
+01:29:34,540 --> 01:29:48,832
+However is this moment where he's kind of saying you know the abstract labor structures carry within them the possibility of conversion into something different
+
+426
+01:29:48,833 --> 01:30:00,650
+where abstract labor would not be the objective what the machines are about but something else is going going to be involved
+
+427
+01:30:00,650 --> 01:30:11,520
+So I think that's important this The second point: I can only give my own sort of response to it
+
+428
+01:30:11,520 --> 01:30:34,320
+Probably most of you will disagree with this but in the same way that I think that the creation of contemporary capitalism started off having to appropriate the technologies of a proceeding mode of production
+
+429
+01:30:34,320 --> 01:31:01,420
+So I think it's inevitable that any move towards socialism will have to be based on the current technologies and in the same way that Marx talks about the the reconfiguration of the way those technical technologies were set up under feudalism in the transition to capitalism
+
+430
+01:31:01,420 --> 01:31:07,690
+We can imagine a situation where you would say all right: we've got the contemporary technologies
+
+431
+01:31:07,690 --> 01:31:19,000
+Can we put them together in a different way for a different social purpose but there will be no real change in the technologies and I think to some degree
+
+432
+01:31:19,000 --> 01:31:30,150
+I have a sympathy with Lenin that he looked to Taylorism and he looked to Fordism as being the superior
+
+433
+01:31:30,150 --> 01:31:43,740
+You know industrial forms that could that had the productivity to actually produce the armaments they needed they want to build tanks and they needed something
+
+434
+01:31:43,740 --> 01:32:33,600
+So I have a certain sympathy with the fact that he took over the fordist structures and said: okay we're going to use these at the base as the base where I would start to be critical is to kind of say that at a certain point say around Around the time when Stalin came here and then started doing Stalinist things around that around that point there there had been a very interesting period of discussion about new economic policy and all the rest of it and there was the beginnings of a sort of argument about
+
+435
+01:32:33,600 --> 01:32:55,080
+Well what kind of alternative technologies would we need to set up and so I think if there was a if there was a failure in the Soviet revolution it was that it
+
+436
+01:32:55,080 --> 01:33:00,860
+It didn't go very far in asking that kind of question
+
+437
+01:33:00,860 --> 01:33:19,830
+It even got to the point of taking the value theory as a normative requirement and then said about saying: well what kind of organizational forms can we set up which within this what in effect is a capitalist values structure
+
+438
+01:33:19,830 --> 01:33:26,640
+What kind of communist forms can be set up and of course they did did some very interesting things
+
+439
+01:33:26,640 --> 01:33:29,250
+I mean they invented input-output analysis
+
+440
+01:33:29,250 --> 01:33:43,320
+They there are many technological areas where Soviets were way ahead of even of contemporary capitalism because but at the same time they were not actually really thinking about all right
+
+441
+01:33:43,320 --> 01:34:17,010
+What kind of value theory should exist in a socialist society and what kinds of technologies would be necessary to reorganize productive activity with the aim of as Marx puts it creating a realm of freedom in which the realm of necessity has been left behind I mean if That would be one of the objectives of a socialist revolution and the question would be: what kind of technologies do we have we're going to do that
+
+442
+01:34:17,010 --> 01:34:48,960
+I think that there's a right now there is a real necessity to actually offer a critique of a lot of the the capitalist technologies which which have become I mean we have an enormous array now of household technologies for example which is supposed to be labor saving And time-saving which seemed like John Stuart Mill pointed out have exactly the opposite effects
+
+443
+01:34:48,960 --> 01:35:08,460
+They take up time and they dominate time and the result is that people don't have free time because they're so busy managing all of these technologies which are supposedly freeing up - and I mean you know there's a real contiki might and and actually there's a there's
+
+444
+01:35:08,460 --> 01:35:35,460
+A parallel to Marx's chapter on technology that I think needs to be written which is to ask the question: to what degree have we become an appendage of capital in our consumerism and to what degree you know I mean other when I was taking taking this and Kind of saying let's okay Marx has done this in the world of production
+
+445
+01:35:35,460 --> 01:36:05,270
+We can do the same thing about consumption right now to what degree I mean toward degree are we autonomous in our consumer choices really autonomous as opposed to yeah fictionally autonomous in the sense that we can go into a shopping mall and we can choose this shirt Versus that shirt or this brand of toothpaste versus that or that shampoo versus something else you know I mean tremendous range of supposed choice
+
+446
+01:36:05,270 --> 01:36:20,150
+But but to what degree are we really autonomous and have we been turned into appendages of a capitalist consumption regime
+
+447
+01:36:20,150 --> 01:36:34,020
+And when you look at what Marx is saying here that ok this technological dynamism is associated with increasing output an increase in capital
+
+448
+01:36:34,020 --> 01:36:36,800
+Well that needs an increasing market
+
+449
+01:36:36,800 --> 01:36:39,830
+How is that going to be structured
+
+450
+01:36:39,830 --> 01:36:50,100
+Marx makes the assumption in this in this volume that there was no all commodity exchange that their value there's no problem in the market but here he points out yeah
+
+451
+01:36:50,100 --> 01:36:50,940
+There is a problem
+
+452
+01:36:50,940 --> 01:37:09,390
+The problem is that you need to globalize the market in order to dispose of this immense amount this mass of commodities and if there was a mass of commodities that was crying out for absorption and and marketing back in you know Marx's time yeah
+
+453
+01:37:09,390 --> 01:37:15,950
+What is it like now you know i this is a This is a
+
+454
+01:37:15,950 --> 01:37:49,770
+I mean again be very interesting to write a chapter like Marx on contemporary consumption and look at that and say you know just imagine writing a little book and kind of saying oh yeah we're appendages of them are of the capitalist consumption machine and we have no Choices about it we're we're basically sort of pinned in and and and in fact what's happening is what has happened
+
+455
+01:37:49,770 --> 01:38:04,500
+Is the capital has defined a certain mode of living a certain mode of of everyday life and certain conditions of everyday life and you've got to conform to that I'M too bad
+
+456
+01:38:04,500 --> 01:38:09,410
+If you don't have sufficient money to do that because then you're really in a mess
+
+457
+01:38:09,410 --> 01:38:39,870
+So so I think the hope the whole kind of question of the critique of technology and and a critical approach to technology and remember in that footnote Mars kinda said: there's not been a proper critical history of technology and I think you know we
+
+458
+01:38:39,870 --> 01:38:57,730
+We have now kind of Science and Technology departments and so on and the good ones yeah recognize some of this coming from Marx and and have some critique involved but but the critique has become more and more kind of silenced
+
+459
+01:38:57,730 --> 01:39:01,289
+I mean technological change is a good thing
+
+460
+01:39:01,289 --> 01:39:25,869
+What are all the big philanthropists to try to solve the global problem in the world by developing new technologies and I think yeah a critical engagement with what technologies are about and to see technological evolution as actually deeply implicated
+
+461
+01:39:25,869 --> 01:39:36,880
+In in the whole dynamics of class struggle just simply to take that position ality for a little bit look at things and you get a very very very critical kind of perspective
+
+462
+01:39:36,880 --> 01:39:47,650
+I mean I remember this time when there was all this excitement about the new techniques of production
+
+463
+01:39:47,650 --> 01:39:56,889
+Action in in the sort of 1970's and early 80's called flexible specialization and people were saying This is great
+
+464
+01:39:56,889 --> 01:39:59,260
+A lot of people on the Left were saying
+
+465
+01:39:59,260 --> 01:40:20,650
+This is great flexible specialization who can be against it an hour or one of the things I did in the condition of post modernity and deceive us to say: flexible specialization equals flexible accumulation and as soon as you look at it as standpoint of flexible accumulation you See that actually this hole is so
+
+466
+01:40:20,650 --> 01:40:37,949
+Technological evolution was very much class biased and class based with class effects which were the disempowerment of workers and our workers more empowered now than they were in 1980
+
+467
+01:40:37,949 --> 01:40:56,050
+No way flexible specialization did a great job for capital as a form of encouraging flexible accumulation and that was a head of technological organizational base
+
+468
+01:40:56,050 --> 01:41:06,409
+So so I I think that you know this these questions of what what can be used and what
+
+469
+01:41:06,409 --> 01:41:17,449
+What and how it can be used and we we still need I think perpetual hammering on this kind of question of what is it
+
+470
+01:41:17,449 --> 01:41:25,460
+What what is the critical history of technology that we're looking at and what is the critical perspective that we want to take now
+
+471
+01:41:25,460 --> 01:41:28,809
+Marx'S perspective on this is I think interesting
+
+472
+01:41:28,809 --> 01:41:37,159
+You don't want to get into a situation by saying all technology is bad and that every process is bad
+
+473
+01:41:37,159 --> 01:41:46,250
+You'Ve really got to start to do a critical kind of thing and ask some of these questions which may not be well posed at the end here which is okay
+
+474
+01:41:46,250 --> 01:41:59,650
+What what is there going on in all of this which has some sort of opening that we could start to think about appropriating it for a radically different purpose than the purpose to which capital puts it
+
+475
+01:41:59,650 --> 01:42:16,219
+Is there something going on here and I would argue yeah there's a lot going on which has this possibility but you can't see it simply as a technological fix but technology is not going to give you the future
+
+476
+01:42:16,219 --> 01:42:57,949
+It'S going to take something else but you're not going to get the future without that without a technological transformation either which is why I you know went over there was that initial relationship and the footnote why the footnote is so important because in effect I mean one Of the principles you could argue is that and until you can insulate technology from the dominant social relation of capital there is no way there will be anything coming out of technology there's anything other than contributing to the further accumulation of capital I mean
+
+477
+01:42:57,949 --> 01:43:09,880
+Maybe it's a bit too deterministic but on the other hand has a principle: it's not it's not a bad guiding principle to start start there with thinking and then think about defying the argument
+
+478
+01:43:09,880 --> 01:43:23,340
+But but it's a it's a very interesting kind of set of set of questions
+
+479
+01:43:23,340 --> 01:43:36,190
+Hi you've talked about your edition of institutional arrangements or institutional organizations as a crucial element to historical materialist analysis
+
+480
+01:43:36,190 --> 01:43:50,670
+I was wondering how you distinguish those institutional organization organizational arrangement arrangements from social relations which are already sort of delineated in the elements
+
+481
+01:43:50,670 --> 01:43:56,050
+Well the you know the the point I think about all of those elements I'm talking about
+
+482
+01:43:56,050 --> 01:43:57,429
+Is she really at some point
+
+483
+01:43:57,429 --> 01:44:07,440
+They all sort of fuse into each other but the way I would look at it is this is that the the field of social relations is one thing
+
+484
+01:44:07,440 --> 01:44:14,482
+The field of the law just to take one set of institutional arrangements is another
+
+485
+01:44:14,482 --> 01:44:24,358
+and obviously the law tries to codify certain things about social relations but social relations are much more fluid than the law
+
+486
+01:44:24,358 --> 01:44:47,821
+and we're seeing a situation right now where a political situation which Is very fluid and very dynamic in lots of ways there's a tremendous desire and the part of many people to stabilize it by saying we should we should appeal to the rule of law
+
+487
+01:44:47,821 --> 01:45:04,449
+and then the question arises: well can you change the law and how does That all get changed so institutions I think and and to the degree that they they they they become kind of solidified and develop
+
+488
+01:45:04,449 --> 01:45:23,880
+And this is again the point Marx wants to make is that when you're looking at institutions you're looking at something which evolves not necessarily in response to requirements of social relations or the requirements you know requires requirements as a metabolic relation to nature
+
+489
+01:45:23,880 --> 01:45:41,400
+It is something that has its own autonomy and autonomous form and we have to understand that its own autonomy is such that there will be Intel developments within the legal community and within the law which lead to transformations in practices and all the rest of it
+
+490
+01:45:41,400 --> 01:45:59,820
+And those transformations are therefore have to be understood not necessarily as a product of a transformation of technology or something else but as a as something that's related to now
+
+491
+01:45:59,820 --> 01:46:16,190
+One of the things that's going to happen in the law for example is that artificial intelligence is going to play a very important role in in legal analysis that law clerks who go and research
+
+492
+01:46:16,190 --> 01:46:28,080
+You know background stuff right now it could be gon na be out of a job it will all be automated and either be artificial intelligence and there's a lawyer
+
+493
+01:46:28,080 --> 01:46:32,580
+You want to get you know case histories or something like that
+
+494
+01:46:32,580 --> 01:46:48,540
+You just talked to Fred the artificial intelligence and say give me all of the cases on this and Fred will go off into a research and in five minutes we'll give it back to you which is far faster than a law
+
+495
+01:46:48,540 --> 01:46:50,060
+Clerk will do it
+
+496
+01:46:50,060 --> 01:47:05,431
+So so yeah I mean the technology will affect the law but the institution of the law has its own has its own dynamic and you can say that about the institution of a central bank
+
+497
+01:47:05,431 --> 01:47:45,793
+the one central banks are set up they develop develop their own traditions Or dynamics and they and then people try to intervene and transform them from outside as Trump is trying to do it'll be interesting to see if he can do it because to some degree the central bank has always been oh answerable not sure the President of the United States or two yeah even congressional it's been answerable to quote the capitalist class as a as a class interest
+
+498
+01:47:45,793 --> 01:47:50,760
+and you know turning it into something: that's answerable to somebody's personal interest
+
+499
+01:47:50,760 --> 01:48:05,282
+It'S not in the interest of the capitalist class so it'll be interesting to see how fast and far the capitalist class will go in pushing and saying these last two appointments you've made to the central bank are not going to be approved
+
+500
+01:48:05,282 --> 01:48:21,368
+and made clear to the President there's no way anybody of that sort is going to be approval to them It would be interesting to see to what degree that that happens but the institution arrangements yeah of course they're about the codification of social relations
+
+501
+01:48:21,368 --> 01:48:30,329
+ and the law is about - has a lot to say about the codification of social relations but there's their changing
+
+502
+01:48:30,329 --> 01:48:41,219
+All of the time as we know - and you know but the dynamic is is sort
+
+503
+01:48:41,219 --> 01:48:54,419
+So if you what I mean I think watching the documentary and the movie about Ruth Ginsburg is kind of interesting
+
+504
+01:48:54,419 --> 01:48:55,289
+This way I mean it's
+
+505
+01:48:55,289 --> 01:49:03,209
+Of course it's presented as the the great individual who did something you have to put it that way because that's the only way American audience was absorb it
+
+506
+01:49:03,209 --> 01:49:25,649
+So you you but but on the other hand there's a certain persistence about her within the law kind of when she's confronted with I didn't know what it was: 278 federal regulations which discriminate against women and she basically said we're going to take him down one by One and you know for 30 years - that's what she's been doing and that is something that's internal within the law
+
+507
+01:49:25,649 --> 01:49:35,189
+It wouldn't have happened that way if it were not for the fact that you know people are on the streets and there was a feminist movement and all these other things which both movies entirely ignore
+
+508
+01:49:35,189 --> 01:49:39,560
+Apart from that Gloria Steinem has mentioned a couple of times one
+
+509
+01:49:39,560 --> 01:49:53,630
+It was something but but nevertheless the the the story is told is a very interesting story of a lifetime commitment to the transformation of a body of law and she obviously did an extremely good job
+
+510
+01:49:53,630 --> 01:50:02,930
+But in terms of doing that and - and I think that that here you see how the autonomy of the legal set has an important quality to it
+
+511
+01:50:02,930 --> 01:50:20,720
+So somebody within it can attempt to change it and transform it in certain kind of progressive ways and - and I think it's it's - I think it's a very it's important movie to look at right now because it says to you: revolutions don't occur overnight
+
+512
+01:50:20,720 --> 01:50:30,500
+It takes a lifetime of you know taking each regulation one by one and and and dismantling it and of course it moves backwards as well as forwards
+
+513
+01:50:30,500 --> 01:50:55,389
+It doesn't there's no teleology involved here to keep it going forward is very hard and of course it's now kind of stasis position
+
+514
+01:50:55,389 --> 01:51:07,989
+No great thoughts about this
+
+515
+01:51:07,989 --> 01:51:22,060
+I don't know if this is a great thought or not but in terms of what you were talking about our using the I'm using the technology
+
+516
+01:51:22,060 --> 01:51:41,370
+That'S already existing in order to make a new society that that that the new technology is our premise the most barbaric forms of labor
+
+517
+01:51:41,370 --> 01:52:15,600
+In order to in order to make the plastics in order to make you know to to do the mining to get the material and all of this to part that all those people who are so marginalized in order to have the new technology it seems like people Who are talking about creating a new society based on technology are casting them aside as if they don't exist
+
+518
+01:52:15,600 --> 01:52:37,780
+No I think I think that's a real issue and I you know there's this tendency to regard technology as something in itself and of itself and without taking the implications of what it might mean or all kinds of other levels which seems to me Marx is suggesting
+
+519
+01:52:37,780 --> 01:52:42,400
+We should be cognizant of in terms of his well
+
+520
+01:52:42,400 --> 01:52:57,670
+This new technological dynamism which we see in Lancashire is actually having disastrous effects on the handicraft industry in India at the same time as India is being pushed into the sort of becoming a raw material producer
+
+521
+01:52:57,670 --> 01:53:08,860
+For the British textile industry and so and what does that mean in terms of the conditions of life of late and labor of those populations
+
+522
+01:53:08,860 --> 01:53:15,870
+And I think that that this is why why I'm saying a critical history of technology is always required and a critical perspective
+
+523
+01:53:15,870 --> 01:53:24,030
+Always asking these questions: what are these secondary effects of this technology which is going to improve productivity and then say
+
+524
+01:53:24,030 --> 01:53:25,680
+Well you need a bigger market
+
+525
+01:53:25,680 --> 01:53:27,060
+How do you get the bigger market
+
+526
+01:53:27,060 --> 01:53:36,120
+Well people have to stop exercising their own consumer choice and we have to force them through certain kinds of consumer choices and the same thing about yeah
+
+527
+01:53:36,120 --> 01:53:40,820
+So I think there's something very significant of that sort
+
+528
+01:53:40,820 --> 01:54:13,550
+We have about 10 minutes left and I just want to talk about the next chapter in here because next time I'm sort of going to jump ahead a little bit since we timing is you know of the essence and I want to get into part part six Which is chapter 19
+
+529
+01:54:13,550 --> 01:54:19,739
+Sorry no I want to get yes I want to know
+
+530
+01:54:19,739 --> 01:54:29,180
+I want to get into part 7 and - and I want to next time to talk about chapter 23 and 24
+
+531
+01:54:29,180 --> 01:54:47,580
+Okay so we're gon na try three and 20 for the next section of capital is has begins with this chapter on absolute and relative surplus-value which is a crucial chapter
+
+532
+01:54:47,580 --> 01:54:52,560
+So let me just briefly say something about it
+
+533
+01:54:52,560 --> 01:55:11,303
+So far we've largely considered the condition of the labourer as being an individual condition but what Marx does here is to say we have to start to look at the Labour process as a collective enterprise
+
+534
+01:55:11,303 --> 01:55:30,058
+and then he kind of says that the solitary man, On the first page of 643 just as head and hand belong together in the system of nature so in the labour process mental and physical labor are united
+
+535
+01:55:30,058 --> 01:55:48,341
+later on they become separate and this separation develops into a hostile antagonism essentially with capital dominating the mental functions And the with labor left with the purely physical functions
+
+536
+01:55:48,341 --> 01:56:04,369
+but we also have to consider the product is transformed through the joint as a joint product of a collective laborer and we therefore have to consider the condition of the productive labor in order to work productively
+
+537
+01:56:04,369 --> 01:56:11,670
+He says at the bottom of the pages is no longer necessary for the individual himself to put his hand to the object
+
+538
+01:56:11,670 --> 01:56:15,239
+It is sufficient for him to be an organ of the collective laborer
+
+539
+01:56:15,239 --> 01:56:16,829
+Now this is a problem
+
+540
+01:56:16,829 --> 01:56:42,840
+Where does the collective laborer begin and end in a factory you'll find somebody actually doing the making there'll be somebody who's cleaning the floor there'll be somebody had been pushing this around so in a sense what Marx is saying all of them a part of the value Production because they're part of the collective laborer involved this poses a problem of what happens when capital starts to subcontract services to somebody else
+
+541
+01:56:42,840 --> 01:56:55,800
+There'S a problem about where the collective labor begins and ends if the definition of productive labor given above the original definition is derived from nature of material production itself
+
+542
+01:56:55,800 --> 01:57:00,650
+And it remains correct for the collective laborer considers as a whole
+
+543
+01:57:00,650 --> 01:57:07,860
+But it no longer holds good for each member taken individually so an individual can be working in a factory and not doing anything
+
+544
+01:57:07,860 --> 01:57:23,540
+That'S productive in the ordinary sense of Marx has been describing it but they're still part of the collective laborer so they're contributing their labor to the project of the collective activity and then Marx says the concept of productive labor also becomes narrower
+
+545
+01:57:23,540 --> 01:57:25,500
+Capitalist production is not Mary
+
+546
+01:57:25,500 --> 01:57:33,329
+The production of commodities - it is the production of surplus-value the worker produces not for himself but for capital
+
+547
+01:57:33,329 --> 01:57:34,650
+It is no longer sufficient
+
+548
+01:57:34,650 --> 01:57:39,519
+Therefore here for him simply to produce he must produce surplus-value
+
+549
+01:57:39,519 --> 01:57:49,780
+The only worker who is productive says Marx is one who produces surplus value for the capitalist or in other words contributes towards the self valorisation of capital
+
+550
+01:57:49,780 --> 01:57:53,940
+This is a very special definition of productivity
+
+551
+01:57:53,940 --> 01:58:05,559
+The there's also some labour going on in society which as far as Marx is concerned is unproductive and it's unproductive if it does not actually produce surplus value for capital
+
+552
+01:58:05,559 --> 01:58:21,460
+The only labour productivity that capital cares about is that labor productivity which can be harnessed to the production of surplus-value and Marx says if we take an example from outside the sphere of material production
+
+553
+01:58:21,460 --> 01:58:32,000
+A schoolmaster is a productive worker when in addition to belaboring the heads of his pupils he works himself into the ground to enrich the owner of the school
+
+554
+01:58:32,000 --> 01:58:44,610
+So he's interesting: you can get surplus value out of education that the ladder has laid out his capital in a teaching factory instead of a sausage factory makes no difference to the relation
+
+555
+01:58:44,610 --> 01:58:57,610
+The concept of a productive worker therefore implies not merely a relation between the activity of work and it's useful effect between the worker and the product for his work but also a specifically social relation of production
+
+556
+01:58:57,610 --> 01:59:12,780
+A relation with a historical origin which stamps the worker as capital's direct means of valorisation here comes the big sense and down sentence to be a productive worker is therefore not a piece of luck but a misfortune
+
+557
+01:59:12,780 --> 01:59:27,539
+Now this is create a lot of problems because most people want to be productive and if you say to somebody you're unproductive this is kind of considered in our society in particular as a deep deep criticism
+
+558
+01:59:27,539 --> 01:59:33,570
+What Marx is saying is actually to be productive in this society is a misfortune
+
+559
+01:59:33,570 --> 01:59:47,800
+This is one of the arguments I had with many feminists back in the 1880s when when Miriam kind of said there should be yeah wages for housework and you kind of say
+
+560
+01:59:47,800 --> 02:00:00,830
+Well that's nuts you know you're trying to make women productive and I say yeah we women are productive you know and they should be acknowledged as productive and I'm saying but don't you understand that to be a productive worker under capitalist it was a misfortune
+
+561
+02:00:00,830 --> 02:00:07,010
+Why are you urging everybody to become productive It'S so anyway
+
+562
+02:00:07,010 --> 02:00:17,720
+This is an interesting kind of concept but it does carry over in certain kinds of ways now to say you know this is a very special
+
+563
+02:00:17,720 --> 02:00:20,620
+This is capital's definition of productivity
+
+564
+02:00:20,620 --> 02:00:37,070
+It'S not my definition or socialist general social definition of productivity but we should be clear why it is that Marx is saying that to be a productive worker under capitalism misfortune and then he goes on to say
+
+565
+02:00:37,070 --> 02:01:08,050
+I'M he's going to deal with this then comes a point where he starts to say: well there's a thing set up at 6:45: it requires he says a specifically Tablas mode of production mode of production which along with this methods means and conditions arises and develop spontaneously On the basis of the formal sub sumption of labor under capital this form of subsea knees then replaced by a real sub sumption
+
+566
+02:01:08,050 --> 02:01:20,080
+This distinction between formal subsumption and real supportin in Marx's thinking formal sub sumption is something where you are dominated by capital in the market
+
+567
+02:01:20,080 --> 02:01:26,440
+So formal subsumption would be characteristic of the manufacturing period
+
+568
+02:01:26,440 --> 02:01:42,880
+Real subsonic intraoral in the labour process and in the market for most of sumption means that you've become an appendage
+
+569
+02:01:42,880 --> 02:01:47,710
+That'S the appendage condition the formless assumption
+
+570
+02:01:47,710 --> 02:01:54,250
+Formal subsumption is characteristic of the putting out system
+
+571
+02:01:54,250 --> 02:02:11,800
+Ok real substance in the factory in the putting out system when the merchants took the class then asked took the cotton or whatever it was to the peasants hat and told him to weave it
+
+572
+02:02:11,800 --> 02:02:17,280
+The president is in control of their own labor process
+
+573
+02:02:17,280 --> 02:02:30,840
+At the end of the month the merchant will come back and pick up the woven cloth and if it's satisfactory pay them you know but that's that's for most absorption
+
+574
+02:02:30,840 --> 02:02:40,390
+Real substantial is when the peasant goes into the factory and it's and the technology and all the rest of it is under the control of the capitalists
+
+575
+02:02:40,390 --> 02:02:47,100
+So relative surplus-value by and large is associated with formal with real solutions
+
+576
+02:02:47,100 --> 02:02:56,830
+Value is more characteristic of the real of the formal but then mass goes on to say
+
+577
+02:02:56,830 --> 02:03:00,880
+Actually this distinction between absolute and relative surplus-value is really kind of illusory
+
+578
+02:03:00,880 --> 02:03:11,460
+You couldn't have a system that's not absolutes doesn't out where there's no absolute surplus value because absolute surplus value presupposes a certain technological capacity
+
+579
+02:03:11,460 --> 02:03:55,120
+Similarly there's no point in having relative surplus value if there's not also absolute surplus value so at the end of the day there's just surplus value and it and that's significant but it's worthwhile distinguishing between absolute and relative because this distinguishes different strategy: strategic possibilities for the Capitalist in terms of raising productivity do you push further and lengthening the working-day do and maximize intensity or do you innovate in terms of technology and organizational form and this is taken up in the next in the next few pages
+
+580
+02:03:55,120 --> 02:04:03,490
+So read this chapter and I'll probably come back to it on absolute and relative surplus-value
+
+581
+02:04:03,490 --> 02:04:27,310
+The other chapters in here are I'll talk very briefly about them next time but I'm going to skip over them because I want to get to the situation starts after we've done wages and peace wages and things like that
+
+582
+02:04:27,310 --> 02:04:35,820
+Our national differences of wages want to get to the question a simple reproduction and report reproduction on an expanding scale
+
+583
+02:04:35,820 --> 02:04:40,650
+Ok so I guess we're out of time now So
+
+584
+02:04:40,650 --> 02:04:42,070
+Thank you very much
+
+585
+02:04:42,070 --> 02:04:42,069
+Let'S continue with chapters 23 and 24 next time Ok
+
